@@ -1,30 +1,22 @@
 ---
-title: "Manuscript Title"
+title: "Biosemiótica y evolución biológica"
 date: null  # Defaults to date generated, but can specify like '2022-10-31'.
 keywords:
-  - markdown
-  - publishing
-  - manubot
-lang: en-US
+  - biosemiótica
+  - teorías biológicas
+  - darwinismo
+  - evolución
+  - síntesis extendida
+lang: es
 authors:
-  - github: johndoe
-    name: John Doe
-    initials: JD
-    orcid: XXXX-XXXX-XXXX-XXXX
-    twitter: johndoe
-    mastodon: johndoe
-    mastodon-server: mastodon.social
-    email: john.doe@something.com
+  - github: pascalin
+    name: C. David Suárez Pascal
+    initials: CDSP
+    orcid: 0000-0003-2297-5856
+    twitter: pascalin
+    mastodon: pascalin
+    mastodon-server: unam.social
+    email: david.suarez@ciencias.unam-mx
     affiliations:
-      - Department of Something, University of Whatever
-    funders:
-      - Grant XXXXXXXX
-  - github: janeroe
-    name: Jane Roe
-    initials: JR
-    orcid: XXXX-XXXX-XXXX-XXXX
-    email: jane.roe@whatever.edu
-    affiliations:
-      - Department of Something, University of Whatever
-      - Department of Whatever, University of Something
+      - Facultad de Ciencias, Universidad Nacional Autónoma de México
     corresponding: true
