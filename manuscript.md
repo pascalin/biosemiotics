@@ -24,8 +24,8 @@ header-includes: |
   <meta name="dc.date" content="2024-02-22" />
   <meta name="citation_publication_date" content="2024-02-22" />
   <meta property="article:published_time" content="2024-02-22" />
-  <meta name="dc.modified" content="2024-02-22T00:30:03+00:00" />
-  <meta property="article:modified_time" content="2024-02-22T00:30:03+00:00" />
+  <meta name="dc.modified" content="2024-02-22T02:45:29+00:00" />
+  <meta property="article:modified_time" content="2024-02-22T02:45:29+00:00" />
   <meta name="dc.language" content="es" />
   <meta name="citation_language" content="es" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -42,9 +42,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://pascalin.github.io/biosemiotics/" />
   <meta name="citation_pdf_url" content="https://pascalin.github.io/biosemiotics/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://pascalin.github.io/biosemiotics/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://pascalin.github.io/biosemiotics/v/f0a06ce5ecc4ad6bc0e212c245b176ceeb0fb61a/" />
-  <meta name="manubot_html_url_versioned" content="https://pascalin.github.io/biosemiotics/v/f0a06ce5ecc4ad6bc0e212c245b176ceeb0fb61a/" />
-  <meta name="manubot_pdf_url_versioned" content="https://pascalin.github.io/biosemiotics/v/f0a06ce5ecc4ad6bc0e212c245b176ceeb0fb61a/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://pascalin.github.io/biosemiotics/v/67c93a7bc7b991ac58ee4884fa580844683f349e/" />
+  <meta name="manubot_html_url_versioned" content="https://pascalin.github.io/biosemiotics/v/67c93a7bc7b991ac58ee4884fa580844683f349e/" />
+  <meta name="manubot_pdf_url_versioned" content="https://pascalin.github.io/biosemiotics/v/67c93a7bc7b991ac58ee4884fa580844683f349e/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -66,9 +66,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://pascalin.github.io/biosemiotics/v/f0a06ce5ecc4ad6bc0e212c245b176ceeb0fb61a/))
+([permalink](https://pascalin.github.io/biosemiotics/v/67c93a7bc7b991ac58ee4884fa580844683f349e/))
 was automatically generated
-from [pascalin/biosemiotics@f0a06ce](https://github.com/pascalin/biosemiotics/tree/f0a06ce5ecc4ad6bc0e212c245b176ceeb0fb61a)
+from [pascalin/biosemiotics@67c93a7](https://github.com/pascalin/biosemiotics/tree/67c93a7bc7b991ac58ee4884fa580844683f349e)
 on February 22, 2024.
 </em></small>
 
@@ -110,6 +110,24 @@ Al tratarse de un campo inter- o incluso transdisciplinario, tiene sentido plant
 Tanto desde el punto de vista teórico, como desde el histórico o incluso del sociológico, esta pregunta resulta interesante.
 Incluso, dadas tanto su naturaleza peculiar o transdisciplinaria como algunas de las tesis que sostiene, es necesario considerar si la bio*semiótica* es una nueva teoría biológica, propiamente dicha, si se trata más bien de una aplicación de la semiótica a la biología (algo similar a disciplinas como la bio*física*, la bio*química*, la bio*estadística*, etc.), o si es una propuesta filosófica más que científica.
 Para responder a algunas de estas preguntas, este trabajo se centrará principalmente en el aspecto teórico a fin de analizar las tesis centrales de la biosemiótica, las implicaciones de su irrupción para la biología contemporánea y su relación con otras teorías biológicas.
+
+
+## Introducción {.page_break_before}
+
+La biosemiótica es un campo de investigación relativamente reciente.
+Aunque sus antecedentes teóricos y filosóficos pueden rastrearse al menos hasta los trabajos de Charles S. Peirce y de Jakob von Uexküll, su articulación como un campo de investigación independiente no tiene mucho más de 40 años y no es sino hasta hace relativamente poco que se estableció la primera publicación científica enfocada específicamente en este tema[@doi:10.1007/978-1-4020-9650-1_1], que se conformó una sociedad científica independiente alrededor de este campo de estudios (la International Society for Biosemiotic Studies), y que empezó a ser conocida dentro de un público más amplio tanto científico como no científico.
+No obstante, a pesar de la existencia de al menos dos volúmenes enfocados en ofrecer una panorámica del área[@isbn:978-1-4020-9649-5;@isbn:978-1-58966-169-1], y del gran número de trabajos de diversa índole que han sido publicados sobre la biosemiótica, o que adoptan una perspectiva biosemiótica con respecto a algún problema biológico en particular, salta a la vista la falta de interés en la biosemiótica desde la perspectiva de la filosofía de la ciencia y particularmente de la filosofía de la biología, así como de la historia de las ciencias y particularmente de la biología, y en general por los estudios sobre la ciencia y la tecnología.
+
+No es demasiado difícil conjeturar cuáles podrían ser algunas de las causas de este desinterés, entre las que se encuentra cierta marginalización tanto de los personajes que constituyen antecedentes históricos para esta nueva disciplina, como también de algunas y algunos de los actuales defensores.
+Sin embargo, tampoco es factible atribuir toda la responsabilidad de esta situación a factores sociológicos o incluso políticos, aunque estos sin duda han jugado un papel tanto en el abandono anterior como en la recuperación reciente de algunas de las tesis que la biosemiótica sostiene actualmente.
+Para explicar de manera más adecuada la situación peculiar en la que se encuentra la biosemiótica actualmente es necesario examinar también sus propuestas teóricas, su relación con otras teorías biológicas y sus implicaciones de más largo alcance para la biología contemporánea.
+
+La biología del siglo XXI es un campo disciplinario sumamente diverso (o quizás, más bien, la suma de una diversidad de campos disciplinarios) cuyo objeto de estudio abarca toda la diversidad conocida de seres vivos y que incorpora metodologías sumamente disímiles, las cuales van desde la modelación matemática hasta la experimentación en ambientes tanto naturales como artificiales, pasando por la clasificación y la reconstrucción histórica.
+Desde el punto de vista teórico, la biología actual tampoco presenta un panorama uniforme, sino que, muy lejos de los ideales del añejo programa de unidad de la ciencia, pareciera albergar teorías distintas y en algunos casos contradictorias.
+Aun más, las fronteras de la biología, como pasa frecuentemente en las ciencias empíricas, tienen un carácter difuso, de manera que para ciertos estudios o ciertos campos de investigación es difícil determinar con certeza si caen o no dentro de la biología.
+Esta situación es particularmente notoria con respecto a campos interdisciplinarios como la biofísica, la bioquímica, o incluso la bioética, pues en términos tanto de su metodología como de su marco teórico bien podría uno cuestionarse con respecto a si se trata de subdisciplinas de la biología o si su lugar más adecuado sería dentro de la física, la química o la filosofía, respectivamente.
+
+Algo similar ocurre con respecto a la biosemiótica, al tratarse de un campo que combina elementos tanto de la biología como de un área de las humanidades cercana a la lingüística o incluso a la filosofía. Sin embargo, un examen de más cercano muestra que más que una mera aplicación de la semiótica a la biología (o viceversa), las tesis defendidas por la biosemiótica requieren una reconceptualización de ambos campos, por lo que es comprensible que se le haya descrito como una transdisciplina, más que como una interdisciplina.
 
 
 ## References {.page_break_before}
