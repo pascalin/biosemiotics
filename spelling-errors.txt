@@ -12,6 +12,7 @@ algún
 algunas
 algunos
 alrededor
+ambiciosa
 ambientes
 amplio
 analizar
@@ -46,10 +47,9 @@ causas
 centrales
 centrará
 cercana
-cercano
 certeza
 ciencia
-ciencias
+Ciencias
 científica
 científico
 cierta
@@ -57,9 +57,12 @@ ciertos
 clasificación
 combina
 comprensible
+concepto
+condiciones
 conformó
 conjeturar
 conocida
+conocimiento
 considerar
 constituyen
 contemporánea
@@ -73,9 +76,11 @@ defendidas
 defensores
 demasiado
 dentro
+desarrollado
 descrito
 desde
 desinterés
+detallado
 determinar
 dicha
 difícil
@@ -99,7 +104,7 @@ enfocada
 enfocados
 entre
 específicamente
-Esta
+esta
 estableció
 estadística
 estas
@@ -123,6 +128,7 @@ filosóficos
 física
 frecuentemente
 fronteras
+fue
 hace
 hasta
 haya
@@ -156,6 +162,7 @@ más
 matemática
 menos
 mera
+metateórica
 metodología
 metodologías
 México
@@ -167,13 +174,16 @@ Nacional
 naturales
 naturaleza
 necesario
+Nicolescu
 notoria
+Nowotny
 nueva
 número
 objeto
 obstante
 ocurre
 ofrecer
+originalmente
 otras
 panorámica
 papel
@@ -183,6 +193,7 @@ pasa
 pasando
 pascalin
 Peirce
+pero
 personajes
 perspectiva
 pesar
@@ -199,10 +210,12 @@ presenta
 primera
 principalmente
 problema
+producción
 programa
 propiamente
 propuesta
 propuestas
+propuesto
 publicación
 publicados
 público
@@ -226,6 +239,7 @@ responsabilidad
 resulta
 Resumen
 salta
+Schwartzman
 semiótica
 sentido
 ser
@@ -248,7 +262,7 @@ sumamente
 sus
 también
 tampoco
-tanto
+Tanto
 tecnología
 tema
 teoría

@@ -7,7 +7,7 @@ keywords:
 - evolución
 - síntesis extendida
 lang: es
-date-meta: '2024-02-22'
+date-meta: '2024-02-23'
 author-meta:
 - C. David Suárez Pascal
 header-includes: |
@@ -21,11 +21,11 @@ header-includes: |
   <meta name="citation_title" content="Biosemiótica y evolución biológica" />
   <meta property="og:title" content="Biosemiótica y evolución biológica" />
   <meta property="twitter:title" content="Biosemiótica y evolución biológica" />
-  <meta name="dc.date" content="2024-02-22" />
-  <meta name="citation_publication_date" content="2024-02-22" />
-  <meta property="article:published_time" content="2024-02-22" />
-  <meta name="dc.modified" content="2024-02-22T02:45:29+00:00" />
-  <meta property="article:modified_time" content="2024-02-22T02:45:29+00:00" />
+  <meta name="dc.date" content="2024-02-23" />
+  <meta name="citation_publication_date" content="2024-02-23" />
+  <meta property="article:published_time" content="2024-02-23" />
+  <meta name="dc.modified" content="2024-02-23T00:23:18+00:00" />
+  <meta property="article:modified_time" content="2024-02-23T00:23:18+00:00" />
   <meta name="dc.language" content="es" />
   <meta name="citation_language" content="es" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -42,9 +42,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://pascalin.github.io/biosemiotics/" />
   <meta name="citation_pdf_url" content="https://pascalin.github.io/biosemiotics/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://pascalin.github.io/biosemiotics/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://pascalin.github.io/biosemiotics/v/67c93a7bc7b991ac58ee4884fa580844683f349e/" />
-  <meta name="manubot_html_url_versioned" content="https://pascalin.github.io/biosemiotics/v/67c93a7bc7b991ac58ee4884fa580844683f349e/" />
-  <meta name="manubot_pdf_url_versioned" content="https://pascalin.github.io/biosemiotics/v/67c93a7bc7b991ac58ee4884fa580844683f349e/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://pascalin.github.io/biosemiotics/v/7a3938470d7f16d57d262bea3a50e39770e70ac3/" />
+  <meta name="manubot_html_url_versioned" content="https://pascalin.github.io/biosemiotics/v/7a3938470d7f16d57d262bea3a50e39770e70ac3/" />
+  <meta name="manubot_pdf_url_versioned" content="https://pascalin.github.io/biosemiotics/v/7a3938470d7f16d57d262bea3a50e39770e70ac3/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -66,10 +66,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://pascalin.github.io/biosemiotics/v/67c93a7bc7b991ac58ee4884fa580844683f349e/))
+([permalink](https://pascalin.github.io/biosemiotics/v/7a3938470d7f16d57d262bea3a50e39770e70ac3/))
 was automatically generated
-from [pascalin/biosemiotics@67c93a7](https://github.com/pascalin/biosemiotics/tree/67c93a7bc7b991ac58ee4884fa580844683f349e)
-on February 22, 2024.
+from [pascalin/biosemiotics@7a39384](https://github.com/pascalin/biosemiotics/tree/7a3938470d7f16d57d262bea3a50e39770e70ac3)
+on February 23, 2024.
 </em></small>
 
 
@@ -127,7 +127,11 @@ Desde el punto de vista teórico, la biología actual tampoco presenta un panora
 Aun más, las fronteras de la biología, como pasa frecuentemente en las ciencias empíricas, tienen un carácter difuso, de manera que para ciertos estudios o ciertos campos de investigación es difícil determinar con certeza si caen o no dentro de la biología.
 Esta situación es particularmente notoria con respecto a campos interdisciplinarios como la biofísica, la bioquímica, o incluso la bioética, pues en términos tanto de su metodología como de su marco teórico bien podría uno cuestionarse con respecto a si se trata de subdisciplinas de la biología o si su lugar más adecuado sería dentro de la física, la química o la filosofía, respectivamente.
 
-Algo similar ocurre con respecto a la biosemiótica, al tratarse de un campo que combina elementos tanto de la biología como de un área de las humanidades cercana a la lingüística o incluso a la filosofía. Sin embargo, un examen de más cercano muestra que más que una mera aplicación de la semiótica a la biología (o viceversa), las tesis defendidas por la biosemiótica requieren una reconceptualización de ambos campos, por lo que es comprensible que se le haya descrito como una transdisciplina, más que como una interdisciplina.
+Algo similar ocurre con respecto a la biosemiótica, al tratarse de un campo que combina elementos tanto de la biología como de un área de las humanidades cercana a la lingüística o incluso a la filosofía.
+Sin embargo, un examen más detallado muestra que más que una mera aplicación de la semiótica a la biología (o viceversa), las tesis defendidas por la biosemiótica requieren una reconceptualización de ambos campos, por lo que es comprensible que se le haya descrito como una transdisciplina[^1], más que como una interdisciplina[@isbn:978-1-58966-169-1:XVI].
+
+
+[^1]: El concepto de transdisciplina fue propuesto originalmente por Piaget[@https://jrp.icaap.org/index.php/jrp/article/view/510/412] y fue desarrollado por Morin[@isbn:978-2-213-01151-6] y por Nicolescu[@isbn:978-2-268-02208-6] como una ambiciosa propuesta metateórica, y por Gibbons, Limoges, Nowotny, Schwartzman, Scott & Trow[@isbn:9781446265871] como una propuesta también metateórica pero más enfocada en las condiciones actuales de producción del conocimiento.
 
 
 ## References {.page_break_before}
