@@ -9,7 +9,7 @@ adopción
 adoptan
 albergar
 alcance
-Algo
+algo
 algún
 algunas
 algunos
@@ -54,7 +54,7 @@ centrará
 cercana
 certeza
 ciencia
-Ciencias
+ciencias
 científica
 científico
 cierta
@@ -119,7 +119,7 @@ entre
 especifica
 específicamente
 esperando
-esta
+Esta
 ésta
 estableció
 estadística
@@ -158,7 +158,7 @@ humanidades
 ideales
 iluminada
 implicaciones
-Incluso
+incluso
 incorpora
 incorporaciones
 independiente
@@ -292,7 +292,7 @@ sumamente
 sus
 también
 tampoco
-Tanto
+tanto
 tecnología
 tema
 teoría
@@ -309,7 +309,6 @@ toda
 trabajo
 trabajos
 transdisciplina
-transdisciplinaria
 transdisciplinario
 trata
 tratarse

@@ -7,7 +7,7 @@ keywords:
 - evolución
 - síntesis extendida
 lang: es
-date-meta: '2024-02-23'
+date-meta: '2024-02-29'
 author-meta:
 - C. David Suárez Pascal
 header-includes: |
@@ -21,11 +21,11 @@ header-includes: |
   <meta name="citation_title" content="Biosemiótica y evolución biológica" />
   <meta property="og:title" content="Biosemiótica y evolución biológica" />
   <meta property="twitter:title" content="Biosemiótica y evolución biológica" />
-  <meta name="dc.date" content="2024-02-23" />
-  <meta name="citation_publication_date" content="2024-02-23" />
-  <meta property="article:published_time" content="2024-02-23" />
-  <meta name="dc.modified" content="2024-02-23T03:04:07+00:00" />
-  <meta property="article:modified_time" content="2024-02-23T03:04:07+00:00" />
+  <meta name="dc.date" content="2024-02-29" />
+  <meta name="citation_publication_date" content="2024-02-29" />
+  <meta property="article:published_time" content="2024-02-29" />
+  <meta name="dc.modified" content="2024-02-29T21:36:25+00:00" />
+  <meta property="article:modified_time" content="2024-02-29T21:36:25+00:00" />
   <meta name="dc.language" content="es" />
   <meta name="citation_language" content="es" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -42,9 +42,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://pascalin.github.io/biosemiotics/" />
   <meta name="citation_pdf_url" content="https://pascalin.github.io/biosemiotics/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://pascalin.github.io/biosemiotics/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://pascalin.github.io/biosemiotics/v/0a4ec8f4cf6661323bb9619ed19eb7a7add3f9fc/" />
-  <meta name="manubot_html_url_versioned" content="https://pascalin.github.io/biosemiotics/v/0a4ec8f4cf6661323bb9619ed19eb7a7add3f9fc/" />
-  <meta name="manubot_pdf_url_versioned" content="https://pascalin.github.io/biosemiotics/v/0a4ec8f4cf6661323bb9619ed19eb7a7add3f9fc/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://pascalin.github.io/biosemiotics/v/6ee1b39f68736be06bf74953157d1bec5756964f/" />
+  <meta name="manubot_html_url_versioned" content="https://pascalin.github.io/biosemiotics/v/6ee1b39f68736be06bf74953157d1bec5756964f/" />
+  <meta name="manubot_pdf_url_versioned" content="https://pascalin.github.io/biosemiotics/v/6ee1b39f68736be06bf74953157d1bec5756964f/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -66,10 +66,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://pascalin.github.io/biosemiotics/v/0a4ec8f4cf6661323bb9619ed19eb7a7add3f9fc/))
+([permalink](https://pascalin.github.io/biosemiotics/v/6ee1b39f68736be06bf74953157d1bec5756964f/))
 was automatically generated
-from [pascalin/biosemiotics@0a4ec8f](https://github.com/pascalin/biosemiotics/tree/0a4ec8f4cf6661323bb9619ed19eb7a7add3f9fc)
-on February 23, 2024.
+from [pascalin/biosemiotics@6ee1b39](https://github.com/pascalin/biosemiotics/tree/6ee1b39f68736be06bf74953157d1bec5756964f)
+on February 29, 2024.
 </em></small>
 
 
@@ -108,7 +108,7 @@ C. David Suárez Pascal \<david.suarez@ciencias.unam-mx\>.
 La biosemiótica contemporánea presenta un carácter polifacético, o plural, para expresarlo en términos más actuales
 Al tratarse de un campo inter- o incluso transdisciplinario, tiene sentido plantearse la pregunta con respecto a la relación que mantiene con la biología.
 Tanto desde el punto de vista teórico, como desde el histórico o incluso del sociológico, esta pregunta resulta interesante.
-Incluso, dadas tanto su naturaleza peculiar o transdisciplinaria como algunas de las tesis que sostiene, es necesario considerar si la bio*semiótica* es una nueva teoría biológica, propiamente dicha, si se trata más bien de una aplicación de la semiótica a la biología (algo similar a disciplinas como la bio*física*, la bio*química*, la bio*estadística*, etc.), o si es una propuesta filosófica más que científica.
+Aun más, dadas tanto su naturaleza peculiar en términos disciplinarios, como algunas de las tesis que sostiene, es necesario considerar si la bio*semiótica* es una nueva teoría biológica, propiamente dicha, si se trata más bien de una aplicación de la semiótica a la biología (algo similar a disciplinas como la bio*física*, la bio*química*, la bio*estadística*, etc.), o si es una propuesta filosófica más que científica.
 Para responder a algunas de estas preguntas, este trabajo se centrará principalmente en el aspecto teórico a fin de analizar las tesis centrales de la biosemiótica, las implicaciones de su irrupción para la biología contemporánea y su relación con otras teorías biológicas.
 
 

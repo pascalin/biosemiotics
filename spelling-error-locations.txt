@@ -37,6 +37,7 @@ content/01.abstract.md:5:teórico
 content/01.abstract.md:6:algo
 content/01.abstract.md:6:algunas
 content/01.abstract.md:6:aplicación
+content/01.abstract.md:6:Aun
 content/01.abstract.md:6:bien
 content/01.abstract.md:6:biología
 content/01.abstract.md:6:biológica
@@ -44,11 +45,12 @@ content/01.abstract.md:6:científica
 content/01.abstract.md:6:considerar
 content/01.abstract.md:6:dadas
 content/01.abstract.md:6:dicha
+content/01.abstract.md:6:disciplinarios
 content/01.abstract.md:6:disciplinas
 content/01.abstract.md:6:estadística
 content/01.abstract.md:6:filosófica
 content/01.abstract.md:6:física
-content/01.abstract.md:6:Incluso
+content/01.abstract.md:6:más
 content/01.abstract.md:6:más
 content/01.abstract.md:6:más
 content/01.abstract.md:6:naturaleza
@@ -63,8 +65,8 @@ content/01.abstract.md:6:sostiene
 content/01.abstract.md:6:su
 content/01.abstract.md:6:tanto
 content/01.abstract.md:6:teoría
+content/01.abstract.md:6:términos
 content/01.abstract.md:6:tesis
-content/01.abstract.md:6:transdisciplinaria
 content/01.abstract.md:6:trata
 content/01.abstract.md:6:una
 content/01.abstract.md:6:una
