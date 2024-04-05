@@ -17,12 +17,12 @@ alrededor
 ambiciosa
 ambientes
 amplio
-análisis
 analizar
 añejo
 años
 antecedentes
 anticipar
+aplica
 aplicación
 área
 articulación
@@ -61,6 +61,7 @@ cierta
 ciertos
 clasificación
 combina
+comparación
 comprensible
 concepto
 condiciones
@@ -68,7 +69,7 @@ conformó
 conjeturar
 conocida
 conocimiento
-consideración
+consideraciones
 considerar
 constituyen
 contemporánea
@@ -90,9 +91,8 @@ denominación
 dentro
 desarrollado
 descrito
-Desde
+desde
 desinterés
-después
 detallado
 determinar
 dicha
@@ -108,7 +108,7 @@ diversa
 diversidad
 diverso
 duda
-El
+el
 elementos
 empezó
 empíricas
@@ -142,6 +142,7 @@ falta
 filosofía
 filosófica
 filosóficos
+finalmente
 física
 frecuentemente
 fronteras
@@ -183,6 +184,7 @@ matemática
 menos
 mera
 metateórica
+metateórico
 metodología
 metodologías
 México
@@ -229,17 +231,18 @@ polisémico
 políticos
 ponderar
 por
-posponer
 precisa
 pregunta
 preguntas
 presenta
+previas
 primera
 principalmente
 problema
 producción
 programa
 propiamente
+propone
 propuesta
 propuestas
 propuesto
@@ -250,6 +253,7 @@ puede
 pueden
 pues
 punto
+Qué
 química
 quizás
 rastrearse
@@ -292,7 +296,7 @@ sumamente
 sus
 también
 tampoco
-tanto
+Tanto
 tecnología
 tema
 teoría
@@ -306,6 +310,7 @@ tesis
 tiene
 tienen
 toda
+todos
 trabajo
 trabajos
 transdisciplina
