@@ -1,7 +1,7 @@
 # Output directory containing the formatted manuscript
 
 The [`gh-pages`](https://github.com/pascalin/biosemiotics/tree/gh-pages) branch hosts the contents of this directory at <https://pascalin.github.io/biosemiotics/>.
-The permalink for this webpage version is <https://pascalin.github.io/biosemiotics/v/1f0a1405695792f6fd30c28811b146c3d0557e9a/>.
+The permalink for this webpage version is <https://pascalin.github.io/biosemiotics/v/5c73f15935b430ef22250eb1940d58794b1258cc/>.
 To redirect to the permalink for the latest manuscript version at anytime, use the link <https://pascalin.github.io/biosemiotics/v/freeze/>.
 
 ## Files
@@ -35,4 +35,4 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 ## Source
 
 The manuscripts in this directory were built from
-[`1f0a1405695792f6fd30c28811b146c3d0557e9a`](https://github.com/pascalin/biosemiotics/commit/1f0a1405695792f6fd30c28811b146c3d0557e9a).
+[`5c73f15935b430ef22250eb1940d58794b1258cc`](https://github.com/pascalin/biosemiotics/commit/5c73f15935b430ef22250eb1940d58794b1258cc).
