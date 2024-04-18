@@ -7,7 +7,7 @@ keywords:
 - evolución
 - síntesis extendida
 lang: es
-date-meta: '2024-04-12'
+date-meta: '2024-04-18'
 author-meta:
 - C. David Suárez Pascal
 header-includes: |
@@ -21,11 +21,11 @@ header-includes: |
   <meta name="citation_title" content="Biosemiótica y evolución biológica" />
   <meta property="og:title" content="Biosemiótica y evolución biológica" />
   <meta property="twitter:title" content="Biosemiótica y evolución biológica" />
-  <meta name="dc.date" content="2024-04-12" />
-  <meta name="citation_publication_date" content="2024-04-12" />
-  <meta property="article:published_time" content="2024-04-12" />
-  <meta name="dc.modified" content="2024-04-12T20:16:46+00:00" />
-  <meta property="article:modified_time" content="2024-04-12T20:16:46+00:00" />
+  <meta name="dc.date" content="2024-04-18" />
+  <meta name="citation_publication_date" content="2024-04-18" />
+  <meta property="article:published_time" content="2024-04-18" />
+  <meta name="dc.modified" content="2024-04-18T18:41:13+00:00" />
+  <meta property="article:modified_time" content="2024-04-18T18:41:13+00:00" />
   <meta name="dc.language" content="es" />
   <meta name="citation_language" content="es" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -42,9 +42,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://pascalin.github.io/biosemiotics/" />
   <meta name="citation_pdf_url" content="https://pascalin.github.io/biosemiotics/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://pascalin.github.io/biosemiotics/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://pascalin.github.io/biosemiotics/v/1f0a1405695792f6fd30c28811b146c3d0557e9a/" />
-  <meta name="manubot_html_url_versioned" content="https://pascalin.github.io/biosemiotics/v/1f0a1405695792f6fd30c28811b146c3d0557e9a/" />
-  <meta name="manubot_pdf_url_versioned" content="https://pascalin.github.io/biosemiotics/v/1f0a1405695792f6fd30c28811b146c3d0557e9a/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://pascalin.github.io/biosemiotics/v/5c73f15935b430ef22250eb1940d58794b1258cc/" />
+  <meta name="manubot_html_url_versioned" content="https://pascalin.github.io/biosemiotics/v/5c73f15935b430ef22250eb1940d58794b1258cc/" />
+  <meta name="manubot_pdf_url_versioned" content="https://pascalin.github.io/biosemiotics/v/5c73f15935b430ef22250eb1940d58794b1258cc/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -66,10 +66,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://pascalin.github.io/biosemiotics/v/1f0a1405695792f6fd30c28811b146c3d0557e9a/))
+([permalink](https://pascalin.github.io/biosemiotics/v/5c73f15935b430ef22250eb1940d58794b1258cc/))
 was automatically generated
-from [pascalin/biosemiotics@1f0a140](https://github.com/pascalin/biosemiotics/tree/1f0a1405695792f6fd30c28811b146c3d0557e9a)
-on April 12, 2024.
+from [pascalin/biosemiotics@5c73f15](https://github.com/pascalin/biosemiotics/tree/5c73f15935b430ef22250eb1940d58794b1258cc)
+on April 18, 2024.
 </em></small>
 
 
@@ -138,6 +138,18 @@ En vista de esto, lo más conveniente para ponderar la contribución particular 
 
 
 ## ¿Qué es lo que propone la biosemiótica? {.page_break_before}
+
+<!-- ### Introducción -->
+
+Aunque uno de los debates más importantes en la filosofía de la ciencia del siglo XX giró en torno a la cuestión de la naturaleza de las teorías científicas, basta con 
+
+Para tener una idea de la diversidad de formas que adoptan las 
+
+<!-- ### Antecedentes -->
+
+<!-- ### Dualidad de código -->
+
+<!-- ### Interpretación fisiológica -->
 
 
 

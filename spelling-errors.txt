@@ -36,6 +36,7 @@ atribuir
 Aun
 Aunque
 Autónoma
+basta
 bien
 bioética
 biofísica
@@ -61,6 +62,7 @@ certeza
 ciencia
 Ciencias
 científica
+científicas
 científico
 cierta
 ciertos
@@ -100,7 +102,7 @@ denominado
 dentro
 desarrollado
 descrito
-Desde
+desde
 desinterés
 detallado
 determinar
@@ -160,9 +162,11 @@ filosófica
 filosóficos
 finalmente
 física
+formas
 frecuentemente
 fronteras
 fue
+giró
 grandes
 hace
 hacen
@@ -178,6 +182,7 @@ humanidades
 ideales
 iluminada
 implicaciones
+importantes
 incluso
 incorpora
 incorporaciones
@@ -325,6 +330,7 @@ tecnología
 tema
 temas
 tenemos
+tener
 teoría
 teorías
 teórica
@@ -337,6 +343,7 @@ tiene
 tienen
 toda
 todos
+torno
 trabajo
 trabajos
 transdisciplina
