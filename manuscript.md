@@ -7,7 +7,7 @@ keywords:
 - evolución
 - síntesis extendida
 lang: es
-date-meta: '2024-04-18'
+date-meta: '2024-05-03'
 author-meta:
 - C. David Suárez Pascal
 header-includes: |
@@ -21,11 +21,11 @@ header-includes: |
   <meta name="citation_title" content="Biosemiótica y evolución biológica" />
   <meta property="og:title" content="Biosemiótica y evolución biológica" />
   <meta property="twitter:title" content="Biosemiótica y evolución biológica" />
-  <meta name="dc.date" content="2024-04-18" />
-  <meta name="citation_publication_date" content="2024-04-18" />
-  <meta property="article:published_time" content="2024-04-18" />
-  <meta name="dc.modified" content="2024-04-18T18:41:13+00:00" />
-  <meta property="article:modified_time" content="2024-04-18T18:41:13+00:00" />
+  <meta name="dc.date" content="2024-05-03" />
+  <meta name="citation_publication_date" content="2024-05-03" />
+  <meta property="article:published_time" content="2024-05-03" />
+  <meta name="dc.modified" content="2024-05-03T05:17:46+00:00" />
+  <meta property="article:modified_time" content="2024-05-03T05:17:46+00:00" />
   <meta name="dc.language" content="es" />
   <meta name="citation_language" content="es" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -42,9 +42,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://pascalin.github.io/biosemiotics/" />
   <meta name="citation_pdf_url" content="https://pascalin.github.io/biosemiotics/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://pascalin.github.io/biosemiotics/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://pascalin.github.io/biosemiotics/v/5c73f15935b430ef22250eb1940d58794b1258cc/" />
-  <meta name="manubot_html_url_versioned" content="https://pascalin.github.io/biosemiotics/v/5c73f15935b430ef22250eb1940d58794b1258cc/" />
-  <meta name="manubot_pdf_url_versioned" content="https://pascalin.github.io/biosemiotics/v/5c73f15935b430ef22250eb1940d58794b1258cc/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://pascalin.github.io/biosemiotics/v/7deccde609d2f9e8b5a3a6b7f4a41147cb55c683/" />
+  <meta name="manubot_html_url_versioned" content="https://pascalin.github.io/biosemiotics/v/7deccde609d2f9e8b5a3a6b7f4a41147cb55c683/" />
+  <meta name="manubot_pdf_url_versioned" content="https://pascalin.github.io/biosemiotics/v/7deccde609d2f9e8b5a3a6b7f4a41147cb55c683/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -66,10 +66,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://pascalin.github.io/biosemiotics/v/5c73f15935b430ef22250eb1940d58794b1258cc/))
+([permalink](https://pascalin.github.io/biosemiotics/v/7deccde609d2f9e8b5a3a6b7f4a41147cb55c683/))
 was automatically generated
-from [pascalin/biosemiotics@5c73f15](https://github.com/pascalin/biosemiotics/tree/5c73f15935b430ef22250eb1940d58794b1258cc)
-on April 18, 2024.
+from [pascalin/biosemiotics@7deccde](https://github.com/pascalin/biosemiotics/tree/7deccde609d2f9e8b5a3a6b7f4a41147cb55c683)
+on May 3, 2024.
 </em></small>
 
 
@@ -141,13 +141,19 @@ En vista de esto, lo más conveniente para ponderar la contribución particular 
 
 <!-- ### Introducción -->
 
-Aunque uno de los debates más importantes en la filosofía de la ciencia del siglo XX giró en torno a la cuestión de la naturaleza de las teorías científicas, basta con 
+No obstante su carácter multifacético, distintos autores han identificado la idea o tesis central de la biosemiótica que capturaría, hasta un cierto punto, la naturaleza de esta nueva disciplina. Por ejemplo, Hoffmeyer ubica esa tesis en la idea de que "la vida se basa fundamentalmente en procesos semióticos" [@isbn: 978-1-58966-169-1, 3].
+Alternativamente, para Queiroz, Emmeche, Kull y El-Hani, la "biosemiótica podría ser vista como biología interpretada como el estudio de sistemas vivientes de signos" [@isbn:978-0-262-20174-2, 91].
+En tanto que ambas enunciaciones expresan ideas similares, también plantean ciertas interrogantes con respecto a la naturaleza de esta disciplina y con respecto a sus relaciones con la biología.
+En primer lugar, la propuesta de Hoffmeyer pareciera sugerir un reacomodo con respecto a la estructura teórica asumida comúnmente en la biología, en donde la física y la química establecerían las bases sobre las que se funda el conocimiento biológico.
+Así, Hoffmeyer señala explícitamente su intención de reemplazar la creencia en que "la vida es solamente química y moléculas --- con una filosofía mucho mejor, más contemporánea y más coherente" [@isbn: 978-1-58966-169-1, 15], en la cual la vida y los signos constituyan los fenómenos fundamentales.
+De acuerdo con esta modificación propuesta por Hoffmeyer, para la biosemiótica "la vida está compuesta por moléculas, que se manifiestan a sí mismas como signos" [@isbn: 978-1-58966-169-1, 15].
 
-Para tener una idea de la diversidad de formas que adoptan las 
-
-<!-- ### Antecedentes -->
+Al contrario de lo que parecería sugerir el lenguaje empleado ocasionalmente por autores como los mencionados, la biosemiótica no es una propuesta estrictamente filosófica ni tampoco conlleva simplemente una reinterpretación o reformulación del conocimiento biológico empleando la terminología de la semiótica, sino que también hace propuestas teóricas propias cuyo examen es esencial para esclarecer la relación que plantea tanto entre la biología y la semiótica como con otras teorías biológicas.
+Entre esas propuestas teóricas dos que resaltan y que examinaremos a continuación son la *dualidad de código* y la *interpretación fisiológica*.
 
 <!-- ### Dualidad de código -->
+
+Esta 
 
 <!-- ### Interpretación fisiológica -->
 
