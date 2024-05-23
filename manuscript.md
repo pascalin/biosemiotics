@@ -7,7 +7,7 @@ keywords:
 - evolución
 - síntesis extendida
 lang: es
-date-meta: '2024-05-22'
+date-meta: '2024-05-23'
 author-meta:
 - C. David Suárez Pascal
 header-includes: |
@@ -21,11 +21,11 @@ header-includes: |
   <meta name="citation_title" content="Biosemiótica y evolución biológica" />
   <meta property="og:title" content="Biosemiótica y evolución biológica" />
   <meta property="twitter:title" content="Biosemiótica y evolución biológica" />
-  <meta name="dc.date" content="2024-05-22" />
-  <meta name="citation_publication_date" content="2024-05-22" />
-  <meta property="article:published_time" content="2024-05-22" />
-  <meta name="dc.modified" content="2024-05-22T00:16:40+00:00" />
-  <meta property="article:modified_time" content="2024-05-22T00:16:40+00:00" />
+  <meta name="dc.date" content="2024-05-23" />
+  <meta name="citation_publication_date" content="2024-05-23" />
+  <meta property="article:published_time" content="2024-05-23" />
+  <meta name="dc.modified" content="2024-05-23T06:09:08+00:00" />
+  <meta property="article:modified_time" content="2024-05-23T06:09:08+00:00" />
   <meta name="dc.language" content="es" />
   <meta name="citation_language" content="es" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -42,9 +42,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://pascalin.github.io/biosemiotics/" />
   <meta name="citation_pdf_url" content="https://pascalin.github.io/biosemiotics/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://pascalin.github.io/biosemiotics/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://pascalin.github.io/biosemiotics/v/7215a8a6cbd7f020d29cc99241405d7ec8aebdf3/" />
-  <meta name="manubot_html_url_versioned" content="https://pascalin.github.io/biosemiotics/v/7215a8a6cbd7f020d29cc99241405d7ec8aebdf3/" />
-  <meta name="manubot_pdf_url_versioned" content="https://pascalin.github.io/biosemiotics/v/7215a8a6cbd7f020d29cc99241405d7ec8aebdf3/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://pascalin.github.io/biosemiotics/v/a099348588486b6b3f42ce2c8f5115b18663d6d0/" />
+  <meta name="manubot_html_url_versioned" content="https://pascalin.github.io/biosemiotics/v/a099348588486b6b3f42ce2c8f5115b18663d6d0/" />
+  <meta name="manubot_pdf_url_versioned" content="https://pascalin.github.io/biosemiotics/v/a099348588486b6b3f42ce2c8f5115b18663d6d0/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -66,10 +66,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://pascalin.github.io/biosemiotics/v/7215a8a6cbd7f020d29cc99241405d7ec8aebdf3/))
+([permalink](https://pascalin.github.io/biosemiotics/v/a099348588486b6b3f42ce2c8f5115b18663d6d0/))
 was automatically generated
-from [pascalin/biosemiotics@7215a8a](https://github.com/pascalin/biosemiotics/tree/7215a8a6cbd7f020d29cc99241405d7ec8aebdf3)
-on May 22, 2024.
+from [pascalin/biosemiotics@a099348](https://github.com/pascalin/biosemiotics/tree/a099348588486b6b3f42ce2c8f5115b18663d6d0)
+on May 23, 2024.
 </em></small>
 
 
@@ -154,7 +154,7 @@ Entre esas propuestas teóricas dos que resaltan y que examinaremos a continuaci
 <!-- ### Dualidad de código -->
 
 La primera tesis, defendida originalmente por Hoffmeyer y posteriormente en colaboración con Claus Emmeche [@isbn:978-0-89925-642-9, 117--166;@isbn:978-1-58966-169-1, 71-110], consiste en señalar la existencia de dos naturalezas, o dos partes, complementarias en los sistemas biológicos, una analógica y otra digital.
-De acuerdo con estos autores, esta condición constituye la base de la capacidad de los sistemas vivientes de "seleccionar y responder a diferencias en su entorno" [@isbn:978-0-89925-642-9, 126] al permitir la auto-referencia, esto es, una descripción digital de sus componentes analógicos que a pesar de ser parcial dota al sistema de cierta memoria o continuidad temporal.
+De acuerdo con estos autores, esta condición constituye la base de la capacidad de los sistemas vivientes de "seleccionar y responder a diferencias en su entorno" [@isbn:978-0-89925-642-9, 126] al permitir la auto-referencia, esto es, una descripción digital de sus componentes analógicos que a pesar de ser parcial dota al sistema de cierta memoria y continuidad temporal.
 De acuerdo con esta categorización, todo sistema vivo estaría conformado por una parte "analógica" que es la que interactúa con el entorno y en la que predominan procesos *análogos* a aquellos que tienen lugar en otros sistemas físicos.
 La relación entre una enzima y su sustrato, esto es, las interacciones electroquímicas entre estas moléculas, así como la incidencia mecánica de un pico o una garra sobre un material, ya sea de origen biótico o abiótico, forman parte de esa naturaleza analógica.
 En cambio, otro tipo de relaciones o procesos serían, de acuerdo con esta tesis, de naturaleza digital.

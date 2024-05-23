@@ -12,7 +12,7 @@ adopción
 adoptan
 albergar
 alcance
-algo
+Algo
 algún
 algunas
 algunos
@@ -44,7 +44,7 @@ aspecto
 asumida
 atribuir
 Aun
-aunque
+Aunque
 Autónoma
 autores
 aves
@@ -79,7 +79,7 @@ centrará
 cercana
 certeza
 ciencia
-Ciencias
+ciencias
 científica
 científico
 cierta
@@ -144,7 +144,7 @@ dentro
 desarrollado
 descripción
 descrito
-Desde
+desde
 desempeñan
 desinterés
 detallado
@@ -369,7 +369,7 @@ polifacético
 polisémico
 políticos
 ponderar
-Por
+por
 posteriormente
 precisa
 predominan
