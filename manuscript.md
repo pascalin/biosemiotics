@@ -7,7 +7,7 @@ keywords:
 - evolución
 - síntesis extendida
 lang: es
-date-meta: '2024-05-23'
+date-meta: '2024-05-26'
 author-meta:
 - C. David Suárez Pascal
 header-includes: |
@@ -21,11 +21,11 @@ header-includes: |
   <meta name="citation_title" content="Biosemiótica y evolución biológica" />
   <meta property="og:title" content="Biosemiótica y evolución biológica" />
   <meta property="twitter:title" content="Biosemiótica y evolución biológica" />
-  <meta name="dc.date" content="2024-05-23" />
-  <meta name="citation_publication_date" content="2024-05-23" />
-  <meta property="article:published_time" content="2024-05-23" />
-  <meta name="dc.modified" content="2024-05-23T06:09:08+00:00" />
-  <meta property="article:modified_time" content="2024-05-23T06:09:08+00:00" />
+  <meta name="dc.date" content="2024-05-26" />
+  <meta name="citation_publication_date" content="2024-05-26" />
+  <meta property="article:published_time" content="2024-05-26" />
+  <meta name="dc.modified" content="2024-05-26T06:31:03+00:00" />
+  <meta property="article:modified_time" content="2024-05-26T06:31:03+00:00" />
   <meta name="dc.language" content="es" />
   <meta name="citation_language" content="es" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -42,9 +42,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://pascalin.github.io/biosemiotics/" />
   <meta name="citation_pdf_url" content="https://pascalin.github.io/biosemiotics/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://pascalin.github.io/biosemiotics/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://pascalin.github.io/biosemiotics/v/a099348588486b6b3f42ce2c8f5115b18663d6d0/" />
-  <meta name="manubot_html_url_versioned" content="https://pascalin.github.io/biosemiotics/v/a099348588486b6b3f42ce2c8f5115b18663d6d0/" />
-  <meta name="manubot_pdf_url_versioned" content="https://pascalin.github.io/biosemiotics/v/a099348588486b6b3f42ce2c8f5115b18663d6d0/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://pascalin.github.io/biosemiotics/v/b4799e935cbf2120bce9b48879693d2ae6967460/" />
+  <meta name="manubot_html_url_versioned" content="https://pascalin.github.io/biosemiotics/v/b4799e935cbf2120bce9b48879693d2ae6967460/" />
+  <meta name="manubot_pdf_url_versioned" content="https://pascalin.github.io/biosemiotics/v/b4799e935cbf2120bce9b48879693d2ae6967460/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -66,10 +66,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://pascalin.github.io/biosemiotics/v/a099348588486b6b3f42ce2c8f5115b18663d6d0/))
+([permalink](https://pascalin.github.io/biosemiotics/v/b4799e935cbf2120bce9b48879693d2ae6967460/))
 was automatically generated
-from [pascalin/biosemiotics@a099348](https://github.com/pascalin/biosemiotics/tree/a099348588486b6b3f42ce2c8f5115b18663d6d0)
-on May 23, 2024.
+from [pascalin/biosemiotics@b4799e9](https://github.com/pascalin/biosemiotics/tree/b4799e935cbf2120bce9b48879693d2ae6967460)
+on May 26, 2024.
 </em></small>
 
 
@@ -157,12 +157,29 @@ La primera tesis, defendida originalmente por Hoffmeyer y posteriormente en cola
 De acuerdo con estos autores, esta condición constituye la base de la capacidad de los sistemas vivientes de "seleccionar y responder a diferencias en su entorno" [@isbn:978-0-89925-642-9, 126] al permitir la auto-referencia, esto es, una descripción digital de sus componentes analógicos que a pesar de ser parcial dota al sistema de cierta memoria y continuidad temporal.
 De acuerdo con esta categorización, todo sistema vivo estaría conformado por una parte "analógica" que es la que interactúa con el entorno y en la que predominan procesos *análogos* a aquellos que tienen lugar en otros sistemas físicos.
 La relación entre una enzima y su sustrato, esto es, las interacciones electroquímicas entre estas moléculas, así como la incidencia mecánica de un pico o una garra sobre un material, ya sea de origen biótico o abiótico, forman parte de esa naturaleza analógica.
-En cambio, otro tipo de relaciones o procesos serían, de acuerdo con esta tesis, de naturaleza digital.
+En cambio, otro tipo de relaciones o procesos serían, de acuerdo con esta tesis, de naturaleza digital y giran en torno al establecimiento de códigos biológicos, esto es, de relaciones con un cierto grado de convencionalidad y que requeriría otras formas de explicación, distintas a las empleadas para dar cuenta de la parte analógica.
 
-Para estos autores, la relevancia 
-Entre estos están aquellos que median entre la secuencia de codones del DNA o del RNA que forma parte del material genético de una célula, y la función o funciones que desempeñan las moléculas de proteína que son producidas empleando esas secuencias genéticas a manera de plantilla; así como el conjunto particular de movimientos que forman parte de un ritual de apareamiento en una especie de aves o de insectos.
-Igualmente, 
+Aunque Stjernfelt señala que, estrictamente hablando, sólamente podríamos hablar de códigos en el ámbito digital y que, por lo tanto, el término de "dualidad de código" sería inadecuado [@https://www.ceeol.com/search/article-detail?id=275603, 10], la dualidad a la que se refiere esta tesis constituye una parte medular de distintas propuestas al interior de la biosemiótica.
+En particular, en el caso de Uexküll (y quizás también de von Baer) la dimensión digital estaría expresada en términos del plan de organización (o *Bauplan*), más que de un código genético.
+Sin embargo, el rol teórico de la distinción sería el mismo en tanto que permite formular un tipo de explicación que se distingue de la forma en que explicamos de manera común ĺos procesos pertenecientes a la dimensión analógica de los sistemas biológicos.
 
+De manera independiente tanto a la biosemiótica como al trabajo de Uexküll, o incluso al de Peirce, Michael Polanyi apuntó también hacia esta dualidad presente en los seres vivos, al igual que en las máquinas, la cual relacionó tanto con la organización, o la estructura, como con el concepto de información [@doi:10.1126/science.160.3834.1308], por lo que se encuentra cercano tanto a la posición de Hoffmeyer como a la de Uexküll.
+Para Polanyi, las máquinas, al igual que los seres vivos, operan bajo el control de dos principios: 1) el diseño, y 2) los procesos físico-químicos.
+El primero de estos principios opera estableciendo condiciones de frontera (*boundary conditions*) sobre las leyes de la física y la química, que constituyen el segundo principio.
+De esta manera, Polanyi coincide con Hoffmeyer al señalar que los organismos son sistemas de los cuales se podría afirmar que están bajo un control dual, no solamente en términos de los procesos físico-químicos que en ellos operan, sino en términos también de su estructura, que funciona como condición de frontera para los primeros.
+
+Aunado al reconocimiento de esta dualidad, Polanyi plantea una diferencia complementaria en cuanto a dos tipos de fronteras, una que llama "de tubo de ensaye" y otra que denomina de tipo "máquina", en función de los intereses pragmáticos (en el sentido de van Fraassen [@isbn:0-19-824427-4]) que llevan asociados.
+En el primer caso lo que más interesa son los procesos que están siendo controlados por la frontera, mientras que en el segundo tipo lo que más nos interesa son precisamente las fronteras, o, de manera todavía más precisa, los efectos producidos por ellas.
+De acuerdo con él, tanto la estructura u organización de los seres vivos, como el fenómeno de la comunicación pertenecen al segundo tipo de frontera[@doi:10.1126/science.160.3834.1308, 161]:
+
+> The same thing holds for machine-like boundaries; their structure cannot be defined in terms of the laws which they harness.
+> Nor can a vocabulary determine the content of a text, and so on.
+> Therefore, if the structure of living things is a set of boundary conditions, this structure is extraneous to the laws of physics and chemistry which the organism is harnessing.
+> Thus the morphology of living things trascends the laws of physics and chemistry.
+
+<!-- Para estos autores, la relevancia  -->
+<!-- Entre estos están aquellos que median entre la secuencia de codones del DNA o del RNA que forma parte del material genético de una célula, y la función o funciones que desempeñan las moléculas de proteína que son producidas empleando esas secuencias genéticas a manera de plantilla; así como el conjunto particular de movimientos que forman parte de un ritual de apareamiento en una especie de aves o de insectos. -->
+<!-- Igualmente,  -->
 
 <!-- ### Interpretación fisiológica -->
 
