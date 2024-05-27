@@ -41,7 +41,7 @@ aquellos
 áreas
 articulación
 artificiales
-así
+Así
 asociados
 aspecto
 asumida
@@ -85,7 +85,7 @@ cercana
 cercano
 certeza
 ciencia
-Ciencias
+ciencias
 científica
 científico
 cierta
@@ -187,7 +187,7 @@ dualidad
 duda
 efectos
 ejemplo
-el
+El
 él
 electroquímicas
 elementos
@@ -206,7 +206,7 @@ enfocados
 ensaye
 entendida
 entorno
-entre
+Entre
 enunciaciones
 enzima
 esa

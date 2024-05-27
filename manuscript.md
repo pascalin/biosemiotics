@@ -7,7 +7,7 @@ keywords:
 - evolución
 - síntesis extendida
 lang: es
-date-meta: '2024-05-26'
+date-meta: '2024-05-27'
 author-meta:
 - C. David Suárez Pascal
 header-includes: |
@@ -21,11 +21,11 @@ header-includes: |
   <meta name="citation_title" content="Biosemiótica y evolución biológica" />
   <meta property="og:title" content="Biosemiótica y evolución biológica" />
   <meta property="twitter:title" content="Biosemiótica y evolución biológica" />
-  <meta name="dc.date" content="2024-05-26" />
-  <meta name="citation_publication_date" content="2024-05-26" />
-  <meta property="article:published_time" content="2024-05-26" />
-  <meta name="dc.modified" content="2024-05-26T06:31:03+00:00" />
-  <meta property="article:modified_time" content="2024-05-26T06:31:03+00:00" />
+  <meta name="dc.date" content="2024-05-27" />
+  <meta name="citation_publication_date" content="2024-05-27" />
+  <meta property="article:published_time" content="2024-05-27" />
+  <meta name="dc.modified" content="2024-05-27T05:58:27+00:00" />
+  <meta property="article:modified_time" content="2024-05-27T05:58:27+00:00" />
   <meta name="dc.language" content="es" />
   <meta name="citation_language" content="es" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -42,9 +42,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://pascalin.github.io/biosemiotics/" />
   <meta name="citation_pdf_url" content="https://pascalin.github.io/biosemiotics/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://pascalin.github.io/biosemiotics/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://pascalin.github.io/biosemiotics/v/b4799e935cbf2120bce9b48879693d2ae6967460/" />
-  <meta name="manubot_html_url_versioned" content="https://pascalin.github.io/biosemiotics/v/b4799e935cbf2120bce9b48879693d2ae6967460/" />
-  <meta name="manubot_pdf_url_versioned" content="https://pascalin.github.io/biosemiotics/v/b4799e935cbf2120bce9b48879693d2ae6967460/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://pascalin.github.io/biosemiotics/v/44d8ddf6a4fce16305a63419cd3e87906e121e04/" />
+  <meta name="manubot_html_url_versioned" content="https://pascalin.github.io/biosemiotics/v/44d8ddf6a4fce16305a63419cd3e87906e121e04/" />
+  <meta name="manubot_pdf_url_versioned" content="https://pascalin.github.io/biosemiotics/v/44d8ddf6a4fce16305a63419cd3e87906e121e04/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -66,10 +66,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://pascalin.github.io/biosemiotics/v/b4799e935cbf2120bce9b48879693d2ae6967460/))
+([permalink](https://pascalin.github.io/biosemiotics/v/44d8ddf6a4fce16305a63419cd3e87906e121e04/))
 was automatically generated
-from [pascalin/biosemiotics@b4799e9](https://github.com/pascalin/biosemiotics/tree/b4799e935cbf2120bce9b48879693d2ae6967460)
-on May 26, 2024.
+from [pascalin/biosemiotics@44d8ddf](https://github.com/pascalin/biosemiotics/tree/44d8ddf6a4fce16305a63419cd3e87906e121e04)
+on May 27, 2024.
 </em></small>
 
 
@@ -170,7 +170,7 @@ De esta manera, Polanyi coincide con Hoffmeyer al señalar que los organismos so
 
 Aunado al reconocimiento de esta dualidad, Polanyi plantea una diferencia complementaria en cuanto a dos tipos de fronteras, una que llama "de tubo de ensaye" y otra que denomina de tipo "máquina", en función de los intereses pragmáticos (en el sentido de van Fraassen [@isbn:0-19-824427-4]) que llevan asociados.
 En el primer caso lo que más interesa son los procesos que están siendo controlados por la frontera, mientras que en el segundo tipo lo que más nos interesa son precisamente las fronteras, o, de manera todavía más precisa, los efectos producidos por ellas.
-De acuerdo con él, tanto la estructura u organización de los seres vivos, como el fenómeno de la comunicación pertenecen al segundo tipo de frontera[@doi:10.1126/science.160.3834.1308, 161]:
+De acuerdo con él, tanto la estructura u organización de los seres vivos, como el fenómeno de la comunicación pertenecen al segundo tipo de frontera [@doi:10.1126/science.160.3834.1308, 161]:
 
 > The same thing holds for machine-like boundaries; their structure cannot be defined in terms of the laws which they harness.
 > Nor can a vocabulary determine the content of a text, and so on.
