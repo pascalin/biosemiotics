@@ -7,7 +7,7 @@ keywords:
 - evolución
 - síntesis extendida
 lang: es
-date-meta: '2024-05-27'
+date-meta: '2024-05-31'
 author-meta:
 - C. David Suárez Pascal
 header-includes: |
@@ -21,11 +21,11 @@ header-includes: |
   <meta name="citation_title" content="Biosemiótica y evolución biológica" />
   <meta property="og:title" content="Biosemiótica y evolución biológica" />
   <meta property="twitter:title" content="Biosemiótica y evolución biológica" />
-  <meta name="dc.date" content="2024-05-27" />
-  <meta name="citation_publication_date" content="2024-05-27" />
-  <meta property="article:published_time" content="2024-05-27" />
-  <meta name="dc.modified" content="2024-05-27T05:58:27+00:00" />
-  <meta property="article:modified_time" content="2024-05-27T05:58:27+00:00" />
+  <meta name="dc.date" content="2024-05-31" />
+  <meta name="citation_publication_date" content="2024-05-31" />
+  <meta property="article:published_time" content="2024-05-31" />
+  <meta name="dc.modified" content="2024-05-31T05:51:46+00:00" />
+  <meta property="article:modified_time" content="2024-05-31T05:51:46+00:00" />
   <meta name="dc.language" content="es" />
   <meta name="citation_language" content="es" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -42,9 +42,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://pascalin.github.io/biosemiotics/" />
   <meta name="citation_pdf_url" content="https://pascalin.github.io/biosemiotics/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://pascalin.github.io/biosemiotics/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://pascalin.github.io/biosemiotics/v/44d8ddf6a4fce16305a63419cd3e87906e121e04/" />
-  <meta name="manubot_html_url_versioned" content="https://pascalin.github.io/biosemiotics/v/44d8ddf6a4fce16305a63419cd3e87906e121e04/" />
-  <meta name="manubot_pdf_url_versioned" content="https://pascalin.github.io/biosemiotics/v/44d8ddf6a4fce16305a63419cd3e87906e121e04/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://pascalin.github.io/biosemiotics/v/4d965f447e3809a417d519f21ff641bd96d87381/" />
+  <meta name="manubot_html_url_versioned" content="https://pascalin.github.io/biosemiotics/v/4d965f447e3809a417d519f21ff641bd96d87381/" />
+  <meta name="manubot_pdf_url_versioned" content="https://pascalin.github.io/biosemiotics/v/4d965f447e3809a417d519f21ff641bd96d87381/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -66,10 +66,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://pascalin.github.io/biosemiotics/v/44d8ddf6a4fce16305a63419cd3e87906e121e04/))
+([permalink](https://pascalin.github.io/biosemiotics/v/4d965f447e3809a417d519f21ff641bd96d87381/))
 was automatically generated
-from [pascalin/biosemiotics@44d8ddf](https://github.com/pascalin/biosemiotics/tree/44d8ddf6a4fce16305a63419cd3e87906e121e04)
-on May 27, 2024.
+from [pascalin/biosemiotics@4d965f4](https://github.com/pascalin/biosemiotics/tree/4d965f447e3809a417d519f21ff641bd96d87381)
+on May 31, 2024.
 </em></small>
 
 
@@ -149,7 +149,7 @@ Así, Hoffmeyer señala explícitamente su intención de reemplazar la creencia 
 De acuerdo con esta modificación propuesta por Hoffmeyer, para la biosemiótica "la vida está compuesta por moléculas, que se manifiestan a sí mismas como signos" [@isbn:978-1-58966-169-1, 15].
 
 Al contrario de lo que parecería sugerir el lenguaje empleado ocasionalmente por autores como los mencionados, la biosemiótica no es una propuesta estrictamente filosófica ni tampoco conlleva simplemente una reinterpretación o reformulación del conocimiento biológico empleando la terminología de la semiótica, sino que también hace propuestas teóricas propias cuyo examen es esencial para esclarecer la relación que plantea tanto entre la biología y la semiótica como con otras teorías biológicas.
-Entre esas propuestas teóricas dos que resaltan y que examinaremos a continuación son la *dualidad de código* y la *interpretación fisiológica*.
+Entre esas propuestas teóricas dos que resaltan y que examinaremos a continuación son la *dualidad de código* y la *causalidad semiótica*, aunque considero que un mejor nombre para la segunda tesis podría ser el de interpretación orgánica.
 
 <!-- ### Dualidad de código -->
 
@@ -160,22 +160,32 @@ La relación entre una enzima y su sustrato, esto es, las interacciones electroq
 En cambio, otro tipo de relaciones o procesos serían, de acuerdo con esta tesis, de naturaleza digital y giran en torno al establecimiento de códigos biológicos, esto es, de relaciones con un cierto grado de convencionalidad y que requeriría otras formas de explicación, distintas a las empleadas para dar cuenta de la parte analógica.
 
 Aunque Stjernfelt señala que, estrictamente hablando, sólamente podríamos hablar de códigos en el ámbito digital y que, por lo tanto, el término de "dualidad de código" sería inadecuado [@https://www.ceeol.com/search/article-detail?id=275603, 10], la dualidad a la que se refiere esta tesis constituye una parte medular de distintas propuestas al interior de la biosemiótica.
-En particular, en el caso de Uexküll (y quizás también de von Baer) la dimensión digital estaría expresada en términos del plan de organización (o *Bauplan*), más que de un código genético.
+En particular, en el caso de Uexküll (y quizás también de von Baer [@doi:10.1007/s12304-024-09569-8]) la dimensión digital estaría expresada en términos del plan de organización (o *Bauplan*), más que de un código genético.
 Sin embargo, el rol teórico de la distinción sería el mismo en tanto que permite formular un tipo de explicación que se distingue de la forma en que explicamos de manera común ĺos procesos pertenecientes a la dimensión analógica de los sistemas biológicos.
 
 De manera independiente tanto a la biosemiótica como al trabajo de Uexküll, o incluso al de Peirce, Michael Polanyi apuntó también hacia esta dualidad presente en los seres vivos, al igual que en las máquinas, la cual relacionó tanto con la organización, o la estructura, como con el concepto de información [@doi:10.1126/science.160.3834.1308], por lo que se encuentra cercano tanto a la posición de Hoffmeyer como a la de Uexküll.
 Para Polanyi, las máquinas, al igual que los seres vivos, operan bajo el control de dos principios: 1) el diseño, y 2) los procesos físico-químicos.
-El primero de estos principios opera estableciendo condiciones de frontera (*boundary conditions*) sobre las leyes de la física y la química, que constituyen el segundo principio.
+El primero de estos principios opera estableciendo condiciones de frontera (*boundary conditions*) sobre las leyes de la física y la química, que constituyen el segundo principio [^1].
 De esta manera, Polanyi coincide con Hoffmeyer al señalar que los organismos son sistemas de los cuales se podría afirmar que están bajo un control dual, no solamente en términos de los procesos físico-químicos que en ellos operan, sino en términos también de su estructura, que funciona como condición de frontera para los primeros.
 
 Aunado al reconocimiento de esta dualidad, Polanyi plantea una diferencia complementaria en cuanto a dos tipos de fronteras, una que llama "de tubo de ensaye" y otra que denomina de tipo "máquina", en función de los intereses pragmáticos (en el sentido de van Fraassen [@isbn:0-19-824427-4]) que llevan asociados.
-En el primer caso lo que más interesa son los procesos que están siendo controlados por la frontera, mientras que en el segundo tipo lo que más nos interesa son precisamente las fronteras, o, de manera todavía más precisa, los efectos producidos por ellas.
-De acuerdo con él, tanto la estructura u organización de los seres vivos, como el fenómeno de la comunicación pertenecen al segundo tipo de frontera [@doi:10.1126/science.160.3834.1308, 161]:
+En el primer caso lo que más nos interesa son los procesos que están siendo controlados por la frontera, mientras que en el segundo tipo lo que más nos interesa son precisamente las fronteras, o, de manera todavía más precisa, los efectos producidos por ellas.
+De acuerdo con Polanyi, tanto la estructura u organización de los seres vivos, como el fenómeno de la comunicación pertenecen al segundo tipo de frontera:
 
 > The same thing holds for machine-like boundaries; their structure cannot be defined in terms of the laws which they harness.
 > Nor can a vocabulary determine the content of a text, and so on.
 > Therefore, if the structure of living things is a set of boundary conditions, this structure is extraneous to the laws of physics and chemistry which the organism is harnessing.
-> Thus the morphology of living things trascends the laws of physics and chemistry.
+> Thus the morphology of living things trascends the laws of physics and chemistry. [@doi:10.1126/science.160.3834.1308, 161]
+
+Es interesante que tanto para Hoffmeyer como para Polanyi la tesis con respecto a la dualidad podría entenderse como una tesis ontológica, que marcaría la separación entre los sistemas inertes y los sistemas vivos, de manera que más que tratarse de la postulación de un principio que conecte dos disciplinas distintas, tales como la biología y la semiótica, se trata de una característica que nos permitiría delimitar el objeto de estudios propio de la biología y debería encontrarse, por lo tanto, formando parte de sus leyes o principios fundamentales.
+Sin embargo, a pesar de la posición sostenida por estos autores, en este trabajo se sugerirá que la tesis con respecto a la dualidad puede interpretarse no solamente como una tesis ontológica, sino como una tesis epistemológica o incluso como una tesis pragmática, sin que esto implique necesariamente una pérdida de relevancia teórica para la biología contemporánea.
+
+<!-- Aunque un poco más añeja, la propuesta correspondiente a la dualidad de código en Uexküll se relaciona con su concepto de *Umwelt*, o mundo circundante, el cual vincula de manera íntima la organización particular de cada especie con aquellos aspectos  -->
+
+<!-- Si bien hay varias diferencias en la manera en que Uexküll, Polanyi y Hoffmeyer entienden esta dualidad, quizás la más importante tiene que ver con el tipo de distinción que se establece, pues mientras que en Uexküll y Hoffmeyer podría sugerirse que se trata de una separación ontológica entre sistemas vivos y no vivos -->
+<!-- dos niveles de realidad, uno que correspondería al mundo físico y otro al mundo vivo, con respecto a la propuesta de Polanyi podría sostenerse de que se trata de una distinción puramente pragmática, pues incluso cuando este autor reconoce que ambos  -->
+
+<!-- Como veremos más adelante, no es necesario interpretar esta dualidad en un sentido ni ontológico, ni epistémico para que tenga consecuencias importantes a nivel teórico para la biología, pues bastaría con entenderla en un sentido puramente pragmático, como pareciera sugerir Polanyi al señalar que la distinción entre fronteras de tubo de ensaye y de tipo máquina corresponde con un enfoque que puede ser alternado desplazando nuestra atención de un aspecto al otro. -->
 
 <!-- Para estos autores, la relevancia  -->
 <!-- Entre estos están aquellos que median entre la secuencia de codones del DNA o del RNA que forma parte del material genético de una célula, y la función o funciones que desempeñan las moléculas de proteína que son producidas empleando esas secuencias genéticas a manera de plantilla; así como el conjunto particular de movimientos que forman parte de un ritual de apareamiento en una especie de aves o de insectos. -->
@@ -183,6 +193,51 @@ De acuerdo con él, tanto la estructura u organización de los seres vivos, como
 
 <!-- ### Interpretación fisiológica -->
 
+Una segunda tesis, defendida de manera implícita o explícita por múltiples proponentes en la biosemiótica, es la tesis de la causalidad semiótica, aunque, como veremos, un mejor nombre podría ser quizás el de interpretación orgánica, para evitar ciertos conflictos relacionados con la idea de causalidad.
+De manera sucinta, Hoffmeyer la resume como una tesis según la cual existen procesos orgánicos de interpretación que serían causalmente eficaces en los seres vivos [@isbn:978-1-58966-169-1, xiv].
+Aunque esta tesis requiere para su esclarecimiento de un análisis más profundo del que podemos emprender en este trabajo, a grandes rasgos lo que afirma, en su sentido más débil, es la legitimidad de explicaciones que consideren el estado del organismo bajo estudio como uno de sus componentes esenciales.
+En su sentido más fuerte, la tesis de la interpretación orgánica afirma la independencia parcial o total del ser vivo con respecto a aquellos procesos físicos y químicos subyacentes.
+Hoffmeyer describe esta tesis de manera más extensa en los siguientes términos:
+
+> This other kind of causality alluded to by Peirce is exactly what I have suggested we call semiotic causality, i.e., bringing about things under guidance of interpretation in a local context.
+> Semiotic causality cannot be reduced to efficient causality but, on the contrary, is dependent upon the workings of efficient causality, since interpretation, even in its most primitive modes, is of no need if not followed by habit formation, or, in other words, by anticipatory action---and action unquestionably depends on efficient causality.
+> Semiotic causality thus gives direction to efficient causality, while efficient causality gives power to semiotic causality.
+> Their reciprocal relation is one of inter­ dependence, not one of exclusion. [@isbn:978-1-58966-169-1, 64]
+
+De la misma manera que en relación con la primera tesis nos podemos cuestionar con respecto a la naturaleza de la dualidad planteada, en el caso de la tesis de la interpretación orgánica tendría sentido distinguir aquellos aspectos que establecen las principales diferencias entre las distintas posturas, los cuales son, en primer lugar, 1) si se entiende como una tesis ontológica, epistemológica, o pragmática (por mencionar tres de las posibilidades más relevantes para la biología); en segundo lugar, 2) cuál es el rol que desempeña esta interpretación o este tipo de causalidad en relación con la explicación de los fenómenos biológicos; y, finalmente, 3) qué tan radical es la separación o independencia que se plantea entre los procesos orgánicos de interpretación y los procesos a nivel físico-químico.
+
+Aunque se podría cuestionar hasta qué punto las tesis de dualidad de código y de interpretación orgánica son independientes, o si se trata más bien de dos partes de la misma tesis, considero que tiene sentido distinguirlas a fin de mostrar las diferentes maneras en que se pueden interpretar para dar lugar a distintas posturas al interior de la biosemiótica y podrían servir de base para caracterizar la posición defendida por diferentes exponentes, lo cual, a su vez, podría servir para examinar qué tan interrelacionadas están ambas tesis.
+
+Para finalizar esta sección y para ejemplificar esta interrelación convendrá examinar, aunque sea de manera somera, la teoría de Jakob von Uexküll sobre el Umwelt, o mundo circundante, lo cual nos permitirá tanto conocer algunas de las propuestas de este representante de la biosemiótica como analizar su relación con las dos tesis básicas que acabamos de exponer.
+De manera muy conveniente para nosotros, Hoffmeyer vincula su propia propuesta con el trabajo de Uexküll de la siguiente manera, permitiéndonos apreciar las relaciones entre el concepto de Umwelt y la tesis de dualidad de código que él mismo propone:
+
+> The realization in space and time of the structural relations specified in the digital code determines what kind of differences in its surroundings the system will actually select and respond to.
+> In Uexküllian terms, these specifications determine not just the anatomical and physiological buildup of the organism but also the kind of Umwelt the organism will get through this realization. [@isbn:978-1-58966-169-1, 82--83]
+
+Como se puede ver en la cita anterior, la dualidad que plantea Uexküll es aquella que existe entre la organización, o el *Bauplan* (o plan de construcción) del organismo y aquello que lo rodea, y que constituye su entorno.
+En términos de Hoffmeyer, el primer componente de esta dualidad se relaciona particularmente con la codificación digital, pues sería el DNA, esto es, la codificación (digital) de las relaciones estructurales presente en el material genético, el que daría lugar al Umwelt de cada organismo al especificar tanto sus componentes anatómicos como fisiológicos.
+En términos de Polanyi, el *Bauplan* de cada organismo tiene un relación directa con su concepto de frontera, en tanto que correspondería al tipo de organización que los seres vivos comparten con las máquinas y que, para Polanyi, establecería uno de los ámbitos del control dual que caracteriza a ambos tipos de sistemas.
+
+
+
+[^1]: En contra de lo señalado por Stjernfelt, Hoffmeyer argumenta, en su libro de 2008, a favor de entender el componente analógico de los seres vivos no solamente en términos de procesos físico-químicos, sino en términos de códigos análogos. Si bien se trata de una diferencia sutil con respecto a la posición de Polanyi y de otros autores, este señalamiento de Hoffmeyer colocaría su versión de la dualidad de código más cerca de la propuesta de Uexküll, como señalaremos más adelante.
+
+
+## ¿Qué es lo que aporta la biosemiótica a la biología contemporánea? {.page_break_before}
+
+### Genética
+
+
+### Ecología
+
+
+### Evolución
+
+> Eventually, the system will survive long enough to pass on its own copy of the digitalized memory (or part of it) to a new generation; this corresponds to a back-translation of the message to the digitalform.
+> But this latter process takes on its true significance only when seen at the level of the population.
+> For it is the population (rather than the single organism) that passes on messages about conditions of life to the memory of the collective (the gene pool).
+> The population could in this sense be considered a codification that itself expresses a message.
+> This codification, however, is necessarily analog---since it has to interact with the physical surroundings, and thus must share with these surroundings the properties of physical extension and contiguity. (Hoffmeyer, 2008, p. 103)
 
 
 ## References {.page_break_before}
