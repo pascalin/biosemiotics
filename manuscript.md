@@ -7,7 +7,7 @@ keywords:
 - evolución
 - síntesis extendida
 lang: es
-date-meta: '2024-06-05'
+date-meta: '2024-06-07'
 author-meta:
 - C. David Suárez Pascal
 header-includes: |
@@ -21,11 +21,11 @@ header-includes: |
   <meta name="citation_title" content="Biosemiótica y evolución biológica" />
   <meta property="og:title" content="Biosemiótica y evolución biológica" />
   <meta property="twitter:title" content="Biosemiótica y evolución biológica" />
-  <meta name="dc.date" content="2024-06-05" />
-  <meta name="citation_publication_date" content="2024-06-05" />
-  <meta property="article:published_time" content="2024-06-05" />
-  <meta name="dc.modified" content="2024-06-05T22:02:16+00:00" />
-  <meta property="article:modified_time" content="2024-06-05T22:02:16+00:00" />
+  <meta name="dc.date" content="2024-06-07" />
+  <meta name="citation_publication_date" content="2024-06-07" />
+  <meta property="article:published_time" content="2024-06-07" />
+  <meta name="dc.modified" content="2024-06-07T20:58:12+00:00" />
+  <meta property="article:modified_time" content="2024-06-07T20:58:12+00:00" />
   <meta name="dc.language" content="es" />
   <meta name="citation_language" content="es" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -42,9 +42,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://pascalin.github.io/biosemiotics/" />
   <meta name="citation_pdf_url" content="https://pascalin.github.io/biosemiotics/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://pascalin.github.io/biosemiotics/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://pascalin.github.io/biosemiotics/v/e5eadaafe395adca2923284ed1285db284b4e0fe/" />
-  <meta name="manubot_html_url_versioned" content="https://pascalin.github.io/biosemiotics/v/e5eadaafe395adca2923284ed1285db284b4e0fe/" />
-  <meta name="manubot_pdf_url_versioned" content="https://pascalin.github.io/biosemiotics/v/e5eadaafe395adca2923284ed1285db284b4e0fe/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://pascalin.github.io/biosemiotics/v/6197055a2391560ba0f651e67c04b3f6d8c2a441/" />
+  <meta name="manubot_html_url_versioned" content="https://pascalin.github.io/biosemiotics/v/6197055a2391560ba0f651e67c04b3f6d8c2a441/" />
+  <meta name="manubot_pdf_url_versioned" content="https://pascalin.github.io/biosemiotics/v/6197055a2391560ba0f651e67c04b3f6d8c2a441/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -66,10 +66,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://pascalin.github.io/biosemiotics/v/e5eadaafe395adca2923284ed1285db284b4e0fe/))
+([permalink](https://pascalin.github.io/biosemiotics/v/6197055a2391560ba0f651e67c04b3f6d8c2a441/))
 was automatically generated
-from [pascalin/biosemiotics@e5eadaa](https://github.com/pascalin/biosemiotics/tree/e5eadaafe395adca2923284ed1285db284b4e0fe)
-on June 5, 2024.
+from [pascalin/biosemiotics@6197055](https://github.com/pascalin/biosemiotics/tree/6197055a2391560ba0f651e67c04b3f6d8c2a441)
+on June 7, 2024.
 </em></small>
 
 
@@ -223,7 +223,21 @@ Mientras que para Polanyi la contraparte de la estructura de un sistema bajo con
 Así, mientras que la teoría del Umwelt de Uexküll podría analizarse en términos ya sea de la dualidad planteada por Polanyi o por Hoffmeyer, para reconstruirla de manera más precisa lo mejor sería apelar a la noción de frontera de Polanyi, para dar cuenta de la función que Uexküll le asigna al *Bauplan*, mientras que para dar cuenta de la relación con el entorno sería más adecuado entenderla en términos de la codificación analógica planteada por Hoffmeyer, pues es precisamente en esos términos que Uexküll plantea la óperación tanto de los órganos perceptuales como de los órganos efectores.
 Si bien existe cierta correspondencia entre la idea de frontera de Polanyi y la idea de codificación digital planteada por Hoffmeyer, este último considera la organización correspondiente al Bauplan como un aspecto secundario, que sería especificado de manera primaria por la codificación digital en términos genéticos, lo cual crea cierta discrepancia con respecto a la unidad de análisis entre las propuestas de Uexküll y de Polanyi, por un lado, y la de Hoffmeyer, por el otro, pues mientras que Uexküll se centra en el organismo, Hoffmeyer pareciera estar mucho más interesado en el sistema genético y de hecho señala en alguna ocasión, reformulando un trabajo previo con Claus Emmeche [@isbn:978-0-89925-642-9, 127], que tanto las proteínas como el organismo son las formas análogas correspondientes a la codificación digital [@isbn:978-1-58966-169-1, 82].
 En cambio, tanto Uexküll como Polanyi ven, en el simple hecho de la organización, la posibilidad, e incluso la necesidad, de incorporar formas de explicación diferentes a las que se requieren para dar cuenta de sistemas que no se encuentran bajo lo que Polanyi denomina como control dual.
+La posición de Uexküll a este respecto es lo suficientemente explícita como para justificar su reconstrucción en términos de las propuestas de condiciones de frontera y de codificación analógica, de Polanyi y de Hoffmeyer, respectivamente, como lo muestra la siguiente cita:
 
+> El tratamiento biológico de los círculos funcionales requiere que también consideremos igualmente desde la perspectiva de la concordancia a un plan la parte del círculo que transcurre en el Umwelt en el exterior del cuerpo.
+> Y esto es nuevo e inusual.
+> Estamos acostumbrados a tratar las cosas que están fuera del sujeto puramente según reglas de causalidad.
+> Sin embargo, así no haríamos justicia a la estructura biológica que se extiende a lo largo de todo el círculo.
+
+> Si queremos construir por nosotros mismos un circuito funcional de máquina completo, en el que podamos, por ejemplo, dotar a una locomotora automática con un aparato óptico que se estimule con las características verdes y rojas de unas señales, e influir así en el control de la locomotora, entonces tenemos que construir también el Umwelt, esto es, en este caso, las vías, tan en concordancia con un plan como la locomotora misma.
+
+<!-- > Die biologische Behandlung der Funktionskreise verlangt, daß wir auch den außerhalb des Körpers in der Umwelt verlaufenden Teil des Kreises gleichfalls unter dem Gesichtspunkte der Planmäßigkeit betrachten. -->
+<!-- > Und dies ist neu und ungewohnt. -->
+<!-- > Wir sind gewohnt, die außerhalb des Subjekts liegenden Dinge rein nach Kausalitätsregeln zu behandlen. -->
+<!-- > Dadurch werden wir aber dem biologischen Gefüge nicht gerecht, das sich durch den ganzen Kreis hindurch erstreckt. -->
+
+<!-- > Wollen wir selbst einen lückenlosen maschinellen Funktionskreis bauen, der, in dem wir z. B. eine automatische Lokomotive mit einem optischen Apparat versehen, der von den Merkmalen der grünen und roten Einfahrtzeichen erregt wird, und daraufhin die Steuerung der Lokomotive beeinflußt, so müssen wir auch die Umwelt, d. h. in diesem Falle den Schienenstrang ebenso planmäßig bauen wie die Lokomotive selbst. -->
 
 [^1]: En contra de lo señalado por Stjernfelt, Hoffmeyer argumenta, en su libro de 2008, a favor de entender el componente analógico de los seres vivos no solamente en términos de procesos físico-químicos, sino en términos de códigos análogos. Si bien se trata de una diferencia sutil con respecto a la posición de Polanyi y de otros autores, este señalamiento de Hoffmeyer colocaría su versión de la dualidad de código más cerca de la propuesta de Uexküll, como señalaremos más adelante.
 

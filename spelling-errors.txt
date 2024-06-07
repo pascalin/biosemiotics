@@ -3,6 +3,7 @@ abarca
 abiótico
 abodarlos
 acabamos
+acostumbrados
 actuales
 actualmente
 acuerdo
@@ -41,6 +42,7 @@ añejo
 años
 antecedentes
 anticipar
+aparato
 apelar
 aplica
 aplicación
@@ -55,7 +57,7 @@ aquellos
 argumenta
 articulación
 artificiales
-Así
+así
 asigna
 asociados
 aspecto
@@ -64,7 +66,8 @@ asumida
 atribuir
 Aun
 Aunado
-Aunque
+aunque
+automática
 Autónoma
 autores
 ayudarnos
@@ -94,6 +97,7 @@ capacidad
 capturaría
 carácter
 característica
+características
 caracteriza
 caracterizar
 caso
@@ -110,13 +114,16 @@ cercana
 cercano
 certeza
 ciencia
-ciencias
+Ciencias
 científica
 científico
 cierta
 ciertas
 cierto
 ciertos
+circuito
+círculo
+círculos
 circundante
 cita
 clasificación
@@ -133,6 +140,7 @@ competen
 complejidad
 complementaria
 complementarias
+completo
 componente
 componentes
 comprensible
@@ -141,6 +149,7 @@ común
 comunicación
 comúnmente
 concepto
+concordancia
 condición
 condiciones
 conecte
@@ -155,6 +164,7 @@ conocimiento
 considera
 consideraciones
 considerar
+consideremos
 consideren
 considero
 consiste
@@ -162,6 +172,7 @@ constituyan
 constituye
 constituyen
 construcción
+construir
 construye
 contemporánea
 continuación
@@ -179,6 +190,7 @@ correspondencia
 correspondería
 correspondiente
 correspondientes
+cosas
 crea
 creencia
 cual
@@ -187,6 +199,7 @@ cuales
 cuáles
 cuanto
 cuenta
+cuerpo
 cuestión
 cuestionar
 cuestionarse
@@ -242,6 +255,7 @@ diversidad
 diverso
 donde
 dota
+dotar
 dualidad
 duda
 Ecología
@@ -250,7 +264,7 @@ efectos
 eficaces
 ejemplificar
 ejemplo
-El
+el
 él
 electroquímicas
 elementos
@@ -274,6 +288,7 @@ entenderla
 entenderse
 entendida
 entiende
+entonces
 entorno
 entre
 enunciaciones
@@ -292,7 +307,7 @@ especificado
 específicamente
 especificar
 esperando
-esta
+Esta
 está
 ésta
 establecen
@@ -303,11 +318,13 @@ establecimiento
 estableció
 estadística
 estado
+Estamos
 están
 estar
 estaría
 estas
 este
+estimule
 esto
 estos
 estrictamente
@@ -337,6 +354,7 @@ expresada
 expresan
 expresarlo
 extensa
+extiende
 factible
 factores
 Facultad
@@ -361,9 +379,12 @@ Fraassen
 frecuentemente
 frontera
 fronteras
+fuera
 fuerte
 función
 funciona
+funcional
+funcionales
 funda
 fundamentales
 fundamentalmente
@@ -381,6 +402,7 @@ hacen
 hacer
 hacia
 Hani
+haríamos
 hasta
 haya
 hecho
@@ -394,6 +416,7 @@ humanidades
 ideales
 identificado
 igual
+igualmente
 iluminada
 iluminar
 implicaciones
@@ -411,6 +434,7 @@ independiente
 independientes
 índole
 inertes
+influir
 información
 intención
 interacciones
@@ -430,10 +454,13 @@ interrelacionadas
 interrogantes
 Introducción
 intuir
+inusual
 investigación
 irrupción
 Jakob
 jugado
+justicia
+justificar
 Kull
 lado
 legitimidad
@@ -443,6 +470,7 @@ leyes
 libro
 lingüística
 llevan
+locomotora
 lugar
 manera
 maneras
@@ -470,6 +498,7 @@ Mientras
 misma
 mismas
 mismo
+mismos
 modelación
 modificación
 moléculas
@@ -493,6 +522,7 @@ nombre
 nosotros
 notoria
 nueva
+nuevo
 número
 objeto
 obstante
@@ -503,6 +533,7 @@ ofrecer
 ontológica
 óperación
 operan
+óptico
 orgánica
 orgánicos
 organismo
@@ -547,6 +578,7 @@ planteada
 plantean
 plantearse
 poco
+podamos
 podemos
 podría
 podríamos
@@ -604,8 +636,10 @@ puede
 pueden
 pues
 punto
+puramente
 qué
 Queiroz
+queremos
 química
 químico
 químicos
@@ -626,6 +660,7 @@ referencia
 refiere
 reformulación
 reformulando
+reglas
 reinterpretación
 relación
 relaciona
@@ -662,6 +697,7 @@ señalado
 señalamiento
 señalar
 señalaremos
+señales
 sentido
 separación
 separe
@@ -700,8 +736,10 @@ Suárez
 subdisciplinas
 subyacentes
 sucinta
+suficientemente
 sugerir
 sugerirá
+sujeto
 suma
 sumamente
 sus
@@ -710,7 +748,7 @@ sutil
 tal
 también
 tampoco
-Tanto
+tanto
 tecnología
 tema
 temas
@@ -737,11 +775,14 @@ todos
 torno
 trabajo
 trabajos
+transcurre
 transdisciplina
 transdisciplinario
 transiciones
 trascends
 trata
+tratamiento
+tratar
 trataría
 tratarse
 tres
@@ -751,15 +792,18 @@ Uexküll
 Uexküllian
 último
 Umwelt
-una
+Una
+unas
 unidad
 uniforme
 Universidad
 uno
 ven
+verdes
 veremos
 versión
 vez
+vías
 viceversa
 vida
 vincula
