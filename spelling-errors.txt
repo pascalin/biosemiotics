@@ -66,7 +66,7 @@ argumentado
 articulación
 articulan
 artificiales
-así
+Así
 asigna
 asociados
 aspecto
@@ -240,7 +240,7 @@ desarrollado
 descripción
 descritas
 descrito
-desde
+Desde
 desempeña
 desinterés
 desplegadas
@@ -316,7 +316,7 @@ entiendan
 entiende
 entonces
 entorno
-Entre
+entre
 enunciaciones
 enzima
 epistémico

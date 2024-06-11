@@ -7,7 +7,7 @@ keywords:
 - evolución
 - síntesis extendida
 lang: es
-date-meta: '2024-06-10'
+date-meta: '2024-06-11'
 author-meta:
 - C. David Suárez Pascal
 header-includes: |
@@ -21,11 +21,11 @@ header-includes: |
   <meta name="citation_title" content="Biosemiótica y evolución biológica" />
   <meta property="og:title" content="Biosemiótica y evolución biológica" />
   <meta property="twitter:title" content="Biosemiótica y evolución biológica" />
-  <meta name="dc.date" content="2024-06-10" />
-  <meta name="citation_publication_date" content="2024-06-10" />
-  <meta property="article:published_time" content="2024-06-10" />
-  <meta name="dc.modified" content="2024-06-10T04:35:37+00:00" />
-  <meta property="article:modified_time" content="2024-06-10T04:35:37+00:00" />
+  <meta name="dc.date" content="2024-06-11" />
+  <meta name="citation_publication_date" content="2024-06-11" />
+  <meta property="article:published_time" content="2024-06-11" />
+  <meta name="dc.modified" content="2024-06-11T21:27:09+00:00" />
+  <meta property="article:modified_time" content="2024-06-11T21:27:09+00:00" />
   <meta name="dc.language" content="es" />
   <meta name="citation_language" content="es" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -42,9 +42,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://pascalin.github.io/biosemiotics/" />
   <meta name="citation_pdf_url" content="https://pascalin.github.io/biosemiotics/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://pascalin.github.io/biosemiotics/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://pascalin.github.io/biosemiotics/v/ed0cf3488b798ff4af57adf5c62b8ed3256a13e1/" />
-  <meta name="manubot_html_url_versioned" content="https://pascalin.github.io/biosemiotics/v/ed0cf3488b798ff4af57adf5c62b8ed3256a13e1/" />
-  <meta name="manubot_pdf_url_versioned" content="https://pascalin.github.io/biosemiotics/v/ed0cf3488b798ff4af57adf5c62b8ed3256a13e1/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://pascalin.github.io/biosemiotics/v/41fcec9a938996c919ffab55c463f43cb175cd91/" />
+  <meta name="manubot_html_url_versioned" content="https://pascalin.github.io/biosemiotics/v/41fcec9a938996c919ffab55c463f43cb175cd91/" />
+  <meta name="manubot_pdf_url_versioned" content="https://pascalin.github.io/biosemiotics/v/41fcec9a938996c919ffab55c463f43cb175cd91/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -66,10 +66,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://pascalin.github.io/biosemiotics/v/ed0cf3488b798ff4af57adf5c62b8ed3256a13e1/))
+([permalink](https://pascalin.github.io/biosemiotics/v/41fcec9a938996c919ffab55c463f43cb175cd91/))
 was automatically generated
-from [pascalin/biosemiotics@ed0cf34](https://github.com/pascalin/biosemiotics/tree/ed0cf3488b798ff4af57adf5c62b8ed3256a13e1)
-on June 10, 2024.
+from [pascalin/biosemiotics@41fcec9](https://github.com/pascalin/biosemiotics/tree/41fcec9a938996c919ffab55c463f43cb175cd91)
+on June 11, 2024.
 </em></small>
 
 
@@ -137,7 +137,7 @@ En vista de esto, lo más conveniente para ponderar la contribución particular 
 [^1]: El concepto de transdisciplina fue propuesto originalmente por Piaget[@https://jrp.icaap.org/index.php/jrp/article/view/510/412] y fue desarrollado por Morin[@isbn:978-2-213-01151-6] y por Nicolescu[@isbn:978-2-268-02208-6] como una ambiciosa propuesta metateórica (o meta-metateórica), y por Gibbons, Limoges, Nowotny, Schwartzman, Scott & Trow[@isbn:9781446265871] como una propuesta también metateórica pero más enfocada en las condiciones actuales de producción del conocimiento.
 
 
-## ¿Qué es lo que propone la biosemiótica? {.page_break_before}
+## ¿Qué es lo que propone la biosemiótica?
 
 <!-- ### Introducción -->
 
