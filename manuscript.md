@@ -7,7 +7,7 @@ keywords:
 - evolución
 - síntesis extendida
 lang: es
-date-meta: '2024-06-11'
+date-meta: '2024-06-13'
 author-meta:
 - C. David Suárez Pascal
 header-includes: |
@@ -21,11 +21,11 @@ header-includes: |
   <meta name="citation_title" content="Biosemiótica y evolución biológica" />
   <meta property="og:title" content="Biosemiótica y evolución biológica" />
   <meta property="twitter:title" content="Biosemiótica y evolución biológica" />
-  <meta name="dc.date" content="2024-06-11" />
-  <meta name="citation_publication_date" content="2024-06-11" />
-  <meta property="article:published_time" content="2024-06-11" />
-  <meta name="dc.modified" content="2024-06-11T21:27:09+00:00" />
-  <meta property="article:modified_time" content="2024-06-11T21:27:09+00:00" />
+  <meta name="dc.date" content="2024-06-13" />
+  <meta name="citation_publication_date" content="2024-06-13" />
+  <meta property="article:published_time" content="2024-06-13" />
+  <meta name="dc.modified" content="2024-06-13T20:51:05+00:00" />
+  <meta property="article:modified_time" content="2024-06-13T20:51:05+00:00" />
   <meta name="dc.language" content="es" />
   <meta name="citation_language" content="es" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -42,9 +42,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://pascalin.github.io/biosemiotics/" />
   <meta name="citation_pdf_url" content="https://pascalin.github.io/biosemiotics/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://pascalin.github.io/biosemiotics/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://pascalin.github.io/biosemiotics/v/41fcec9a938996c919ffab55c463f43cb175cd91/" />
-  <meta name="manubot_html_url_versioned" content="https://pascalin.github.io/biosemiotics/v/41fcec9a938996c919ffab55c463f43cb175cd91/" />
-  <meta name="manubot_pdf_url_versioned" content="https://pascalin.github.io/biosemiotics/v/41fcec9a938996c919ffab55c463f43cb175cd91/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://pascalin.github.io/biosemiotics/v/df5a1df479fea6cfcb9a4027fb98a63fdf6c8aa4/" />
+  <meta name="manubot_html_url_versioned" content="https://pascalin.github.io/biosemiotics/v/df5a1df479fea6cfcb9a4027fb98a63fdf6c8aa4/" />
+  <meta name="manubot_pdf_url_versioned" content="https://pascalin.github.io/biosemiotics/v/df5a1df479fea6cfcb9a4027fb98a63fdf6c8aa4/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -66,10 +66,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://pascalin.github.io/biosemiotics/v/41fcec9a938996c919ffab55c463f43cb175cd91/))
+([permalink](https://pascalin.github.io/biosemiotics/v/df5a1df479fea6cfcb9a4027fb98a63fdf6c8aa4/))
 was automatically generated
-from [pascalin/biosemiotics@41fcec9](https://github.com/pascalin/biosemiotics/tree/41fcec9a938996c919ffab55c463f43cb175cd91)
-on June 11, 2024.
+from [pascalin/biosemiotics@df5a1df](https://github.com/pascalin/biosemiotics/tree/df5a1df479fea6cfcb9a4027fb98a63fdf6c8aa4)
+on June 13, 2024.
 </em></small>
 
 
@@ -254,21 +254,51 @@ En su lugar, las tesis propuestas por la biosemiótica se articulan de manera na
 [^2]: En contra de lo señalado por Stjernfelt, Hoffmeyer argumenta, en su libro de 2008, a favor de entender el componente analógico de los seres vivos no solamente en términos de procesos físico-químicos, sino en términos de códigos análogos. Si bien se trata de una diferencia sutil con respecto a la posición de Polanyi y de otros autores, este señalamiento de Hoffmeyer colocaría su versión de la dualidad de código más cerca de la propuesta de Uexküll, como señalaremos más adelante.
 
 
-## ¿Qué es lo que aporta la biosemiótica a la biología contemporánea? {.page_break_before}
+## ¿Qué es lo que aporta la biosemiótica a la biología contemporánea?
 
-### Genética
+En una frase que ha sido ampliamente difundida en la biología, el genetista Theodosious Dobzhansky afirmó que «en biología nada tiene sentido si no es a la luz de la evolución» [@doi:10.2307/4444260].
+Por otro lado, en una afirmación casi igual de aventurada, Mayr afirma que en el caso de casi todo fenómeno biológico hay *siempre* un conjunto de causas próximas y un conjunto de causas últimas que deben ser abordadas para tener una comprensión completa del fenómeno [@doi:10.1126/science.134.3489.1501, 1503] .
+Como hemos visto, algunas de las afirmaciones de la biosemiótica tienen un carácter igual de ambicioso que el de las dos afirmaciones previas.
+En particular, la tesis de la dualidad de código examinada en la sección previa tiene cierto parecido con la tesis de Mayr con respecto al problema de la causalidad en la biología, aunque también hay algunas diferencias importantes, como veremos a continuación.
+Por otro lado, algunas caracterizaciones propuestas para la biosemiótica podrían resumirse, a la manera de Dobzhansky, en la expresión de que nada en biología tiene sentido si no es a la luz de la significación.
+
+Aunque las afirmaciones de Dobzhansky y de Mayr son arriesgadas en términos filosóficos, su traducción en términos de la biosemiótica puede ser explicitada y argumentada de manera más consistente a partir de las dos tesis descritas en la sección anterior, reduciendo así quizás algunas reservas y malentendidos al respecto que son comunes tanto en el ámbito científico como en el filosófico.
+Una buena manera de hacer esto es analizando, aunque sea de manera somera, la relación que guardan las dos tesis biosemióticas centrales de dualidad de código y de interpretación orgánica con el cuerpo teórico y con el campo de estudios de grandes áreas de la biología tales como la genética, la ecología, la fisiología y la evolución.
+
+<!-- ### Genética -->
+
+Aunque tanto el trabajo de Polanyi y Hoffmeyer, como el de Marcello Barbieri y el de más proponentes en el terreno de la biosemiótica se ha centrado en la genética, o al menos le ha otorgado un papel preponderante, la importancia de la biosemiótica no se reduce a este campo, sino que, como intentamos mostrar tanto en relación con la concepción de control dual de Polanyi como con respecto a la teoría del Umwelt de Uexküll, tiene aplicación en otras áreas de la biología en donde el concepto de organización adopta un rol central.
+
+Si bien los antecedentes teóricos de la biosemiótica se encuentran más cercanos a la fisiología y al estudio de la conducta y de la comunicación animal, con autores como Uexküll y Sebeok, así como en quienes les influyeron (Karl von Baer, Jean-Henri Fabre, Charles S. Peirce, Victoria Welby, etc.), que en la genética, no es de extrañar que este último campo haya recibido una atención preponderante en la biosemiótica contemporánea, pues, como Polanyi, Barbieri [@doi:10.1007/s00114-008-0368-x] y Hoffmeyer reconocen de manera explícita, el descubrimiento del código genético representó un parteaguas en la biología, en tanto que mostró la necesidad de incorporar nuevas aproximaciones teóricas, que nos permitieran dar cuenta, por un lado, de la existencia de códigos biológicos, en el pleno sentido de la palabra, y por el otro lado, de la existencia de su contraparte, esto es, de procesos de semiosis, o de interpretación, en los sistemas biológicos.
+
+Si bien esta situación peculiar en relación con la genética no ha pasado del todo desapercibida en la biología, Sarkar [@isbn:978-0-7923-3947-2] señala, muy atinadamente, que tal intuición tampoco ha dado lugar a un desarrollo teórico correspondiente y que aquellos esfuerzos por construir tal marco han tenido un alcance muy limitado.
+De tal manera que a pesar de una notable proliferación del lenguaje informacional en la biología, no existe una contraparte teórica que nos permita establecer con certeza el significado de esas afirmaciones ni su relevancia para el conocimiento de los sistemas biológicos.
+En particular, para Sarkar, la situación actual en la biología en relación con el uso del lenguaje informacional nos pondría en una encrucijada, pues mientras que aquellas teorías que han sido propuestas y que involucran alguna noción de información no parecen capturar el sentido de este concepto como es empleado en la genética y en la biología molecular.
+Por otro lado, aquellas propuestas que sí incorporan un sentido de "información" más cercano al empleado en esta área no parecen tener mucho impacto en términos de su potencial para explicar o predecir.
+
+Justamente en este punto es en el que la biosemiótica puede hacer una contribución importante para ayudar a esclarecer tanto el significado de los conceptos informacionales en la biología, como a distinguir entre los usos legítimos e ilegítimos de los mismos.
+De hecho, el reconocimiento de la singularidad del código genético es lo que parece motivar a los autores mencionados, incluyendo a Sarkar (a pesar de su escepticismo), a señalar la inconsistencia existente en la biología contemporánea con respecto al uso de conceptos informacionales sin el correspondiente marco teórico, como si cuando se habla de información en relación con la biología nos refiriéramos a un componente material más de las células, como la membrana celular o las mitocondrias.
+Sin embargo, lo que en el lenguaje habitual de la biología le ocurre a esa entidad es algo que difícilmente se podría predicar de un organelo u otro componente celular, pues suele decirse que esa información es leída, transcrita, traducida, copiada, corregida, transferida y expresada a través de distintos procesos biológicos.
+Como señalan tanto Hoffmeyer como Barbieri, si en efecto, y a pesar de los problemas que señala Sarkar, queremos aplicar con propiedad conceptos informacionales en la biología, entonces tendríamos que reconocer dos aspectos que han sido ignorados en la biología contemporánea:
+
+1) la existencia de procesos biológicos de interpretación  [@isbn:978-1-58966-169-1, xiv, 107] y
+2) la existencia de *convenciones naturales* que son producidas a través de procesos de codificación biológica [@doi:10.1007/978-1-4020-6340-4_2].
 
 
-### Ecología
-
-
-### Evolución
+<!-- ### Evolución -->
 
 > Eventually, the system will survive long enough to pass on its own copy of the digitalized memory (or part of it) to a new generation; this corresponds to a back-translation of the message to the digitalform.
 > But this latter process takes on its true significance only when seen at the level of the population.
 > For it is the population (rather than the single organism) that passes on messages about conditions of life to the memory of the collective (the gene pool).
 > The population could in this sense be considered a codification that itself expresses a message.
 > This codification, however, is necessarily analog---since it has to interact with the physical surroundings, and thus must share with these surroundings the properties of physical extension and contiguity. (Hoffmeyer, 2008, p. 103)
+
+
+<!-- ### Ecología -->
+
+
+<!-- ### Fisiología -->
+
 
 
 ## References {.page_break_before}
