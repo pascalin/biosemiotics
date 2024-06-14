@@ -5,7 +5,9 @@ abodarlos
 abordadas
 acabamos
 acciones
+acercamiento
 acostumbrados
+activación
 actuales
 actualmente
 acuerdo
@@ -33,6 +35,7 @@ Alternativamente
 ambas
 ambiciosa
 ambicioso
+ambiente
 ambientes
 ámbito
 ámbitos
@@ -64,12 +67,15 @@ aplicar
 aporta
 apreciar
 aproximaciones
+apunta
 apuntó
+aquel
 aquella
 aquellas
 aquello
 aquellos
 aquí
+arco
 área
 áreas
 argumenta
@@ -153,6 +159,7 @@ certeza
 ciencia
 ciencias
 científica
+científicas
 científico
 cierta
 ciertas
@@ -184,6 +191,7 @@ completa
 completo
 componente
 componentes
+comportamiento
 comprensible
 comprensión
 compuesta
@@ -204,6 +212,7 @@ conflictos
 conformado
 conformó
 conjeturar
+conjunción
 conjunto
 conlleva
 conocer
@@ -224,6 +233,7 @@ construcción
 construir
 construye
 contemporánea
+contemporáneos
 continuación
 continuidad
 contradictorias
@@ -245,7 +255,9 @@ correspondiente
 correspondientes
 cosas
 crea
+crearía
 creencia
+cromosomas
 cual
 cuál
 cuales
@@ -284,11 +296,14 @@ descrito
 descubrimiento
 desde
 desempeña
+desencadena
 desinterés
 desplegadas
 detallado
 determinar
+detrás
 dicha
+dicho
 diferencia
 diferencias
 diferentes
@@ -308,6 +323,7 @@ disciplinas
 discrepancia
 diseño
 disímiles
+dista
 distinción
 distinga
 distingue
@@ -320,6 +336,7 @@ diversas
 diversidad
 diverso
 Dobzhansky
+dominar
 donde
 dota
 dotar
@@ -334,7 +351,7 @@ efectual
 eficaces
 ejemplificar
 ejemplo
-el
+El
 él
 electroquímicas
 elementos
@@ -364,12 +381,13 @@ entiendan
 entiende
 entonces
 entorno
-entre
+Entre
 enunciaciones
 enzima
 epistémico
 epistemológica
 equipararse
+equivale
 esa
 esas
 escepticismo
@@ -405,10 +423,12 @@ estaría
 estas
 este
 estimula
+estimulación
 estimule
 estímulos
 esto
 estos
+estrecha
 estrictamente
 estructura
 estructurales
@@ -483,6 +503,8 @@ función
 funciona
 funcional
 funcionales
+funcionan
+funcionarían
 funda
 fundamentales
 fundamentalmente
@@ -525,6 +547,7 @@ igual
 ilegítimos
 iluminada
 iluminar
+imaginación
 impacto
 implicaciones
 implícita
@@ -553,9 +576,11 @@ influyeron
 información
 informacional
 informacionales
+instrucciones
 integración
 intención
 intentamos
+interacción
 interacciones
 interactúa
 interdisciplina
@@ -594,6 +619,8 @@ leyes
 libro
 limitado
 lingüística
+llega
+llegado
 llevan
 locomotora
 lugar
@@ -611,6 +638,7 @@ más
 matemática
 Mayr
 mecánica
+mecánicos
 medular
 mejor
 membrana
@@ -620,6 +648,7 @@ mencionar
 menos
 mera
 Merkwelt
+metabolismo
 metateórica
 metateórico
 metodología
@@ -637,6 +666,7 @@ moléculas
 mostrar
 mostró
 motivar
+muchas
 mucho
 muestra
 multifacético
@@ -670,8 +700,10 @@ ocasión
 ocasionalmente
 ocurre
 ofrecer
+ontogenético
 ontológica
 ontológico
+operación
 óperación
 operan
 óptico
@@ -681,10 +713,13 @@ orgánicos
 organismo
 organismos
 organización
+organizador
 órganos
 origen
 originalmente
 otorgado
+otorgan
+otorgarle
 otra
 otras
 otro
@@ -744,7 +779,7 @@ polisémico
 políticos
 ponderar
 pondría
-por
+Por
 posibilidad
 posibilidades
 posición
@@ -766,6 +801,7 @@ preguntas
 preponderante
 presenta
 presente
+presentes
 pretenda
 pretenden
 previa
@@ -782,9 +818,9 @@ principio
 principios
 problema
 problemas
+proceso
 procesos
 producción
-producidas
 producidos
 profunda
 profundo
@@ -840,6 +876,7 @@ referencia
 referida
 refiere
 refiriéramos
+reflejo
 reformulación
 reformulando
 reglas
@@ -855,6 +892,7 @@ relevantes
 representante
 representativa
 representó
+requería
 requeriría
 requiere
 requieren
@@ -898,6 +936,7 @@ será
 seres
 sería
 serían
+serie
 servir
 sí
 sido
@@ -947,7 +986,7 @@ sutil
 tal
 también
 tampoco
-tanto
+Tanto
 tecnología
 tema
 temas
@@ -988,6 +1027,7 @@ transdisciplina
 transdisciplinario
 transferida
 transiciones
+transportan
 trascends
 trata
 tratamiento
@@ -996,6 +1036,7 @@ trataría
 tratarse
 través
 tres
+tropismos
 tubo
 ubica
 Uexküll
@@ -1003,7 +1044,7 @@ Uexküllian
 últimas
 último
 Umwelt
-Una
+una
 unas
 unidad
 uniforme

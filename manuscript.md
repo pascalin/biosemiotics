@@ -7,7 +7,7 @@ keywords:
 - evolución
 - síntesis extendida
 lang: es
-date-meta: '2024-06-13'
+date-meta: '2024-06-14'
 author-meta:
 - C. David Suárez Pascal
 header-includes: |
@@ -21,11 +21,11 @@ header-includes: |
   <meta name="citation_title" content="Biosemiótica y evolución biológica" />
   <meta property="og:title" content="Biosemiótica y evolución biológica" />
   <meta property="twitter:title" content="Biosemiótica y evolución biológica" />
-  <meta name="dc.date" content="2024-06-13" />
-  <meta name="citation_publication_date" content="2024-06-13" />
-  <meta property="article:published_time" content="2024-06-13" />
-  <meta name="dc.modified" content="2024-06-13T20:51:05+00:00" />
-  <meta property="article:modified_time" content="2024-06-13T20:51:05+00:00" />
+  <meta name="dc.date" content="2024-06-14" />
+  <meta name="citation_publication_date" content="2024-06-14" />
+  <meta property="article:published_time" content="2024-06-14" />
+  <meta name="dc.modified" content="2024-06-14T06:28:26+00:00" />
+  <meta property="article:modified_time" content="2024-06-14T06:28:26+00:00" />
   <meta name="dc.language" content="es" />
   <meta name="citation_language" content="es" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -42,9 +42,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://pascalin.github.io/biosemiotics/" />
   <meta name="citation_pdf_url" content="https://pascalin.github.io/biosemiotics/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://pascalin.github.io/biosemiotics/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://pascalin.github.io/biosemiotics/v/df5a1df479fea6cfcb9a4027fb98a63fdf6c8aa4/" />
-  <meta name="manubot_html_url_versioned" content="https://pascalin.github.io/biosemiotics/v/df5a1df479fea6cfcb9a4027fb98a63fdf6c8aa4/" />
-  <meta name="manubot_pdf_url_versioned" content="https://pascalin.github.io/biosemiotics/v/df5a1df479fea6cfcb9a4027fb98a63fdf6c8aa4/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://pascalin.github.io/biosemiotics/v/f86ca46a8c257cc5b84517234d65a40cb5856e25/" />
+  <meta name="manubot_html_url_versioned" content="https://pascalin.github.io/biosemiotics/v/f86ca46a8c257cc5b84517234d65a40cb5856e25/" />
+  <meta name="manubot_pdf_url_versioned" content="https://pascalin.github.io/biosemiotics/v/f86ca46a8c257cc5b84517234d65a40cb5856e25/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -66,10 +66,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://pascalin.github.io/biosemiotics/v/df5a1df479fea6cfcb9a4027fb98a63fdf6c8aa4/))
+([permalink](https://pascalin.github.io/biosemiotics/v/f86ca46a8c257cc5b84517234d65a40cb5856e25/))
 was automatically generated
-from [pascalin/biosemiotics@df5a1df](https://github.com/pascalin/biosemiotics/tree/df5a1df479fea6cfcb9a4027fb98a63fdf6c8aa4)
-on June 13, 2024.
+from [pascalin/biosemiotics@f86ca46](https://github.com/pascalin/biosemiotics/tree/f86ca46a8c257cc5b84517234d65a40cb5856e25)
+on June 14, 2024.
 </em></small>
 
 
@@ -279,11 +279,17 @@ Por otro lado, aquellas propuestas que sí incorporan un sentido de "informació
 Justamente en este punto es en el que la biosemiótica puede hacer una contribución importante para ayudar a esclarecer tanto el significado de los conceptos informacionales en la biología, como a distinguir entre los usos legítimos e ilegítimos de los mismos.
 De hecho, el reconocimiento de la singularidad del código genético es lo que parece motivar a los autores mencionados, incluyendo a Sarkar (a pesar de su escepticismo), a señalar la inconsistencia existente en la biología contemporánea con respecto al uso de conceptos informacionales sin el correspondiente marco teórico, como si cuando se habla de información en relación con la biología nos refiriéramos a un componente material más de las células, como la membrana celular o las mitocondrias.
 Sin embargo, lo que en el lenguaje habitual de la biología le ocurre a esa entidad es algo que difícilmente se podría predicar de un organelo u otro componente celular, pues suele decirse que esa información es leída, transcrita, traducida, copiada, corregida, transferida y expresada a través de distintos procesos biológicos.
-Como señalan tanto Hoffmeyer como Barbieri, si en efecto, y a pesar de los problemas que señala Sarkar, queremos aplicar con propiedad conceptos informacionales en la biología, entonces tendríamos que reconocer dos aspectos que han sido ignorados en la biología contemporánea:
+Como señalan tanto Hoffmeyer como Barbieri, si en efecto, y a pesar de los problemas que apunta Sarkar, queremos aplicar con propiedad conceptos informacionales en la biología, entonces tendríamos que reconocer dos aspectos que han sido ignorados en la biología contemporánea:
 
-1) la existencia de procesos biológicos de interpretación  [@isbn:978-1-58966-169-1, xiv, 107] y
-2) la existencia de *convenciones naturales* que son producidas a través de procesos de codificación biológica [@doi:10.1007/978-1-4020-6340-4_2].
+1) la existencia de procesos biológicos de interpretación [@isbn:978-1-58966-169-1, xiv, 107] y
+2) la operación de procesos de codificación biológica que dan lugar al establecimiento de *convenciones naturales* [@doi:10.1007/978-1-4020-6340-4_2].
 
+En algún sentido, el descubrimiento del código genético y la relevancia que estos autores le otorgan equivale al reconocimiento por parte de Uexküll de que el comportamiento de los seres vivos requería para su explicación de algo más que los principios mecánicos, los tropismos o la idea del arco reflejo, que requería dar cuenta de la interacción estrecha entre la organización de los seres vivos y su mundo circundante.
+De hecho, en su breve acercamiento a la genética, Uexküll llega a otorgarle un papel central a los genes en el proceso del desarrollo ontogenético.
+Sin embargo, dicho papel dista mucho de aquel que ha llegado a dominar la imaginación de muchas personas tanto en las áreas científicas como no científicas.
+De acuerdo con Maynard Smith, esta concepción tendría detrás "la filosofía" de que los genes transportan, en forma digital, las instrucciones para construir un organismo [@isbn:978-0-300-08022-3, 2].
+Para Uexküll, los genes funcionan, en cambio, como una especie de organizador del desarrollo en el sentido de que su estimulación, o su activación, para expresarlo en términos más contemporáneos desencadena una serie de cambios en el metabolismo de las células [@doi:10.1007/978-3-662-36634-9, 168].
+Sin embargo, el plan de construcción, o las instrucciones, como las llama Maynard Smith, no están presentes en los cromosomas, sino que estos y lo genes funcionarían de manera similar a los organismos, de tal manera que la conjunción entre la organización del sistema genético y la estructura de su ambiente co-crearía el plan de construcción de los organismos [doi:10.1515/semi.1982.42.1.25].
 
 <!-- ### Evolución -->
 
