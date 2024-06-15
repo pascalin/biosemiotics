@@ -24,8 +24,8 @@ header-includes: |
   <meta name="dc.date" content="2024-06-15" />
   <meta name="citation_publication_date" content="2024-06-15" />
   <meta property="article:published_time" content="2024-06-15" />
-  <meta name="dc.modified" content="2024-06-15T18:29:12+00:00" />
-  <meta property="article:modified_time" content="2024-06-15T18:29:12+00:00" />
+  <meta name="dc.modified" content="2024-06-15T18:46:49+00:00" />
+  <meta property="article:modified_time" content="2024-06-15T18:46:49+00:00" />
   <meta name="dc.language" content="es" />
   <meta name="citation_language" content="es" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -42,9 +42,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://pascalin.github.io/biosemiotics/" />
   <meta name="citation_pdf_url" content="https://pascalin.github.io/biosemiotics/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://pascalin.github.io/biosemiotics/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://pascalin.github.io/biosemiotics/v/05123f88b91a9d66d216cd480c878f76a08c5183/" />
-  <meta name="manubot_html_url_versioned" content="https://pascalin.github.io/biosemiotics/v/05123f88b91a9d66d216cd480c878f76a08c5183/" />
-  <meta name="manubot_pdf_url_versioned" content="https://pascalin.github.io/biosemiotics/v/05123f88b91a9d66d216cd480c878f76a08c5183/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://pascalin.github.io/biosemiotics/v/c34763941e6e5cbad943e0f7b2c53e4cf707ea40/" />
+  <meta name="manubot_html_url_versioned" content="https://pascalin.github.io/biosemiotics/v/c34763941e6e5cbad943e0f7b2c53e4cf707ea40/" />
+  <meta name="manubot_pdf_url_versioned" content="https://pascalin.github.io/biosemiotics/v/c34763941e6e5cbad943e0f7b2c53e4cf707ea40/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -66,9 +66,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://pascalin.github.io/biosemiotics/v/05123f88b91a9d66d216cd480c878f76a08c5183/))
+([permalink](https://pascalin.github.io/biosemiotics/v/c34763941e6e5cbad943e0f7b2c53e4cf707ea40/))
 was automatically generated
-from [pascalin/biosemiotics@05123f8](https://github.com/pascalin/biosemiotics/tree/05123f88b91a9d66d216cd480c878f76a08c5183)
+from [pascalin/biosemiotics@c347639](https://github.com/pascalin/biosemiotics/tree/c34763941e6e5cbad943e0f7b2c53e4cf707ea40)
 on June 15, 2024.
 </em></small>
 
@@ -141,7 +141,8 @@ En vista de esto, lo más conveniente para ponderar la contribución particular 
 
 <!-- ### Introducción -->
 
-No obstante su carácter multifacético, distintos autores han identificado la idea o tesis central de la biosemiótica que capturaría, hasta un cierto punto, la naturaleza de esta nueva disciplina. Por ejemplo, Hoffmeyer ubica esa tesis en la idea de que "la vida se basa fundamentalmente en procesos semióticos" [@isbn:978-1-58966-169-1, 3].
+No obstante su carácter multifacético, distintos autores han identificado la idea o tesis central de la biosemiótica que
+capturaría, hasta un cierto punto, la naturaleza de esta nueva disciplina. Por ejemplo, Jesper Hoffmeyer ubica esa tesis en la idea de que "la vida se basa fundamentalmente en procesos semióticos" [@isbn:978-1-58966-169-1, 3].
 Alternativamente, para Queiroz, Emmeche, Kull y El-Hani, la "biosemiótica podría ser vista como biología interpretada como el estudio de sistemas vivientes de signos" [@isbn:978-0-262-20174-2, 91].
 En tanto que ambas enunciaciones expresan ideas similares, también plantean ciertas interrogantes con respecto a la naturaleza de esta disciplina y con respecto a sus relaciones con la biología.
 En primer lugar, la propuesta de Hoffmeyer pareciera sugerir un reacomodo con respecto a la estructura teórica asumida comúnmente en la biología, en donde la física y la química establecerían las bases sobre las que se funda el conocimiento biológico.

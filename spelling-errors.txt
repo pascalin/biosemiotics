@@ -32,7 +32,7 @@ afirmar
 afirmó
 albergar
 alcance
-Algo
+algo
 algún
 alguna
 algunas
@@ -168,7 +168,7 @@ cercano
 cercanos
 certeza
 ciencia
-Ciencias
+ciencias
 científica
 científico
 cierta
@@ -417,7 +417,7 @@ entiende
 entonces
 entorno
 entra
-Entre
+entre
 enunciaciones
 enzima
 epistémico
@@ -654,6 +654,7 @@ irrelevante
 irrupción
 Jakob
 jerarquizar
+Jesper
 jugado
 Justamente
 justicia
@@ -708,7 +709,7 @@ metateórico
 metodología
 metodologías
 México
-mientras
+Mientras
 misma
 mismas
 mismo
@@ -848,7 +849,7 @@ polisémico
 políticos
 ponderar
 pondría
-por
+Por
 posibilidad
 posibilidades
 posición
