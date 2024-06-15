@@ -7,7 +7,7 @@ keywords:
 - evolución
 - síntesis extendida
 lang: es
-date-meta: '2024-06-14'
+date-meta: '2024-06-15'
 author-meta:
 - C. David Suárez Pascal
 header-includes: |
@@ -21,11 +21,11 @@ header-includes: |
   <meta name="citation_title" content="Biosemiótica y evolución biológica" />
   <meta property="og:title" content="Biosemiótica y evolución biológica" />
   <meta property="twitter:title" content="Biosemiótica y evolución biológica" />
-  <meta name="dc.date" content="2024-06-14" />
-  <meta name="citation_publication_date" content="2024-06-14" />
-  <meta property="article:published_time" content="2024-06-14" />
-  <meta name="dc.modified" content="2024-06-14T06:28:26+00:00" />
-  <meta property="article:modified_time" content="2024-06-14T06:28:26+00:00" />
+  <meta name="dc.date" content="2024-06-15" />
+  <meta name="citation_publication_date" content="2024-06-15" />
+  <meta property="article:published_time" content="2024-06-15" />
+  <meta name="dc.modified" content="2024-06-15T18:29:12+00:00" />
+  <meta property="article:modified_time" content="2024-06-15T18:29:12+00:00" />
   <meta name="dc.language" content="es" />
   <meta name="citation_language" content="es" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -42,9 +42,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://pascalin.github.io/biosemiotics/" />
   <meta name="citation_pdf_url" content="https://pascalin.github.io/biosemiotics/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://pascalin.github.io/biosemiotics/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://pascalin.github.io/biosemiotics/v/f86ca46a8c257cc5b84517234d65a40cb5856e25/" />
-  <meta name="manubot_html_url_versioned" content="https://pascalin.github.io/biosemiotics/v/f86ca46a8c257cc5b84517234d65a40cb5856e25/" />
-  <meta name="manubot_pdf_url_versioned" content="https://pascalin.github.io/biosemiotics/v/f86ca46a8c257cc5b84517234d65a40cb5856e25/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://pascalin.github.io/biosemiotics/v/05123f88b91a9d66d216cd480c878f76a08c5183/" />
+  <meta name="manubot_html_url_versioned" content="https://pascalin.github.io/biosemiotics/v/05123f88b91a9d66d216cd480c878f76a08c5183/" />
+  <meta name="manubot_pdf_url_versioned" content="https://pascalin.github.io/biosemiotics/v/05123f88b91a9d66d216cd480c878f76a08c5183/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -66,10 +66,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://pascalin.github.io/biosemiotics/v/f86ca46a8c257cc5b84517234d65a40cb5856e25/))
+([permalink](https://pascalin.github.io/biosemiotics/v/05123f88b91a9d66d216cd480c878f76a08c5183/))
 was automatically generated
-from [pascalin/biosemiotics@f86ca46](https://github.com/pascalin/biosemiotics/tree/f86ca46a8c257cc5b84517234d65a40cb5856e25)
-on June 14, 2024.
+from [pascalin/biosemiotics@05123f8](https://github.com/pascalin/biosemiotics/tree/05123f88b91a9d66d216cd480c878f76a08c5183)
+on June 15, 2024.
 </em></small>
 
 
@@ -286,10 +286,31 @@ Como señalan tanto Hoffmeyer como Barbieri, si en efecto, y a pesar de los prob
 
 En algún sentido, el descubrimiento del código genético y la relevancia que estos autores le otorgan equivale al reconocimiento por parte de Uexküll de que el comportamiento de los seres vivos requería para su explicación de algo más que los principios mecánicos, los tropismos o la idea del arco reflejo, que requería dar cuenta de la interacción estrecha entre la organización de los seres vivos y su mundo circundante.
 De hecho, en su breve acercamiento a la genética, Uexküll llega a otorgarle un papel central a los genes en el proceso del desarrollo ontogenético.
-Sin embargo, dicho papel dista mucho de aquel que ha llegado a dominar la imaginación de muchas personas tanto en las áreas científicas como no científicas.
+Sin embargo, dicho papel dista mucho de aquel que ha llegado a dominar la imaginación de muchas personas tanto en el ámbito científico como fuera de él.
 De acuerdo con Maynard Smith, esta concepción tendría detrás "la filosofía" de que los genes transportan, en forma digital, las instrucciones para construir un organismo [@isbn:978-0-300-08022-3, 2].
-Para Uexküll, los genes funcionan, en cambio, como una especie de organizador del desarrollo en el sentido de que su estimulación, o su activación, para expresarlo en términos más contemporáneos desencadena una serie de cambios en el metabolismo de las células [@doi:10.1007/978-3-662-36634-9, 168].
-Sin embargo, el plan de construcción, o las instrucciones, como las llama Maynard Smith, no están presentes en los cromosomas, sino que estos y lo genes funcionarían de manera similar a los organismos, de tal manera que la conjunción entre la organización del sistema genético y la estructura de su ambiente co-crearía el plan de construcción de los organismos [doi:10.1515/semi.1982.42.1.25].
+Para Uexküll los genes funcionan, en cambio, como una especie de organizador del desarrollo en el sentido de que su estimulación, o su activación, para expresarlo en términos más contemporáneos desencadena una serie de cambios en el metabolismo de las células [@doi:10.1007/978-3-662-36634-9, 168], pero el plan de construcción, o las instrucciones, como las llama Maynard Smith, no están presentes físicamente en los cromosomas.
+Para explicar esto, Uexküll plantea una analogía con la música de acuerdo con la cual los genes están arreglados a la manera de un teclado y su activación ocurre siguiendo la pauta de una determinada melodía en cuya composición dominan los motivos de los círculos funcionales, o círculos de significación, en los que el organismo participa [@doi:10.1515/semi.1982.42.1.25].
+
+> A particular individual obtains a very small amount of matter from his parents in the form of a germ-cell, itself capable of division, and a keyboard composed of genes.
+> With each cell division these genes are distributed in the same number to the daughter cells.
+> This keyboard is played upon by the form-shaping melodies like the keys of a piano, in order to produce the development of form.
+> Each gene that is set into action acts as a differential stimulus to the protoplasm of its cells to build structures. [@doi:10.1515/semi.1982.42.1.25, 71]
+
+Si bien Uexküll no desarrolla mucho más su teoría sobre la generación de la forma (o teoría de composición de la naturaleza, como él la denomina), sí hace diversos señalamientos que son particularmente interesantes y que acentúan el contraste con otras teorías del desarrollo.
+En primer lugar, la propuesta de Uexküll tiene un fuerte componente ecológico, pues la melodía a la que se refiere es la coordinación (*Einpassung*) que existe entre una especie y aquellos factores, tanto bióticos como abióticos, que forman parte de su *Umwelt* y con los que cada organismo se relaciona a lo largo de su vida [@doi:10.1007/978-3-642-91036-4_15, 700].
+En segundo lugar, el patrón que orienta la generación de la forma, para Uexküll, no es la forma en sí, en el sentido acostumbrado del arreglo espacial de las partes, sino el desempeño (*Leistung*) de esas partes en relación con aquellos factores ecológicos con los que un organismo se relaciona de manera significativa [@doi:10.1515/semi.1982.42.1.25, 66].
+
+Como ya se ha señalado en un trabajo anterior [@doi:10.1007/s10838-021-09552-8], ambos aspectos de la propuesta de Uexküll configuran una teoría del organismo que entra en conflicto con algunas partes de la teoría evolutiva resultante de la síntesis moderna.
+En particular, la manera en que la síntesis moderna concibe la adaptación y la selección natural requiere una revisión profunda desde el punto de vista de la biosemiótica, pues, como ya señalaba Uexküll, si los organismos forman una unidad con su mundo circundante y se relacionan significativamente sólo con ciertos elementos de su entorno que les son accesibles en función de su organización, la misma idea de adaptación pierde sentido.
+Esta es una de las motivaciones de Uexküll para reemplazar el término de adaptación (*Anpassung*), por el de coordinación orgánica (*Einpassung*).
+De manera complementaria, el hecho de que las relaciones funcionales entre los organismos y su entorno se establezcan de manera primordial a partir de las acciones de los organismos conlleva un distanciamiento radical con respecto a la noción de *fitness* y particularmente con respecto a su pretensión de jerarquizar a los organismos en función de su adecuación al medio.
+
+Para ilustrar este punto quizás sería útil imaginarnos un conjunto de interruptores eléctricos que al ser accionados encienden una luz con distintos grados de éxito.
+En efecto, tales dispositivos podrían ser ordenados de manera creciente o decreciente según su efectividad para encender la luz (por ejemplo: 1%, 5%, 10%, 50%, 90%), sin embargo, a) si la función que desempeñan estos dispositivos formara parte de uno de los círculos funcionales, o tareas, que un organismo realiza, entonces es difícil pensar que una efectividad menor al 90% o incluso más alta, podría formar parte de ningún organismo en el mundo natural; por otro lado, b) si la tarea que desempeñan estos interruptores no formara parte de ningún círculo funcional del organismo entonces su efectividad sería completamente irrelevante para el organismo en cuestión.
+En cualquiera de los dos casos a) o b), parece muy complicado establecer un regla de comparación que nos permitiera ordenar a los organismos a partir de un solo rasgo.
+Y lo que es todavía más importante desde el punto de vista de la biosemiótica es que esa ordenación sólo tendría sentido una vez que la operación del rasgo en cuestión forma parte integral de un circulo funcional ya establecido.
+
+
 
 <!-- ### Evolución -->
 
