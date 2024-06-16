@@ -7,7 +7,7 @@ keywords:
 - evolución
 - síntesis extendida
 lang: es
-date-meta: '2024-06-15'
+date-meta: '2024-06-16'
 author-meta:
 - C. David Suárez Pascal
 header-includes: |
@@ -21,11 +21,11 @@ header-includes: |
   <meta name="citation_title" content="Biosemiótica y evolución biológica" />
   <meta property="og:title" content="Biosemiótica y evolución biológica" />
   <meta property="twitter:title" content="Biosemiótica y evolución biológica" />
-  <meta name="dc.date" content="2024-06-15" />
-  <meta name="citation_publication_date" content="2024-06-15" />
-  <meta property="article:published_time" content="2024-06-15" />
-  <meta name="dc.modified" content="2024-06-15T18:46:49+00:00" />
-  <meta property="article:modified_time" content="2024-06-15T18:46:49+00:00" />
+  <meta name="dc.date" content="2024-06-16" />
+  <meta name="citation_publication_date" content="2024-06-16" />
+  <meta property="article:published_time" content="2024-06-16" />
+  <meta name="dc.modified" content="2024-06-16T22:15:03+00:00" />
+  <meta property="article:modified_time" content="2024-06-16T22:15:03+00:00" />
   <meta name="dc.language" content="es" />
   <meta name="citation_language" content="es" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -42,9 +42,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://pascalin.github.io/biosemiotics/" />
   <meta name="citation_pdf_url" content="https://pascalin.github.io/biosemiotics/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://pascalin.github.io/biosemiotics/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://pascalin.github.io/biosemiotics/v/c34763941e6e5cbad943e0f7b2c53e4cf707ea40/" />
-  <meta name="manubot_html_url_versioned" content="https://pascalin.github.io/biosemiotics/v/c34763941e6e5cbad943e0f7b2c53e4cf707ea40/" />
-  <meta name="manubot_pdf_url_versioned" content="https://pascalin.github.io/biosemiotics/v/c34763941e6e5cbad943e0f7b2c53e4cf707ea40/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://pascalin.github.io/biosemiotics/v/088db099a4cff2d2f27789f63ec4e3ff1df319b9/" />
+  <meta name="manubot_html_url_versioned" content="https://pascalin.github.io/biosemiotics/v/088db099a4cff2d2f27789f63ec4e3ff1df319b9/" />
+  <meta name="manubot_pdf_url_versioned" content="https://pascalin.github.io/biosemiotics/v/088db099a4cff2d2f27789f63ec4e3ff1df319b9/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -66,10 +66,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://pascalin.github.io/biosemiotics/v/c34763941e6e5cbad943e0f7b2c53e4cf707ea40/))
+([permalink](https://pascalin.github.io/biosemiotics/v/088db099a4cff2d2f27789f63ec4e3ff1df319b9/))
 was automatically generated
-from [pascalin/biosemiotics@c347639](https://github.com/pascalin/biosemiotics/tree/c34763941e6e5cbad943e0f7b2c53e4cf707ea40)
-on June 15, 2024.
+from [pascalin/biosemiotics@088db09](https://github.com/pascalin/biosemiotics/tree/088db099a4cff2d2f27789f63ec4e3ff1df319b9)
+on June 16, 2024.
 </em></small>
 
 
@@ -222,8 +222,8 @@ Sin embargo, con respecto al segundo componente en la propuesta de Uexküll hay 
 Mientras que para Polanyi la contraparte de la estructura de un sistema bajo control dual, tal como las máquinas y los seres vivos, lo forman los principios físico-químicos, para Hoffmeyer se trataría más bien de una codificación analógica de las relaciones entre el organismo y su entorno.
 
 Así, mientras que la teoría del Umwelt de Uexküll podría analizarse en términos ya sea de la dualidad planteada por Polanyi o por Hoffmeyer, para reconstruirla de manera más precisa lo más adecuado sería apelar a la noción de frontera de Polanyi, para dar cuenta de la función que Uexküll le asigna al *Bauplan*, mientras que para dar cuenta de la relación con el entorno sería conveniente entenderla en términos de la codificación analógica planteada por Hoffmeyer, pues es precisamente en esos términos que Uexküll plantea la óperación tanto de los órganos perceptuales como de los órganos efectores.
-Si bien existe cierta correspondencia entre la idea de frontera de Polanyi y la idea de codificación digital planteada por Hoffmeyer, este último considera la organización correspondiente al Bauplan como un aspecto secundario, que sería especificado de manera primaria por la codificación digital en términos genéticos, lo cual crea cierta discrepancia con respecto a la unidad de análisis entre las propuestas de Uexküll y de Polanyi, por un lado, y la de Hoffmeyer, por el otro, pues mientras que Uexküll se centra en el organismo, Hoffmeyer pareciera estar mucho más interesado en el sistema genético y de hecho señala en alguna ocasión, reformulando un trabajo previo con Claus Emmeche [@isbn:978-0-89925-642-9, 127], que tanto las proteínas como el organismo son las formas análogas correspondientes a la codificación digital [@isbn:978-1-58966-169-1, 82].
-En cambio, tanto Uexküll como Polanyi ven, en el simple hecho de la organización, la posibilidad, e incluso la necesidad, de incorporar formas de explicación diferentes a las que se requieren para dar cuenta de sistemas que no se encuentran bajo lo que Polanyi denomina como control dual.
+Si bien existe cierta correspondencia entre la idea de frontera de Polanyi y la idea de codificación digital planteada por Hoffmeyer, este último considera la organización correspondiente al Bauplan como un aspecto secundario, que sería especificado de manera primaria por la codificación digital en términos genéticos, lo cual crea cierta discrepancia con respecto a la unidad de análisis entre las propuestas de Uexküll y de Polanyi, por un lado, y la de Hoffmeyer, por el otro, pues mientras que Polanyi reconoce diversos niveles de análisis y Uexküll se centra particularmente en el organismo, Hoffmeyer pareciera estar mucho más interesado en el sistema genético y de hecho señala en alguna ocasión, reformulando un trabajo previo con Claus Emmeche [@isbn:978-0-89925-642-9, 127], que tanto las proteínas como el organismo son las formas análogas correspondientes a la codificación digital [@isbn:978-1-58966-169-1, 82].
+A diferencia de Hoffmeyer tanto Uexküll como Polanyi ven, en el simple hecho de la organización, la posibilidad, e incluso la necesidad, de incorporar formas de explicación diferentes a las que se requieren para dar cuenta de sistemas que no se encuentran bajo lo que Polanyi denomina como control dual.
 La posición de Uexküll a este respecto es lo suficientemente explícita como para justificar su reconstrucción combinada en términos de las propuestas de condiciones de frontera y de codificación analógica, de Polanyi y de Hoffmeyer, respectivamente, como lo muestra la siguiente cita [@doi:10.1007/978-3-662-36634-9, 102]:
 
 > El tratamiento biológico de los círculos funcionales requiere que también consideremos desde la perspectiva de la concordancia a un plan la parte del círculo que transcurre en el Umwelt en el exterior del cuerpo.
@@ -244,13 +244,13 @@ Como vemos, en Uexküll ya aparecen combinadas las dos tesis que examinamos ante
 Por un lado, la dualidad referida tanto por Hoffmeyer como por Polanyi está presente de diversas maneras en la propuesta de Uexküll, aunque quizás de forma más representativa en su distinción entre mundo perceptual (*Merkwelt*) y mundo efectual (*Wirkwelt*).
 Por otro lado, la tesis de la interpretación orgánica aparece de manera explícita vinculada a su propuesta del círculo funcional (*Funktionskreis*), en donde Uexküll muestra cómo la integración perceptual de las características de aquellos elementos del entorno de un organismo que son significativos para su especie estimula su análisis en términos de acciones particulares dirigidas hacia ciertas estructuras del entorno.
 Como ya se ha argumentado previamente [@doi:10.1007/s10838-021-09552-8], en el esquema planteado por el círculo funcional las acciones desplegadas por el organismo son explicadas en términos del significado de los estímulos para el organismo, con base en su organización anatómica y fisiológica particular, más que en función de su naturaleza físico-química.
-Así, si bien la tesis de la dualidad pareciera tener, en Uexküll, un carácter ontológico, la tesis de la interpretación orgánica podría entenderse, en principio, en un sentido tanto pragmático como epistémico.
+Así, si bien la tesis de la dualidad pareciera tener en Uexküll también un carácter ontológico, la tesis de la interpretación orgánica podría entenderse, en principio, en un sentido tanto pragmático como epistémico.
 
 <!-- Así, es claro que para Uexküll no es suficiente con estudiar a los organismos desde el punto de vista de la física y de la química, sino que para dar cuenta de ellos es necesario atender también a lo que él denomina como la concordancia a un plan, que no es otra cosa sino la integración funcional de las partes con respecto a las actividades de los organismos, y de esas actividades con respecto al entorno de cada ser vivo y con respecto a las actividades de otros organismos. -->
 
 No obstante, independientemente del sentido preciso en que se entiendan, las dos tesis descritas aquí pretenden contribuir teóricamente a la biología, esto es, son propuestas que buscan ayudar a configurar nuestro conocimiento con respecto a un ámbito de la realidad que coincide con los sistemas biológicos en su sentido más amplio, desde los organismos más simples hasta los ecosistemas.
-Es más, dada su generalidad, y a diferencia de lo que podría sugerir el nombre de biosemiótica, las tesis de dualidad de código y de interpretación orgánica no se restringen al ámbito de la comunicación animal, ni mucho menos al de la comunicación humana, sino que pretenden reconfigurar de manera profunda la manera en que entendemos a los seres vivos y, particularmente, su relación con el entorno, por lo que la teoría biosemiótica podría equipararse en cuanto a su importancia para la biología con la teoría celular, con la teoría evolutiva o incluso con la genética, sin que pretenda reemplazar a ninguna de estas.
-En su lugar, las tesis propuestas por la biosemiótica se articulan de manera natural, como veremos a continuación, con otras teorías biológicas, incorporando esta nueva perspectiva en distintas áreas de la biología.
+A diferencia de lo que podría sugerir el nombre de biosemiótica, las tesis de dualidad de código y de interpretación orgánica no se restringen al ámbito de la comunicación animal, ni mucho menos al de la comunicación humana, sino que, dada su generalidad, pretenden reconfigurar de manera profunda la manera en que entendemos a los seres vivos y, particularmente, su relación con el entorno, por lo que la teoría biosemiótica podría equipararse en cuanto a su importancia para la biología con la teoría celular, con la teoría evolutiva o incluso con la genética, sin que pretenda reemplazar a ninguna de estas.
+En lugar de esto, las tesis propuestas por la biosemiótica se articulan de manera natural, como veremos a continuación, con otras teorías biológicas, incorporando esta nueva perspectiva en distintas áreas de la biología.
 
 [^2]: En contra de lo señalado por Stjernfelt, Hoffmeyer argumenta, en su libro de 2008, a favor de entender el componente analógico de los seres vivos no solamente en términos de procesos físico-químicos, sino en términos de códigos análogos. Si bien se trata de una diferencia sutil con respecto a la posición de Polanyi y de otros autores, este señalamiento de Hoffmeyer colocaría su versión de la dualidad de código más cerca de la propuesta de Uexküll, como señalaremos más adelante.
 
@@ -258,29 +258,32 @@ En su lugar, las tesis propuestas por la biosemiótica se articulan de manera na
 ## ¿Qué es lo que aporta la biosemiótica a la biología contemporánea?
 
 En una frase que ha sido ampliamente difundida en la biología, el genetista Theodosious Dobzhansky afirmó que «en biología nada tiene sentido si no es a la luz de la evolución» [@doi:10.2307/4444260].
-Por otro lado, en una afirmación casi igual de aventurada, Mayr afirma que en el caso de casi todo fenómeno biológico hay *siempre* un conjunto de causas próximas y un conjunto de causas últimas que deben ser abordadas para tener una comprensión completa del fenómeno [@doi:10.1126/science.134.3489.1501, 1503] .
+Por otro lado, en una afirmación casi igual de aventurada, Mayr afirma que en el caso de casi todo fenómeno biológico hay *siempre* un conjunto de causas próximas y un conjunto de causas últimas que deben ser abordadas para tener una comprensión completa del fenómeno [@doi:10.1126/science.134.3489.1501, 1503].
 Como hemos visto, algunas de las afirmaciones de la biosemiótica tienen un carácter igual de ambicioso que el de las dos afirmaciones previas.
-En particular, la tesis de la dualidad de código examinada en la sección previa tiene cierto parecido con la tesis de Mayr con respecto al problema de la causalidad en la biología, aunque también hay algunas diferencias importantes, como veremos a continuación.
+En particular, la tesis de la dualidad de código examinada en la sección previa tiene cierto parecido con la tesis de Mayr con
+respecto al problema de la causalidad en la biología, aunque también hay algunas diferencias importantes, como veremos más adelante.
 Por otro lado, algunas caracterizaciones propuestas para la biosemiótica podrían resumirse, a la manera de Dobzhansky, en la expresión de que nada en biología tiene sentido si no es a la luz de la significación.
 
-Aunque las afirmaciones de Dobzhansky y de Mayr son arriesgadas en términos filosóficos, su traducción en términos de la biosemiótica puede ser explicitada y argumentada de manera más consistente a partir de las dos tesis descritas en la sección anterior, reduciendo así quizás algunas reservas y malentendidos al respecto que son comunes tanto en el ámbito científico como en el filosófico.
-Una buena manera de hacer esto es analizando, aunque sea de manera somera, la relación que guardan las dos tesis biosemióticas centrales de dualidad de código y de interpretación orgánica con el cuerpo teórico y con el campo de estudios de grandes áreas de la biología tales como la genética, la ecología, la fisiología y la evolución.
+Aunque las afirmaciones de Dobzhansky y de Mayr son muy aventuradas en términos tanto teóricos como filosóficos, es posible
+reinterpretarlas al menos parcialmente desde el punto de vista de la biosemiótica de manera más consistente a partir de las dos tesis descritas en la sección anterior, reduciendo así quizás algunas reservas y malentendidos al respecto que son comunes tanto en el ámbito científico como en el filosófico.
+Una buena manera de hacer esto es analizando, aunque sea de manera somera, la relación que guardan las dos tesis biosemióticas
+centrales de dualidad de código y de interpretación orgánica con el cuerpo teórico y con el campo de estudios de áreas centrales de la biología tales como la genética y la evolución.
 
 <!-- ### Genética -->
-
 Aunque tanto el trabajo de Polanyi y Hoffmeyer, como el de Marcello Barbieri y el de más proponentes en el terreno de la biosemiótica se ha centrado en la genética, o al menos le ha otorgado un papel preponderante, la importancia de la biosemiótica no se reduce a este campo, sino que, como intentamos mostrar tanto en relación con la concepción de control dual de Polanyi como con respecto a la teoría del Umwelt de Uexküll, tiene aplicación en otras áreas de la biología en donde el concepto de organización adopta un rol central.
 
 Si bien los antecedentes teóricos de la biosemiótica se encuentran más cercanos a la fisiología y al estudio de la conducta y de la comunicación animal, con autores como Uexküll y Sebeok, así como en quienes les influyeron (Karl von Baer, Jean-Henri Fabre, Charles S. Peirce, Victoria Welby, etc.), que en la genética, no es de extrañar que este último campo haya recibido una atención preponderante en la biosemiótica contemporánea, pues, como Polanyi, Barbieri [@doi:10.1007/s00114-008-0368-x] y Hoffmeyer reconocen de manera explícita, el descubrimiento del código genético representó un parteaguas en la biología, en tanto que mostró la necesidad de incorporar nuevas aproximaciones teóricas, que nos permitieran dar cuenta, por un lado, de la existencia de códigos biológicos, en el pleno sentido de la palabra, y por el otro lado, de la existencia de su contraparte, esto es, de procesos de semiosis, o de interpretación, en los sistemas biológicos.
 
 Si bien esta situación peculiar en relación con la genética no ha pasado del todo desapercibida en la biología, Sarkar [@isbn:978-0-7923-3947-2] señala, muy atinadamente, que tal intuición tampoco ha dado lugar a un desarrollo teórico correspondiente y que aquellos esfuerzos por construir tal marco han tenido un alcance muy limitado.
 De tal manera que a pesar de una notable proliferación del lenguaje informacional en la biología, no existe una contraparte teórica que nos permita establecer con certeza el significado de esas afirmaciones ni su relevancia para el conocimiento de los sistemas biológicos.
-En particular, para Sarkar, la situación actual en la biología en relación con el uso del lenguaje informacional nos pondría en una encrucijada, pues mientras que aquellas teorías que han sido propuestas y que involucran alguna noción de información no parecen capturar el sentido de este concepto como es empleado en la genética y en la biología molecular.
+En particular, para Sarkar, la situación actual en la biología en relación con el uso del lenguaje informacional nos pondría en una encrucijada, pues aquellas teorías que han sido propuestas y que involucran alguna noción de información no parecen capturar el sentido de este concepto como es empleado en la genética y en la biología molecular.
 Por otro lado, aquellas propuestas que sí incorporan un sentido de "información" más cercano al empleado en esta área no parecen tener mucho impacto en términos de su potencial para explicar o predecir.
 
 Justamente en este punto es en el que la biosemiótica puede hacer una contribución importante para ayudar a esclarecer tanto el significado de los conceptos informacionales en la biología, como a distinguir entre los usos legítimos e ilegítimos de los mismos.
 De hecho, el reconocimiento de la singularidad del código genético es lo que parece motivar a los autores mencionados, incluyendo a Sarkar (a pesar de su escepticismo), a señalar la inconsistencia existente en la biología contemporánea con respecto al uso de conceptos informacionales sin el correspondiente marco teórico, como si cuando se habla de información en relación con la biología nos refiriéramos a un componente material más de las células, como la membrana celular o las mitocondrias.
 Sin embargo, lo que en el lenguaje habitual de la biología le ocurre a esa entidad es algo que difícilmente se podría predicar de un organelo u otro componente celular, pues suele decirse que esa información es leída, transcrita, traducida, copiada, corregida, transferida y expresada a través de distintos procesos biológicos.
-Como señalan tanto Hoffmeyer como Barbieri, si en efecto, y a pesar de los problemas que apunta Sarkar, queremos aplicar con propiedad conceptos informacionales en la biología, entonces tendríamos que reconocer dos aspectos que han sido ignorados en la biología contemporánea:
+Como señalan tanto Hoffmeyer como Barbieri, si en efecto, y a pesar de los problemas que apunta Sarkar, queremos aplicar con
+propiedad conceptos informacionales en la biología, entonces tendríamos que reconocer dos aspectos que han sido esencialmente ignorados en la biología contemporánea:
 
 1) la existencia de procesos biológicos de interpretación [@isbn:978-1-58966-169-1, xiv, 107] y
 2) la operación de procesos de codificación biológica que dan lugar al establecimiento de *convenciones naturales* [@doi:10.1007/978-1-4020-6340-4_2].
@@ -288,9 +291,9 @@ Como señalan tanto Hoffmeyer como Barbieri, si en efecto, y a pesar de los prob
 En algún sentido, el descubrimiento del código genético y la relevancia que estos autores le otorgan equivale al reconocimiento por parte de Uexküll de que el comportamiento de los seres vivos requería para su explicación de algo más que los principios mecánicos, los tropismos o la idea del arco reflejo, que requería dar cuenta de la interacción estrecha entre la organización de los seres vivos y su mundo circundante.
 De hecho, en su breve acercamiento a la genética, Uexküll llega a otorgarle un papel central a los genes en el proceso del desarrollo ontogenético.
 Sin embargo, dicho papel dista mucho de aquel que ha llegado a dominar la imaginación de muchas personas tanto en el ámbito científico como fuera de él.
-De acuerdo con Maynard Smith, esta concepción tendría detrás "la filosofía" de que los genes transportan, en forma digital, las instrucciones para construir un organismo [@isbn:978-0-300-08022-3, 2].
+De acuerdo con Maynard Smith, esta concepción heredada tendría detrás "la filosofía" de que los genes transportan, en forma digital, las instrucciones para construir un organismo [@isbn:978-0-300-08022-3, 2].
 Para Uexküll los genes funcionan, en cambio, como una especie de organizador del desarrollo en el sentido de que su estimulación, o su activación, para expresarlo en términos más contemporáneos desencadena una serie de cambios en el metabolismo de las células [@doi:10.1007/978-3-662-36634-9, 168], pero el plan de construcción, o las instrucciones, como las llama Maynard Smith, no están presentes físicamente en los cromosomas.
-Para explicar esto, Uexküll plantea una analogía con la música de acuerdo con la cual los genes están arreglados a la manera de un teclado y su activación ocurre siguiendo la pauta de una determinada melodía en cuya composición dominan los motivos de los círculos funcionales, o círculos de significación, en los que el organismo participa [@doi:10.1515/semi.1982.42.1.25].
+Para explicar esto, Uexküll plantea una analogía con la música, de acuerdo con la cual los genes están arreglados a la manera de un teclado y su activación ocurre siguiendo la pauta de una determinada melodía en cuya composición dominan los motivos de los círculos funcionales, o círculos de significación, en los que el organismo participa [@doi:10.1515/semi.1982.42.1.25].
 
 > A particular individual obtains a very small amount of matter from his parents in the form of a germ-cell, itself capable of division, and a keyboard composed of genes.
 > With each cell division these genes are distributed in the same number to the daughter cells.
@@ -301,7 +304,9 @@ Si bien Uexküll no desarrolla mucho más su teoría sobre la generación de la 
 En primer lugar, la propuesta de Uexküll tiene un fuerte componente ecológico, pues la melodía a la que se refiere es la coordinación (*Einpassung*) que existe entre una especie y aquellos factores, tanto bióticos como abióticos, que forman parte de su *Umwelt* y con los que cada organismo se relaciona a lo largo de su vida [@doi:10.1007/978-3-642-91036-4_15, 700].
 En segundo lugar, el patrón que orienta la generación de la forma, para Uexküll, no es la forma en sí, en el sentido acostumbrado del arreglo espacial de las partes, sino el desempeño (*Leistung*) de esas partes en relación con aquellos factores ecológicos con los que un organismo se relaciona de manera significativa [@doi:10.1515/semi.1982.42.1.25, 66].
 
-Como ya se ha señalado en un trabajo anterior [@doi:10.1007/s10838-021-09552-8], ambos aspectos de la propuesta de Uexküll configuran una teoría del organismo que entra en conflicto con algunas partes de la teoría evolutiva resultante de la síntesis moderna.
+<!-- ### Evolución -->
+Como ya se ha señalado en un trabajo anterior [@doi:10.1007/s10838-021-09552-8], ambos aspectos de la propuesta de Uexküll
+configuran una teoría del organismo sumamente original, pero que entra en conflicto con algunas partes de la teoría evolutiva resultante de la síntesis moderna.
 En particular, la manera en que la síntesis moderna concibe la adaptación y la selección natural requiere una revisión profunda desde el punto de vista de la biosemiótica, pues, como ya señalaba Uexküll, si los organismos forman una unidad con su mundo circundante y se relacionan significativamente sólo con ciertos elementos de su entorno que les son accesibles en función de su organización, la misma idea de adaptación pierde sentido.
 Esta es una de las motivaciones de Uexküll para reemplazar el término de adaptación (*Anpassung*), por el de coordinación orgánica (*Einpassung*).
 De manera complementaria, el hecho de que las relaciones funcionales entre los organismos y su entorno se establezcan de manera primordial a partir de las acciones de los organismos conlleva un distanciamiento radical con respecto a la noción de *fitness* y particularmente con respecto a su pretensión de jerarquizar a los organismos en función de su adecuación al medio.
@@ -311,22 +316,49 @@ En efecto, tales dispositivos podrían ser ordenados de manera creciente o decre
 En cualquiera de los dos casos a) o b), parece muy complicado establecer un regla de comparación que nos permitiera ordenar a los organismos a partir de un solo rasgo.
 Y lo que es todavía más importante desde el punto de vista de la biosemiótica es que esa ordenación sólo tendría sentido una vez que la operación del rasgo en cuestión forma parte integral de un circulo funcional ya establecido.
 
+Aunque la exploración detallada de las relaciones interteóricas entre la biosemiótica y otras teorías existentes en la biología contemporánea rebasa el alcance de este trabajo, a continuación hacemos algunas acotaciones muy sintéticas con respecto a su impacto en términos de las modificaciones más o menos profundas que se requieren a nivel teórico, así como de las nuevas interrogantes que se plantean y de las posibles vías de solución para problemas nuevos o ya existentes que se pueden construir.
+En particular, en el caso de la teoría evolutiva una de las modificaciones que se requiere es incorporar una conceptualización distinta de la relación organismo-ambiente que tome en cuenta que esa integración se da por al menos tres vías distintas: la de la percepción, la de las acciones de los organismos, y la de la organización interna, que vincula las primeras dos esferas.
+La consideración de esta triple articulación de la relación organismo-ambiente pone en serias dificultades a los modelos simples de optimización, tales como aquellos que han sido empleados para modelar la acción de la selección natural [@https://www.jstor.org/stable/2096742; @isbn:978-0-521-59836-1], y a su vez tiene un importante impacto filosófico, en tanto que una buena parte del debate con respecto al naturalismo se vincula de manera explícita o implícita con una concepción del *fitness* vinculada a la idea de optimización.
+Como se ha argumentado previamente [@doi:10.1007/s10838-021-09552-8], la vinculación entre la biosemiótica y la teoría evolutiva desplaza el foco de la investigación en biología evolutiva de la acción de la selección natural hacia los procesos por los que se construyen nuevos esquemas de organización que son capaces de mantener la coordinación tanto en términos morfofisiológicos, como ecológicos e interespecíficos.
 
+Si bien la naturaleza de esos procesos todavía constituye un problema abierto, una consideración de lo que aquí se ha propuesto como las tesis centrales de la biosemiótica, y particularmente de su articulación por parte de Uexküll, sugiere ciertas rutas de solución, las cuales ayudarán a mostrar, además, la originalidad de esta propuesta.
+En primer lugar, la aceptación de la dualidad de código, o del control dual, como le llama Polanyi, excluye las posibilidades planteadas por las propuestas de corte lamarckiano, pues éstas implicarían, o que el desajuste en la coordinación entre los organismos y su entorno influyera directamente en la organización adaptándola a fin de eliminar el desajuste, o que los procesos físico-químicos por su simple operación fueran suficientes para generar la organización de manera espontánea.
 
-<!-- ### Evolución -->
+En segundo lugar, la idea de que la variación al azar sea un factor esencial en la generación de nuevos esquemas de organización conlleva varios problemas desde el punto de vista de la biosemiótica, pues, si entendemos la variación en términos absolutos, nada garantiza que la coordinación organismo-ambiente se siga manteniendo a través de las distintas variaciones.
+En particular, si tomamos en cuenta cuáles son aquellos factores de significación, en términos de Uexküll, que determinan, por ejemplo, que un organismo identifique una presa, un depredador, o su pareja reproductiva, tales como un cierto patrón cromático, una determinada forma, un sonido peculiar, o una combinación de varios, la incorporación de variaciones al azar en el plan de construcción de este organismo difícilmente involucrará una mejora con respecto a la consumación de los círculos funcionales, o actividades, que desempeña.
+De hecho, dependiendo de cómo esté estructurado el entorno de un organismo, parece más factible el pensar que esas variaciones provoquen errores, tales como la confusión de un elemento no comestible o incluso venenoso, con algo comestible.
+No es necesario explicar que tal confusión difícilmente podría conducir a la generación de un nuevo plan de organización.
 
-> Eventually, the system will survive long enough to pass on its own copy of the digitalized memory (or part of it) to a new generation; this corresponds to a back-translation of the message to the digitalform.
-> But this latter process takes on its true significance only when seen at the level of the population.
-> For it is the population (rather than the single organism) that passes on messages about conditions of life to the memory of the collective (the gene pool).
-> The population could in this sense be considered a codification that itself expresses a message.
-> This codification, however, is necessarily analog---since it has to interact with the physical surroundings, and thus must share with these surroundings the properties of physical extension and contiguity. (Hoffmeyer, 2008, p. 103)
+Una tercera opción, que no ha sido suficientemente explorada es sugerida, al menos parcialmente, por Hoffmeyer.
+De acuerdo con lo que él propone, las poblaciones biológicas funcionan a manera de sistemas bajo control dual en los cuales el pool génico, esto es, el conjunto de variantes genéticas presentes en la población, funcionaría como condición de frontera (o determinaría las condiciones de frontera), mientras que las poblaciones, interactuando con un cierto entorno, equivaldrían a la codificación analógica de ese pool génico [@isbn:9781589661691, 103].
 
+<!-- > Eventually, the system will survive long enough to pass on its own copy of the digitalized memory (or part of it) to a new generation; this corresponds to a back-translation of the message to the digital form. -->
+<!-- > But this latter process takes on its true significance only when seen at the level of the population. -->
+<!-- > For it is the population (rather than the single organism) that passes on messages about conditions of life to the memory of the collective (the gene pool). -->
+<!-- > The population could in this sense be considered a codification that itself expresses a message. -->
+<!-- > This codification, however, is necessarily analog---since it has to interact with the physical surroundings, and thus must share with these surroundings the properties of physical extension and contiguity. (Hoffmeyer, 2008, p. 103) -->
 
-<!-- ### Ecología -->
+Si bien la propuesta de Hoffmeyer rescata, al menos parcialmente, la concepción poblacional asociada particularmente al darwinismo, la aplicación de su tesis de dualidad del código a las poblaciones biológicas podría resultar un poco forzada, pues en conjunto con su identificación del DNA con un sistema con dualidad de código, que mencionamos anteriormente y según la cual tanto las proteínas como el organismo corresponderían a codificaciones análogas, su aplicación a las poblaciones podría corresponder con una proliferación innecesaria de su modelo, equiparable con la idea, extrapolada de la síntesis moderna, de que la selección natural opera (y domina) en los más distintos niveles de la realidad.
+En cualquier caso, la cuestión sobre los ámbitos de aplicación de la dualidad de código es algo que sería necesario explorar de forma empírica.
+En cambio, un segundo aspecto de su propuesta que puede resultar esclarecedor tiene que ver con el papel de la codificación analógica, pues es ésta la que interactua directamente con el entorno de un organismo, o más precisamente con sus objetos.
+Así mismo, es en función de esa codificación analógica que se da la relación entre distintas especies, de tal manera que, en concordancia con lo que señala Uexküll, la telaraña que teje una araña es una codificación analógica de la mosca o de aquellas presas que le sirven como alimento.
+Como sugiere Uexküll, esa codificación analógica es el patrón que guía la generación de la forma en cada especie y podríamos aventurar, siguiendo esta observación de Uexküll, que es precisamente la interacción analógica la que sirve de semilla para la construcción de nuevos planes de organización.
+Sin embargo, actualmente desconocemos cómo es que esto puede ocurrir.
 
+Autores como Hoffmeyer y Kull han señalado ciertas concordancias entre las tesis de la biosemiótica y algunas propuestas recientes en la biología evolutiva, tales como la construcción de nicho, la idea de herencia extendida, la teoría de los sistemas en desarrollo, etc., y, ciertamente, la vinculación entre estas teorías y la biosemiótica podría producir un enriquecimiento mutuo.
+De hecho, algunas de estas teorías recuperan elementos que ya estaban presentes en autores como Uexküll, tal como es el caso de algunas propuestas de Richard Lewontin, quien, tras examinar la relación entre los organismos, la genética y el ambiente afirma, entre otras cosas, que son los organismos los que seleccionan su ambiente y no al revés, lo cual tiene resonancias muy notables con las propuestas del primero [@isbn:978-0-674-00159-6; @doi:10.7551/mitpress/3824.003.0002].
 
-<!-- ### Fisiología -->
+Pero independientemente de su concordancia con desarrollos recientes en la biología evolutiva, las acotaciones que señalamos más arriba apuntan hacia la necesidad de una profunda revisión de la teoría genética a la luz de las tesis de la biosemiótica y de los problemas abiertos en relación con la evolución, particularmente con el problema de la construcción de nuevos planes de organización (con sus propios círculos funcionales y sus factores de significación en coordinación con su entorno).
+No es sino en este punto en el que cobra mayor sentido la denominación que ha recibido la biosemiótica, pues, como bien reconoce Polanyi, el código genético comparte características con un lenguaje de comunicación no solamente en el sentido del vocabulario que la biología ha seleccionado para referirse a los procesos en torno a la genética molecular, tales como la traducción, la transcripción, etc., sino en el sentido crucial de que se trata en efecto de un código natural que es interpretado por sistemas vivientes que a su vez, a lo largo de su desarrollo y de su vida entera se encargan de interpretar aquellos signos que perciben de su entorno y de reaccionar en consecuencia.
 
+Si bien los avances técnicos en relación con la secuenciación han hecho revelaciones muy importantes en relación con la genealogía y la filogenia de distintas especies e incluso de los distintos componentes de las células eucariotas, estos avances se han conseguido esencialmente a partir del análisis sintáctico de las secuencias de DNA.
+Aunque este análisis sintáctico es ciertamente crucial para entender las relaciones a nivel molecular, es ciertamente limitado para dar cuenta de aspectos como el desarrollo y la evolución.
+Con respecto a lo primero, tanto desde la biosemiótica como desde otras áreas, se han hecho propuestas para formular teorías semánticas [@doi:10.1086/344621] o incluso semióticas [@isbn:978-1-4051-0152-3; @isbn:9781589661691] de la genética del desarrollo que resultan promisorias y que podrían en efecto dar cuenta de los procesos biológicos de interpretación que Hoffmeyer echa de menos en la biología contemporánea.
+Por otro lado, el establecimiento de convenciones naturales por medio de procesos biológicos de codificación hacia el que apunta Barbieri pareciera estar un poco más lejos de lo que el logro de la síntesis evolutiva moderna parecía indicarnos.
+En particular, como sugieren tanto Uexküll como Hoffmeyer, la clave de este fenómeno podría estar en el ámbito de la codificación analógica, como le llama Hoffmeyer, más que en el de los códigos digitales; lo cual apunta ya hacia dos áreas de la biología contemporánea que han quedado incluso más relegadas de los debates sobre la evolución que el tema del desarrollo embrionario: la fisiología y la ecología.
+A diferencia de áreas como la genética, la embriología y la biología evolutiva, tanto la fisiología como la ecología se enfocan de manera prepoderante en las interacciones analógicas, aunque frecuentemente se les aborda desde el punto de vista de otras ciencias como la física, la química, la geología, la geografía, etc.
+Si bien tales perspectivas no carecen de importancia, de la misma manera que la consideración de la genética como una genuina teoría biológica de la interpretación puede producir revelaciones importantes, la consideración de la fisiología y de la ecología desde el punto de vista de su relación con la organización no solamente podría producir perspectivas novedosas, sino que podría además ser crucial para resolver el problema de la evolución de esos esquemas organizativos, del origen de nuevas especies y, ¿por qué no?, de nuevos sistemas ecológicos.
+Ambos problemas sumamente relevantes para comprender y enfrentar las crisis a las que nos enfrentamos actualmente en relación con el cambio climático.
 
 
 ## References {.page_break_before}
