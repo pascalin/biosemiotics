@@ -199,7 +199,7 @@ cercano
 cercanos
 certeza
 ciencia
-ciencias
+Ciencias
 científica
 científico
 cierta
@@ -473,7 +473,7 @@ Einpassung
 ejecución
 ejemplificar
 ejemplo
-el
+El
 él
 eléctricos
 electroquímicas
@@ -521,7 +521,7 @@ entonces
 entorno
 entra
 entrar
-Entre
+entre
 enunciaciones
 enzima
 epistémico
@@ -1327,7 +1327,7 @@ sonido
 sostenida
 sostiene
 Stjernfelt
-Su
+su
 Suárez
 subdisciplinas
 subyacentes
@@ -1352,7 +1352,7 @@ sutil
 tal
 también
 tampoco
-Tanto
+tanto
 tarea
 tareas
 teclado
@@ -1387,7 +1387,7 @@ tipo
 tipos
 toda
 todavía
-Todo
+todo
 todos
 tomamos
 torno
@@ -1422,7 +1422,7 @@ Uexküllian
 últimas
 último
 Umwelt
-Una
+una
 unas
 unidad
 uniforme

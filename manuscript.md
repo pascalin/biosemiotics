@@ -1,11 +1,10 @@
 ---
-title: Biosemiótica y evolución biológica
+title: El lugar de la biosemiótica en la biología actual
 keywords:
 - biosemiótica
 - teorías biológicas
 - darwinismo
-- evolución
-- síntesis extendida
+- dualidad de código
 lang: es
 date-meta: '2024-06-17'
 author-meta:
@@ -17,15 +16,15 @@ header-includes: |
   -->
   <meta name="dc.format" content="text/html" />
   <meta property="og:type" content="article" />
-  <meta name="dc.title" content="Biosemiótica y evolución biológica" />
-  <meta name="citation_title" content="Biosemiótica y evolución biológica" />
-  <meta property="og:title" content="Biosemiótica y evolución biológica" />
-  <meta property="twitter:title" content="Biosemiótica y evolución biológica" />
+  <meta name="dc.title" content="El lugar de la biosemiótica en la biología actual" />
+  <meta name="citation_title" content="El lugar de la biosemiótica en la biología actual" />
+  <meta property="og:title" content="El lugar de la biosemiótica en la biología actual" />
+  <meta property="twitter:title" content="El lugar de la biosemiótica en la biología actual" />
   <meta name="dc.date" content="2024-06-17" />
   <meta name="citation_publication_date" content="2024-06-17" />
   <meta property="article:published_time" content="2024-06-17" />
-  <meta name="dc.modified" content="2024-06-17T00:16:49+00:00" />
-  <meta property="article:modified_time" content="2024-06-17T00:16:49+00:00" />
+  <meta name="dc.modified" content="2024-06-17T00:27:31+00:00" />
+  <meta property="article:modified_time" content="2024-06-17T00:27:31+00:00" />
   <meta name="dc.language" content="es" />
   <meta name="citation_language" content="es" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -42,9 +41,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://pascalin.github.io/biosemiotics/" />
   <meta name="citation_pdf_url" content="https://pascalin.github.io/biosemiotics/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://pascalin.github.io/biosemiotics/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://pascalin.github.io/biosemiotics/v/103ff1e53dfae6c5ea078af16e46aec702c774ba/" />
-  <meta name="manubot_html_url_versioned" content="https://pascalin.github.io/biosemiotics/v/103ff1e53dfae6c5ea078af16e46aec702c774ba/" />
-  <meta name="manubot_pdf_url_versioned" content="https://pascalin.github.io/biosemiotics/v/103ff1e53dfae6c5ea078af16e46aec702c774ba/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://pascalin.github.io/biosemiotics/v/3fdc91100faea082fa21e69e8c500dcc7e3db925/" />
+  <meta name="manubot_html_url_versioned" content="https://pascalin.github.io/biosemiotics/v/3fdc91100faea082fa21e69e8c500dcc7e3db925/" />
+  <meta name="manubot_pdf_url_versioned" content="https://pascalin.github.io/biosemiotics/v/3fdc91100faea082fa21e69e8c500dcc7e3db925/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -66,9 +65,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://pascalin.github.io/biosemiotics/v/103ff1e53dfae6c5ea078af16e46aec702c774ba/))
+([permalink](https://pascalin.github.io/biosemiotics/v/3fdc91100faea082fa21e69e8c500dcc7e3db925/))
 was automatically generated
-from [pascalin/biosemiotics@103ff1e](https://github.com/pascalin/biosemiotics/tree/103ff1e53dfae6c5ea078af16e46aec702c774ba)
+from [pascalin/biosemiotics@3fdc911](https://github.com/pascalin/biosemiotics/tree/3fdc91100faea082fa21e69e8c500dcc7e3db925)
 on June 17, 2024.
 </em></small>
 
