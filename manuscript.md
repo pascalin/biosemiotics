@@ -23,8 +23,8 @@ header-includes: |
   <meta name="dc.date" content="2024-06-17" />
   <meta name="citation_publication_date" content="2024-06-17" />
   <meta property="article:published_time" content="2024-06-17" />
-  <meta name="dc.modified" content="2024-06-17T00:27:31+00:00" />
-  <meta property="article:modified_time" content="2024-06-17T00:27:31+00:00" />
+  <meta name="dc.modified" content="2024-06-17T06:18:46+00:00" />
+  <meta property="article:modified_time" content="2024-06-17T06:18:46+00:00" />
   <meta name="dc.language" content="es" />
   <meta name="citation_language" content="es" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -41,9 +41,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://pascalin.github.io/biosemiotics/" />
   <meta name="citation_pdf_url" content="https://pascalin.github.io/biosemiotics/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://pascalin.github.io/biosemiotics/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://pascalin.github.io/biosemiotics/v/3fdc91100faea082fa21e69e8c500dcc7e3db925/" />
-  <meta name="manubot_html_url_versioned" content="https://pascalin.github.io/biosemiotics/v/3fdc91100faea082fa21e69e8c500dcc7e3db925/" />
-  <meta name="manubot_pdf_url_versioned" content="https://pascalin.github.io/biosemiotics/v/3fdc91100faea082fa21e69e8c500dcc7e3db925/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://pascalin.github.io/biosemiotics/v/cde1a5cc47c4114664ccd73181267e19ad537a6d/" />
+  <meta name="manubot_html_url_versioned" content="https://pascalin.github.io/biosemiotics/v/cde1a5cc47c4114664ccd73181267e19ad537a6d/" />
+  <meta name="manubot_pdf_url_versioned" content="https://pascalin.github.io/biosemiotics/v/cde1a5cc47c4114664ccd73181267e19ad537a6d/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -65,9 +65,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://pascalin.github.io/biosemiotics/v/3fdc91100faea082fa21e69e8c500dcc7e3db925/))
+([permalink](https://pascalin.github.io/biosemiotics/v/cde1a5cc47c4114664ccd73181267e19ad537a6d/))
 was automatically generated
-from [pascalin/biosemiotics@3fdc911](https://github.com/pascalin/biosemiotics/tree/3fdc91100faea082fa21e69e8c500dcc7e3db925)
+from [pascalin/biosemiotics@cde1a5c](https://github.com/pascalin/biosemiotics/tree/cde1a5cc47c4114664ccd73181267e19ad537a6d)
 on June 17, 2024.
 </em></small>
 
