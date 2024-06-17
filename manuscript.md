@@ -23,8 +23,8 @@ header-includes: |
   <meta name="dc.date" content="2024-06-17" />
   <meta name="citation_publication_date" content="2024-06-17" />
   <meta property="article:published_time" content="2024-06-17" />
-  <meta name="dc.modified" content="2024-06-17T18:56:14+00:00" />
-  <meta property="article:modified_time" content="2024-06-17T18:56:14+00:00" />
+  <meta name="dc.modified" content="2024-06-17T20:26:03+00:00" />
+  <meta property="article:modified_time" content="2024-06-17T20:26:03+00:00" />
   <meta name="dc.language" content="es" />
   <meta name="citation_language" content="es" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -41,9 +41,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://pascalin.github.io/biosemiotics/" />
   <meta name="citation_pdf_url" content="https://pascalin.github.io/biosemiotics/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://pascalin.github.io/biosemiotics/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://pascalin.github.io/biosemiotics/v/93d8824ddd46bc1424356282658bf29b3184ba85/" />
-  <meta name="manubot_html_url_versioned" content="https://pascalin.github.io/biosemiotics/v/93d8824ddd46bc1424356282658bf29b3184ba85/" />
-  <meta name="manubot_pdf_url_versioned" content="https://pascalin.github.io/biosemiotics/v/93d8824ddd46bc1424356282658bf29b3184ba85/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://pascalin.github.io/biosemiotics/v/c8f39a28d81ff4ebb1b410ec753e66ae2c2e32dd/" />
+  <meta name="manubot_html_url_versioned" content="https://pascalin.github.io/biosemiotics/v/c8f39a28d81ff4ebb1b410ec753e66ae2c2e32dd/" />
+  <meta name="manubot_pdf_url_versioned" content="https://pascalin.github.io/biosemiotics/v/c8f39a28d81ff4ebb1b410ec753e66ae2c2e32dd/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -65,9 +65,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://pascalin.github.io/biosemiotics/v/93d8824ddd46bc1424356282658bf29b3184ba85/))
+([permalink](https://pascalin.github.io/biosemiotics/v/c8f39a28d81ff4ebb1b410ec753e66ae2c2e32dd/))
 was automatically generated
-from [pascalin/biosemiotics@93d8824](https://github.com/pascalin/biosemiotics/tree/93d8824ddd46bc1424356282658bf29b3184ba85)
+from [pascalin/biosemiotics@c8f39a2](https://github.com/pascalin/biosemiotics/tree/c8f39a28d81ff4ebb1b410ec753e66ae2c2e32dd)
 on June 17, 2024.
 </em></small>
 
@@ -114,7 +114,7 @@ Para responder a algunas de estas preguntas, este trabajo se centrará principal
 ## Introducción {.page_break_before}
 
 La biosemiótica es un campo de investigación relativamente reciente.
-Aunque sus antecedentes teóricos y filosóficos pueden rastrearse al menos hasta los trabajos de Charles S. Peirce y de Jakob von Uexküll, su articulación como un campo de investigación independiente no tiene mucho más de 40 años y no es sino hasta hace relativamente poco que se estableció la primera publicación científica enfocada específicamente en este tema [@doi:10.1007/978-1-4020-9650-1_1], que se conformó una sociedad científica independiente alrededor de este campo de estudios (la International Society for Biosemiotic Studies), y que empezó a ser conocida dentro de un público más amplio tanto científico como no científico.
+Aunque sus antecedentes teóricos y filosóficos pueden rastrearse al menos hasta los trabajos de Charles S. Peirce y de Jakob von Uexküll, su articulación como un campo de investigación independiente no tiene mucho más de 40 años y no es sino hasta hace relativamente poco que se estableció la primera publicación científica (la revista *Biosemiotics*) enfocada específicamente en este tema [@doi:10.1007/978-1-4020-9650-1_1], que se conformó una sociedad científica independiente alrededor de este campo de estudios (la [International Society for Biosemiotic Studies](http://www.biosemiotics.org/)), y que empezó a ser conocida dentro de un público más amplio tanto científico como no científico.
 No obstante, a pesar de la existencia de al menos dos volúmenes enfocados en ofrecer una panorámica del área [@isbn:978-1-4020-9649-5;@isbn:978-1-58966-169-1], y del gran número de trabajos de diversa índole que han sido publicados sobre la biosemiótica, o que adoptan una perspectiva biosemiótica con respecto a algún problema biológico en particular, salta a la vista la falta de interés en la biosemiótica desde la perspectiva de la filosofía de la ciencia y particularmente de la filosofía de la biología, así como de la historia de las ciencias y particularmente de la biología, y esto se aplica en general a todos los estudios sobre la ciencia y la tecnología.
 
 No es demasiado difícil conjeturar cuáles podrían ser algunas de las causas de este desinterés, entre las que se encuentra cierta marginalización tanto de los personajes que constituyen antecedentes históricos para esta nueva disciplina, como también de algunas y algunos de sus actuales defensores.
@@ -133,7 +133,7 @@ Sin embargo, como veremos, un examen más detallado de la biosemiótica muestra 
 El problema con esta denominación, además de su carácter polisémico, es que no especifica de manera precisa cuál es la relación que se plantea entre biología y semiótica, ni nos permite tampoco anticipar la naturaleza de los cambios a nivel teórico que la adopción de la biosemiótica demanda ni para la biología ni para la semiótica.
 En vista de esto, lo más conveniente para ponderar la contribución particular que la biosemiótica puede hacer a la biología será examinar en primer lugar sus propuestas teóricas, en segundo lugar, su papel como incorporaciones a la red teórica (o las redes teóricas) de la biología contemporánea, para, finalmente, considerar su carácter inter- o transdisciplinario, esperando que esta cuestión sea iluminada a su vez por las dos consideraciones previas a nivel metateórico.
 
-[^1]: El concepto de transdisciplina fue propuesto originalmente por Piaget [@http://zotero.org/users/2261/items/4L28IAIU] y fue desarrollado por Morin [@isbn:978-2-213-01151-6] y por Nicolescu [@isbn:978-2-268-02208-6] como una ambiciosa propuesta metateórica (o meta-metateórica), y por Gibbons, Limoges, Nowotny, Schwartzman, Scott & Trow [@isbn:9781446265871] como una propuesta también metateórica pero más enfocada en las condiciones actuales de producción del conocimiento.
+[^1]: El concepto de transdisciplina fue propuesto originalmente por Piaget [@http://zotero.org/users/2261/items/4L28IAIU] y fue desarrollado por Morin [@isbn:978-2-213-01151-6] y por Nicolescu [@isbn:978-2-268-02208-6] como una ambiciosa propuesta metateórica (o meta-metateórica), y por Gibbons, Limoges, Nowotny, Schwartzman, Scott & Trow [@isbn:9781446265871] como una propuesta también metateórica pero más enfocada en las condiciones actuales de producción del conocimiento [@https://jrp.icaap.org/index.php/jrp/article/view/510.html].
 
 
 ## ¿Qué es lo que propone la biosemiótica?
