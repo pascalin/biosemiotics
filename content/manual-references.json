@@ -18,5 +18,70 @@
       "family": "Himmelstein"
     }
   ]
-}
+},
+    {
+	"id": "http://zotero.org/users/2261/items/XDU7REYW",
+	"type": "article-journal",
+	"abstract": "This paper briefly outlines the main ideas of biosemiotics in 22 hypotheses, with special regards to the version of it claimed by Jesper Hoffmeyer.",
+	"container-title": "Sign Systems Studies",
+	"issue": "1",
+	"language": "en",
+	"page": "337-345",
+	"source": "Zotero",
+	"title": "Biosemiotics as expressed in 22 basic hypotheses",
+	"volume": "30",
+	"author": [
+	    {
+		"family": "Stjernfelt",
+		"given": "Frederik"
+	    }
+	],
+	"issued": {
+	    "date-parts": [
+		[
+		    "2002"
+		]
+	    ]
+	}
+    },
+    {
+	"id": "http://zotero.org/users/2261/items/4L28IAIU",
+	"type": "chapter",
+	"container-title": "Interdisciplinarity: Problems of Teaching and Research in Universities",
+	"language": "en",
+	"note": "ERIC Number: ED061895",
+	"page": "127-139",
+	"publisher": "OECD Publications Center, Suite 1207, 1750 Pennsylvania Avenue, N",
+	"source": "ERIC",
+	"title": "The Epistemology of Interdisciplinary Relationships",
+	"title-short": "Interdisciplinarity",
+	"URL": "https://eric.ed.gov/?id=ED061895",
+	"contributor": [
+	    {
+		"literal": "Centre for Educational Research and Innovation (OECD)"
+	    }
+	],
+	"author": [
+	    {
+		"family": "Piaget",
+		"given": "Jean"
+	    }
+	],
+	"accessed": {
+	    "date-parts": [
+		[
+		    "2024",
+		    6,
+		    17
+		]
+	    ]
+	},
+	"issued": {
+	    "date-parts": [
+		[
+		    "1972"
+		]
+	    ]
+	}
+    }
 ]
