@@ -1,5 +1,5 @@
 ---
-title: El lugar de la biosemiótica en la biología actual
+title: La biosemiótica como biología teórica
 keywords:
 - biosemiótica
 - teorías biológicas
@@ -16,15 +16,15 @@ header-includes: |
   -->
   <meta name="dc.format" content="text/html" />
   <meta property="og:type" content="article" />
-  <meta name="dc.title" content="El lugar de la biosemiótica en la biología actual" />
-  <meta name="citation_title" content="El lugar de la biosemiótica en la biología actual" />
-  <meta property="og:title" content="El lugar de la biosemiótica en la biología actual" />
-  <meta property="twitter:title" content="El lugar de la biosemiótica en la biología actual" />
+  <meta name="dc.title" content="La biosemiótica como biología teórica" />
+  <meta name="citation_title" content="La biosemiótica como biología teórica" />
+  <meta property="og:title" content="La biosemiótica como biología teórica" />
+  <meta property="twitter:title" content="La biosemiótica como biología teórica" />
   <meta name="dc.date" content="2024-06-17" />
   <meta name="citation_publication_date" content="2024-06-17" />
   <meta property="article:published_time" content="2024-06-17" />
-  <meta name="dc.modified" content="2024-06-17T13:17:19+00:00" />
-  <meta property="article:modified_time" content="2024-06-17T13:17:19+00:00" />
+  <meta name="dc.modified" content="2024-06-17T18:56:14+00:00" />
+  <meta property="article:modified_time" content="2024-06-17T18:56:14+00:00" />
   <meta name="dc.language" content="es" />
   <meta name="citation_language" content="es" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -41,9 +41,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://pascalin.github.io/biosemiotics/" />
   <meta name="citation_pdf_url" content="https://pascalin.github.io/biosemiotics/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://pascalin.github.io/biosemiotics/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://pascalin.github.io/biosemiotics/v/9594ac95e43cdf92c6a7bb3a1f159eff3ff38c7e/" />
-  <meta name="manubot_html_url_versioned" content="https://pascalin.github.io/biosemiotics/v/9594ac95e43cdf92c6a7bb3a1f159eff3ff38c7e/" />
-  <meta name="manubot_pdf_url_versioned" content="https://pascalin.github.io/biosemiotics/v/9594ac95e43cdf92c6a7bb3a1f159eff3ff38c7e/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://pascalin.github.io/biosemiotics/v/93d8824ddd46bc1424356282658bf29b3184ba85/" />
+  <meta name="manubot_html_url_versioned" content="https://pascalin.github.io/biosemiotics/v/93d8824ddd46bc1424356282658bf29b3184ba85/" />
+  <meta name="manubot_pdf_url_versioned" content="https://pascalin.github.io/biosemiotics/v/93d8824ddd46bc1424356282658bf29b3184ba85/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -65,9 +65,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://pascalin.github.io/biosemiotics/v/9594ac95e43cdf92c6a7bb3a1f159eff3ff38c7e/))
+([permalink](https://pascalin.github.io/biosemiotics/v/93d8824ddd46bc1424356282658bf29b3184ba85/))
 was automatically generated
-from [pascalin/biosemiotics@9594ac9](https://github.com/pascalin/biosemiotics/tree/9594ac95e43cdf92c6a7bb3a1f159eff3ff38c7e)
+from [pascalin/biosemiotics@93d8824](https://github.com/pascalin/biosemiotics/tree/93d8824ddd46bc1424356282658bf29b3184ba85)
 on June 17, 2024.
 </em></small>
 
@@ -133,7 +133,7 @@ Sin embargo, como veremos, un examen más detallado de la biosemiótica muestra 
 El problema con esta denominación, además de su carácter polisémico, es que no especifica de manera precisa cuál es la relación que se plantea entre biología y semiótica, ni nos permite tampoco anticipar la naturaleza de los cambios a nivel teórico que la adopción de la biosemiótica demanda ni para la biología ni para la semiótica.
 En vista de esto, lo más conveniente para ponderar la contribución particular que la biosemiótica puede hacer a la biología será examinar en primer lugar sus propuestas teóricas, en segundo lugar, su papel como incorporaciones a la red teórica (o las redes teóricas) de la biología contemporánea, para, finalmente, considerar su carácter inter- o transdisciplinario, esperando que esta cuestión sea iluminada a su vez por las dos consideraciones previas a nivel metateórico.
 
-[^1]: El concepto de transdisciplina fue propuesto originalmente por Piaget [@https://jrp.icaap.org/index.php/jrp/article/view/510/412] y fue desarrollado por Morin [@isbn:978-2-213-01151-6] y por Nicolescu [@isbn:978-2-268-02208-6] como una ambiciosa propuesta metateórica (o meta-metateórica), y por Gibbons, Limoges, Nowotny, Schwartzman, Scott & Trow [@isbn:9781446265871] como una propuesta también metateórica pero más enfocada en las condiciones actuales de producción del conocimiento.
+[^1]: El concepto de transdisciplina fue propuesto originalmente por Piaget [@http://zotero.org/users/2261/items/4L28IAIU] y fue desarrollado por Morin [@isbn:978-2-213-01151-6] y por Nicolescu [@isbn:978-2-268-02208-6] como una ambiciosa propuesta metateórica (o meta-metateórica), y por Gibbons, Limoges, Nowotny, Schwartzman, Scott & Trow [@isbn:9781446265871] como una propuesta también metateórica pero más enfocada en las condiciones actuales de producción del conocimiento.
 
 
 ## ¿Qué es lo que propone la biosemiótica?
@@ -159,7 +159,7 @@ De acuerdo con esta categorización, todo sistema vivo estaría conformado por u
 La relación entre una enzima y su sustrato, esto es, las interacciones electroquímicas entre estas moléculas, así como la incidencia mecánica de un pico o una garra sobre un material, ya sea de origen biótico o abiótico, forman parte de esa naturaleza analógica.
 En cambio, otro tipo de relaciones o procesos serían, de acuerdo con esta tesis, de naturaleza digital y giran en torno al establecimiento de códigos biológicos, esto es, de relaciones con un cierto grado de convencionalidad y que requeriría otras formas de explicación, distintas a las empleadas para dar cuenta de la parte analógica.
 
-Aunque Stjernfelt señala que, estrictamente hablando, sólamente podríamos hablar de códigos en el ámbito digital y que, por lo tanto, el término de "dualidad de código" sería inadecuado [@https://www.ceeol.com/search/article-detail?id=275603, 10], la dualidad a la que se refiere esta tesis constituye una parte medular de distintas propuestas al interior de la biosemiótica.
+Aunque Stjernfelt señala que, estrictamente hablando, sólamente podríamos hablar de códigos en el ámbito digital y que, por lo tanto, el término de "dualidad de código" sería inadecuado [@http://zotero.org/users/2261/items/XDU7REYW, 10], la dualidad a la que se refiere esta tesis constituye una parte medular de distintas propuestas al interior de la biosemiótica.
 En particular, en el caso de Uexküll (y quizás también de von Baer [@doi:10.1007/s12304-024-09569-8]) la dimensión digital estaría expresada en términos del plan de organización (o *Bauplan*), más que de un código genético.
 Sin embargo, el rol teórico de la distinción sería el mismo en tanto que permite formular un tipo de explicación que se distingue de la forma en que explicamos de manera común ĺos procesos pertenecientes a la dimensión analógica de los sistemas biológicos.
 
