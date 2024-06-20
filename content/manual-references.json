@@ -140,5 +140,28 @@
 		]
 	    ]
 	}
+    },
+    {
+	"id": "http://zotero.org/users/2261/items/QJ54Z63G",
+	"type": "article-journal",
+	"container-title": "Diánoia",
+	"issue": "27",
+	"page": "186-206",
+	"source": "132.248.184.84:8991 Library Catalog",
+	"title": "Las explicaciones teleológicas y el modelo nomológico-deductivo",
+	"volume": "27",
+	"author": [
+	    {
+		"family": "Ponce",
+		"given": "Margarita"
+	    }
+	],
+	"issued": {
+	    "date-parts": [
+		[
+		    "1981"
+		]
+	    ]
+	}
     }
 ]
