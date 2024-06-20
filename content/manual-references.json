@@ -83,5 +83,62 @@
 		]
 	    ]
 	}
+    },
+    {
+	"id": "http://zotero.org/users/2261/items/IERESFSQ",
+	"type": "chapter",
+	"container-title": "Semiosis. Evolution. Energy: Towards a Reconceptualization of the Sign",
+	"event-place": "Aachen",
+	"page": "53-70",
+	"publisher": "Shaker",
+	"publisher-place": "Aachen",
+	"source": "Google Scholar",
+	"title": "Umwelt and evolution: from Uexküll to post-Darwinism",
+	"title-short": "Umwelt and evolution",
+	"author": [
+	    {
+		"family": "Kull",
+		"given": "Kalevi"
+	    }
+	],
+	"editor": [
+	    {
+		"family": "Taborsky",
+		"given": "E."
+	    }
+	],
+	"issued": {
+	    "date-parts": [
+		[
+		    "1999"
+		]
+	    ]
+	}
+    },
+    {
+	"id": "http://zotero.org/users/2261/items/M6X8S295",
+	"type": "thesis",
+	"abstract": "EN ESTE TRABAJO SE REVISA EL PROBLEMA DE LA RELACIÓN ENTRE EXPLICACIONES CAUSALES Y EXPLICACIONES FUNCIONALES EN LA BIOLOGÍA EVOLUTIVA CON LA INTENCIÓN DE OFRECER UN ANÁLISIS NATURALISTA DE LAS EXPLICACIONES TELEOLÓGICAS EN LAS CIENCIAS BIOLÓGICAS. PARA HACER ESTO SE EXAMINAN LAS PRINCIPALES PROPUESTAS NATURALIZACIÓN DE LA NOCIONES TELEOLÓGICAS O FUNCIONALES QUE SE HAN PROPUESTO EN LA FILOSOFÍA DE LA CIENCIA Y EN LA FILOSOFÍA DE LA BIOLOGÍA DURANTE LOS ÚLTIMOS 40 AÑOS Y SE ELABORA UN DIAGNÓSTICO DE ESAS PROPUESTAS QUE ENFATIZA LA RELACIÓN ENTRE FUNCIÓN Y VALORACIÓN. POSTERIORMENTE SE EXAMINA LA TESIS SOBRE LA ASIMILACIÓN DE LA TELEOLOGÍA EN LA BIOLOGÍA EVOLUTIVA A TRAVÉS DE LA NOCIÓN DE FUNCIÓN COMO EFECTO SELECCIONADO, CONCLUYENDO ESTE EXAMEN DE FORMA NEGATIVA, PERO ENFATIZANDO LA IMBRICACIÓN DE UNA DIMENSIÓN AXIOLÓGICA DENTRO DEL TRATAMIENTO CIENTÍFICO DE LA ADAPTACIÓN. FINALMENTE, SE OFRECE UN NUEVO ANÁLISIS DEL CONCEPTO DE FUNCIÓN QUE ESTABLECE CUÁL ES LA RELACIÓN ENTRE EXPLICACIONES CAUSALES Y EXPLICACIONES FUNCIONALES Y QUE PERMITE ADEMÁS ENTENDER CÓMO AMBAS PERSPECTIVAS EXPLICATIVAS SE INTEGRAN EN LAS EXPLICACIONES ADAPTATIVAS DE LA BIOLOGÍA EVOLUTIVA CONTEMPORÁNEA.",
+	"event-place": "Ciudad de México, México",
+	"genre": "Doctorado",
+	"language": "es",
+	"number-of-pages": "166",
+	"publisher": "Universidad Nacional Autónoma de México",
+	"publisher-place": "Ciudad de México, México",
+	"title": "El valor de la vida :finalidad y causalidad en las explicaciones de la biología evolutiva contemporánea",
+	"title-short": "El valor de la vida",
+	"author": [
+	    {
+		"family": "Suárez Pascal",
+		"given": "C. David"
+	    }
+	],
+	"issued": {
+	    "date-parts": [
+		[
+		    "2015"
+		]
+	    ]
+	}
     }
 ]
