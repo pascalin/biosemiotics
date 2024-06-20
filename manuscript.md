@@ -25,8 +25,8 @@ header-includes: |
   <meta name="dc.date" content="2024-06-20" />
   <meta name="citation_publication_date" content="2024-06-20" />
   <meta property="article:published_time" content="2024-06-20" />
-  <meta name="dc.modified" content="2024-06-20T05:52:27+00:00" />
-  <meta property="article:modified_time" content="2024-06-20T05:52:27+00:00" />
+  <meta name="dc.modified" content="2024-06-20T05:57:51+00:00" />
+  <meta property="article:modified_time" content="2024-06-20T05:57:51+00:00" />
   <meta name="dc.language" content="es" />
   <meta name="citation_language" content="es" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -43,9 +43,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://pascalin.github.io/biosemiotics/" />
   <meta name="citation_pdf_url" content="https://pascalin.github.io/biosemiotics/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://pascalin.github.io/biosemiotics/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://pascalin.github.io/biosemiotics/v/ca099e202c21cc20b2af86830138bce9df53b9e2/" />
-  <meta name="manubot_html_url_versioned" content="https://pascalin.github.io/biosemiotics/v/ca099e202c21cc20b2af86830138bce9df53b9e2/" />
-  <meta name="manubot_pdf_url_versioned" content="https://pascalin.github.io/biosemiotics/v/ca099e202c21cc20b2af86830138bce9df53b9e2/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://pascalin.github.io/biosemiotics/v/ef0037bad2fe7a5c59770e94c6b79a9a0db9e923/" />
+  <meta name="manubot_html_url_versioned" content="https://pascalin.github.io/biosemiotics/v/ef0037bad2fe7a5c59770e94c6b79a9a0db9e923/" />
+  <meta name="manubot_pdf_url_versioned" content="https://pascalin.github.io/biosemiotics/v/ef0037bad2fe7a5c59770e94c6b79a9a0db9e923/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -67,9 +67,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://pascalin.github.io/biosemiotics/v/ca099e202c21cc20b2af86830138bce9df53b9e2/))
+([permalink](https://pascalin.github.io/biosemiotics/v/ef0037bad2fe7a5c59770e94c6b79a9a0db9e923/))
 was automatically generated
-from [pascalin/biosemiotics@ca099e2](https://github.com/pascalin/biosemiotics/tree/ca099e202c21cc20b2af86830138bce9df53b9e2)
+from [pascalin/biosemiotics@ef0037b](https://github.com/pascalin/biosemiotics/tree/ef0037bad2fe7a5c59770e94c6b79a9a0db9e923)
 on June 20, 2024.
 </em></small>
 
@@ -387,7 +387,7 @@ En particular, como sugiere Uexküll, la clave de este fenómeno podría estar e
 A diferencia de áreas como la genética, la embriología y la biología evolutiva, tanto la fisiología como la ecología se enfocan de manera prepoderante en las interacciones analógicas, aunque frecuentemente se les aborda desde el punto de vista de otras ciencias como la física, la química, la geología, la geografía, etc.
 Si bien tales perspectivas no carecen de importancia, de la misma manera que la consideración de la genética como una genuina teoría biológica de la interpretación puede producir avances importantes, la consideración de la fisiología y de la ecología desde el punto de vista de su relación con la organización no solamente podría producir perspectivas novedosas, sino que podría además ser crucial para resolver el problema de la evolución de esos esquemas organizativos, del origen de nuevas especies y, ¿por qué no?, de nuevos sistemas ecológicos; todos ellos problemas sumamente relevantes para comprender y enfrentar las crisis a las que nos enfrentamos actualmente en relación con el cambio climático.
 
-[^4]: Aunque esta crítica podría parecer reminiscente de ciertas posturas anti-darwinistas que surgieron particularmente durante la segunda mitad del siglo XIX y a principios del siglo XX, hay varios autores que se han topado con problemas análogos en relación con el análisis filosófico del concepto de función biológica [@https://dialnet.unirioja.es/servlet/articulo?codigo=2315981; @doi:10.22201/iifs.18704913e.1984.30.771; @isbn:968-36-0067-0; @https://www.pdcnet.org/theoria/content/theoria_2013_0028_0001_0097_0114; @http://zotero.org/users/2261/items/M6X8S295] y en relación con la reconstrucción de las propuestas originales de Darwin en relación con la operación de la selección natural [@10.1387/theoria.490; @doi:10.15304/ag.31.2.1055].
+[^4]: Aunque esta crítica podría parecer reminiscente de ciertas posturas anti-darwinistas que surgieron particularmente durante la segunda mitad del siglo XIX y a principios del siglo XX, hay varios autores que se han topado con problemas análogos en relación con el análisis filosófico del concepto de función biológica [@http://zotero.org/users/2261/items/QJ54Z63G; @doi:10.22201/iifs.18704913e.1984.30.771; @isbn:968-36-0067-0; @https://www.pdcnet.org/theoria/content/theoria_2013_0028_0001_0097_0114; @http://zotero.org/users/2261/items/M6X8S295] y en relación con la reconstrucción de las propuestas originales de Darwin en relación con la operación de la selección natural [@10.1387/theoria.490; @doi:10.15304/ag.31.2.1055].
 
 
 ## Conclusiones
