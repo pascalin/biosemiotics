@@ -1,5 +1,5 @@
 ---
-title: La biosemiótica, una nueva teoría biológica
+title: La biosemiótica como teoría biológica
 keywords:
 - biosemiótica
 - teorías biológicas
@@ -18,15 +18,15 @@ header-includes: |
   -->
   <meta name="dc.format" content="text/html" />
   <meta property="og:type" content="article" />
-  <meta name="dc.title" content="La biosemiótica, una nueva teoría biológica" />
-  <meta name="citation_title" content="La biosemiótica, una nueva teoría biológica" />
-  <meta property="og:title" content="La biosemiótica, una nueva teoría biológica" />
-  <meta property="twitter:title" content="La biosemiótica, una nueva teoría biológica" />
+  <meta name="dc.title" content="La biosemiótica como teoría biológica" />
+  <meta name="citation_title" content="La biosemiótica como teoría biológica" />
+  <meta property="og:title" content="La biosemiótica como teoría biológica" />
+  <meta property="twitter:title" content="La biosemiótica como teoría biológica" />
   <meta name="dc.date" content="2024-06-22" />
   <meta name="citation_publication_date" content="2024-06-22" />
   <meta property="article:published_time" content="2024-06-22" />
-  <meta name="dc.modified" content="2024-06-22T01:33:59+00:00" />
-  <meta property="article:modified_time" content="2024-06-22T01:33:59+00:00" />
+  <meta name="dc.modified" content="2024-06-22T04:13:42+00:00" />
+  <meta property="article:modified_time" content="2024-06-22T04:13:42+00:00" />
   <meta name="dc.language" content="es" />
   <meta name="citation_language" content="es" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -43,9 +43,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://pascalin.github.io/biosemiotics/" />
   <meta name="citation_pdf_url" content="https://pascalin.github.io/biosemiotics/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://pascalin.github.io/biosemiotics/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://pascalin.github.io/biosemiotics/v/ba1688535ffca781e7e970f086ec1bb49e475d0b/" />
-  <meta name="manubot_html_url_versioned" content="https://pascalin.github.io/biosemiotics/v/ba1688535ffca781e7e970f086ec1bb49e475d0b/" />
-  <meta name="manubot_pdf_url_versioned" content="https://pascalin.github.io/biosemiotics/v/ba1688535ffca781e7e970f086ec1bb49e475d0b/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://pascalin.github.io/biosemiotics/v/c2b92be2d983715c5a747fc0096e3d309618c3fd/" />
+  <meta name="manubot_html_url_versioned" content="https://pascalin.github.io/biosemiotics/v/c2b92be2d983715c5a747fc0096e3d309618c3fd/" />
+  <meta name="manubot_pdf_url_versioned" content="https://pascalin.github.io/biosemiotics/v/c2b92be2d983715c5a747fc0096e3d309618c3fd/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -67,9 +67,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://pascalin.github.io/biosemiotics/v/ba1688535ffca781e7e970f086ec1bb49e475d0b/))
+([permalink](https://pascalin.github.io/biosemiotics/v/c2b92be2d983715c5a747fc0096e3d309618c3fd/))
 was automatically generated
-from [pascalin/biosemiotics@ba16885](https://github.com/pascalin/biosemiotics/tree/ba1688535ffca781e7e970f086ec1bb49e475d0b)
+from [pascalin/biosemiotics@c2b92be](https://github.com/pascalin/biosemiotics/tree/c2b92be2d983715c5a747fc0096e3d309618c3fd)
 on June 22, 2024.
 </em></small>
 
@@ -106,14 +106,21 @@ C. David Suárez Pascal \<david.suarez@ciencias.unam-mx\>.
 
 ## Resumen {.page_break_before}
 
-La biosemiótica contemporánea presenta un carácter polifacético, o plural, para expresarlo en términos más actuales.
+La biosemiótica contemporánea presenta un carácter multifacético, o plural, para expresarlo en términos más actuales.
 Al tratarse de un campo inter- o incluso transdisciplinario, tiene sentido plantearse la pregunta con respecto a la relación que mantiene con la biología.
 Tanto desde el punto de vista teórico, como desde el histórico o incluso del sociológico, esta pregunta resulta interesante.
 Aun más, dadas tanto su naturaleza peculiar en términos disciplinarios, como algunas de las tesis que sostiene, es necesario considerar si la bio*semiótica* es una nueva teoría biológica, propiamente dicha, si se trata más bien de una aplicación de la semiótica a la biología (algo similar a disciplinas como la bio*física*, la bio*química*, la bio*estadística*, etc.), o si es una propuesta filosófica más que científica.
 Para responder a algunas de estas preguntas, este trabajo se centrará principalmente en el aspecto teórico a fin de analizar dos tesis centrales de la biosemiótica (la dualidad de código y la interpretación orgánica), las implicaciones de su irrupción para la biología contemporánea y su relación con otras teorías biológicas.
+Como se argumenta en este trabajo, si bien la biosemiótica, entendida en sentido amplio, tiene conexiones importantes con otras disciplinas más allá de la biología, tal como la semiótica y la filosofía, en términos estrictos se trata de una nueva teoría biológica que articula una manera original de aproximarse a los seres vivos y a los procesos en que estos participan.
 
 ## Abstract
 
+Contemporary biosemiotics is multi-faceted, or plural, to employ a more current term.
+Since it has been depicted as an inter- or even a transdisciplinary field, it is very relevant to examine the relationship it has with biology.
+This issue is interesting both from a theoretical, a historical, or a sociological perspective.
+Based on this unclarity regarding its disciplinary status, and the contrived character of some theses which have been related to it, it is necessary to analyze whether bio*semiotics* is, properly speaking, a new biological theory, an application of semiotics to biology (something similar to other disciplines such as bio*physics*, bio*chemistry*, bio*statistics*, etc.), or rather a philosophical proposal.
+To answer some of this questions, this paper focuses mainly on theoretical issues to analyze two central biosemiotic theses (code-duality and organic interpretation), its consequences for today's biology, and their relationships with other biological theories.
+As argued here, even though biosemiotics, construed in broad terms, has important connections with disciplines beyond biology, such as semiotics and philosophy, strictly speaking, it is indeed a new biological theory, which articulates an original approach to living beings and to the processes which involve them.
 
 
 ## Introducción {.page_break_before}
@@ -203,7 +210,7 @@ De hecho, como señalaremos más adelante, Polanyi acepta la posibilidad de grad
 
 <!-- ### Interpretación fisiológica -->
 
-Una segunda tesis, defendida de manera implícita o explícita por múltiples proponentes en la biosemiótica, es la tesis de la causalidad semiótica, aunque, como veremos, un mejor nombre podría ser el de interpretación orgánica, para evitar ciertos conflictos relacionados con la idea de causalidad.
+Una segunda tesis, defendida de manera implícita o explícita por múltiples proponentes en la biosemiótica, es la tesis de la interpretación orgánica (como la hemos titulado aquí).
 De manera sucinta, Hoffmeyer la resume como una tesis según la cual existen procesos orgánicos de interpretación que serían causalmente eficaces en los seres vivos [@isbn:978-1-58966-169-1, xiv].
 Aunque esta tesis requiere para su esclarecimiento de un análisis más profundo del que podemos emprender en este trabajo, a grandes rasgos lo que afirma, en su sentido más débil, es la legitimidad de explicaciones que consideren el estado del organismo bajo estudio como uno de sus componentes esenciales.
 En su sentido más fuerte, la tesis de la interpretación orgánica afirma la irrelevancia casi absoluta de las propiedades físico-químicas de un estímulo en la explicación del comportamiento de un sistema vivo.

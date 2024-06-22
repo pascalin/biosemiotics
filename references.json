@@ -765,13 +765,13 @@
     "id": "107ubuTL4",
     "type": "book",
     "abstract": "\"By some dismissed as the last of the anti-Darwinians, his fame as a rigorous biologist even tainted by an alleged link to National Socialist ideology, it is undeniable that Jakob von Uexküll (1864-1944) was eagerly read by many philosophers across the spectrum of philosophical schools, from Scheler to Merleau-Ponty and Deleuze, from Heidegger to Blumenberg and Agamben. What has then allowed his name to survive the misery of history as well as the usually fatal gap between science and humanities? This collection of essays attempts for the first time to make justice of Uexküll's theoretical impact on Western culture. By highlighting his importance for philosophy, the book aims to contribute to the general interpretation of the relationship between biology and philosophy in the last century and explore the often neglected connection between continental philosophy and the sciences of life. Thanks to the exploration of Uexküll's conceptual legacy, the origins of cybernetics, the overcoming of metaphysical dualisms, and a refined understanding of organisms appear variedly interconnected. Uexküll's background and his relevance in current debates are thoroughly examined as to appeal to undergraduate and postgraduate students, as well as postdoctoral researchers in fields such as history of the life sciences, philosophy of biology, critical animal studies, philosophical anthropology, biosemiotics and biopolitics\"--",
-    "call-number": "QH331",
+    "call-number": "QH331 .J35 2020",
     "collection-title": "History and philosophy of biology",
-    "event-place": "Milton Park, Abingdon, Oxon ; New York, NY",
-    "ISBN": "9780429279096",
-    "number-of-pages": "1",
-    "publisher": "Routledge/Taylor & Francis Group",
-    "publisher-place": "Milton Park, Abingdon, Oxon ; New York, NY",
+    "event-place": "London ; New York, NY",
+    "ISBN": "9780367232733",
+    "number-of-pages": "266",
+    "publisher": "Routledge",
+    "publisher-place": "London ; New York, NY",
     "source": "Library of Congress ISBN",
     "title": "Jakob von Uexküll and philosophy: life, environments, anthropology",
     "title-short": "Jakob von Uexküll and philosophy",
@@ -1198,27 +1198,13 @@
   {
     "id": "iWTyQl69",
     "type": "book",
-    "collection-number": "9",
-    "collection-title": "Biosemiotics",
-    "event-place": "Dordrecht",
+    "event-place": "New York, NY",
     "ISBN": "9789401796873",
-    "language": "eng",
-    "number-of-pages": "249",
-    "publisher": "Springer",
-    "publisher-place": "Dordrecht",
-    "source": "K10plus ISBN",
-    "title": "Jakob von Uexküll: the discovery of the umwelt between biosemiotics and theoretical biology",
-    "title-short": "Jakob von Uexküll",
-    "author": [
-      {
-        "family": "Brentari",
-        "given": "Carlo"
-      },
-      {
-        "family": "Brentari",
-        "given": "Carlo"
-      }
-    ],
+    "publisher": "Springer Berlin Heidelberg",
+    "publisher-place": "New York, NY",
+    "source": "Library of Congress ISBN",
+    "title": "Jakob von Uexkull: the discovery of the umwelt between biosemiotics and theoretical biology",
+    "title-short": "Jakob von Uexkull",
     "issued": {
       "date-parts": [
         [
@@ -1415,7 +1401,7 @@
         [
           "2024",
           6,
-          21
+          22
         ]
       ]
     },
@@ -1451,7 +1437,7 @@
         [
           "2024",
           6,
-          21
+          22
         ]
       ]
     },
@@ -1490,7 +1476,7 @@
         [
           "2024",
           6,
-          21
+          22
         ]
       ]
     },
