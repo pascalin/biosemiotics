@@ -25,8 +25,8 @@ header-includes: |
   <meta name="dc.date" content="2024-06-22" />
   <meta name="citation_publication_date" content="2024-06-22" />
   <meta property="article:published_time" content="2024-06-22" />
-  <meta name="dc.modified" content="2024-06-22T23:35:10+00:00" />
-  <meta property="article:modified_time" content="2024-06-22T23:35:10+00:00" />
+  <meta name="dc.modified" content="2024-06-22T23:40:06+00:00" />
+  <meta property="article:modified_time" content="2024-06-22T23:40:06+00:00" />
   <meta name="dc.language" content="es" />
   <meta name="citation_language" content="es" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -43,9 +43,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://pascalin.github.io/biosemiotics/" />
   <meta name="citation_pdf_url" content="https://pascalin.github.io/biosemiotics/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://pascalin.github.io/biosemiotics/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://pascalin.github.io/biosemiotics/v/700c15dc25ef4d66a99337985c12e41b5e68a642/" />
-  <meta name="manubot_html_url_versioned" content="https://pascalin.github.io/biosemiotics/v/700c15dc25ef4d66a99337985c12e41b5e68a642/" />
-  <meta name="manubot_pdf_url_versioned" content="https://pascalin.github.io/biosemiotics/v/700c15dc25ef4d66a99337985c12e41b5e68a642/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://pascalin.github.io/biosemiotics/v/ee968e1c9a3ecb338cc9793dfaf4fa5e8cd22831/" />
+  <meta name="manubot_html_url_versioned" content="https://pascalin.github.io/biosemiotics/v/ee968e1c9a3ecb338cc9793dfaf4fa5e8cd22831/" />
+  <meta name="manubot_pdf_url_versioned" content="https://pascalin.github.io/biosemiotics/v/ee968e1c9a3ecb338cc9793dfaf4fa5e8cd22831/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -67,9 +67,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://pascalin.github.io/biosemiotics/v/700c15dc25ef4d66a99337985c12e41b5e68a642/))
+([permalink](https://pascalin.github.io/biosemiotics/v/ee968e1c9a3ecb338cc9793dfaf4fa5e8cd22831/))
 was automatically generated
-from [pascalin/biosemiotics@700c15d](https://github.com/pascalin/biosemiotics/tree/700c15dc25ef4d66a99337985c12e41b5e68a642)
+from [pascalin/biosemiotics@ee968e1](https://github.com/pascalin/biosemiotics/tree/ee968e1c9a3ecb338cc9793dfaf4fa5e8cd22831)
 on June 22, 2024.
 </em></small>
 
@@ -143,7 +143,7 @@ En el primer caso se encuentran disciplinas como la biofísica, la bioquímica, 
 Como ejemplo del segundo caso tenemos algunos campos de fenómenos, tales como el origen de la vida [@isbn:0-486-60213-3], las grandes transiciones evolutivas [@isbn:978-0-19-850294-4], o incluso aquello que se ha denominado vida artificial [@isbn:978-0-262-62112-0] y vida sintética, pues aunque cada una de estas áreas se relaciona de manera cercana con temas que competen a la investigación biológica, tanto la complejidad de estos problemas como las herramientas empleadas para abodarlos hacen que su estudio se distinga (y en algunos casos se separe radicalmente) de la biología entendida en su sentido más convencional.
 
 Algo similar ocurre con respecto a la biosemiótica, dado que se trata de un campo que combina elementos tanto de la biología como de un área de las humanidades cercana a la lingüística o incluso a la filosofía.
-Sin embargo, como veremos, un examen más detallado de la biosemiótica muestra que más que una mera aplicación de la semiótica a la biología (o viceversa), las tesis defendidas por ésta requieren una reconceptualización de ambos campos, por lo que es comprensible que se le haya descrito como una transdisciplina [^1], más que como una interdisciplina [@isbn:978-1-58966-169-1, XVI].
+Sin embargo, como veremos, un examen más detallado de la biosemiótica muestra que más que una mera aplicación de la semiótica a la biología (o viceversa), las tesis defendidas por ésta requieren una reconceptualización de ambos campos, por lo que es comprensible que se le haya descrito como una transdisciplina [^2], más que como una interdisciplina [@isbn:978-1-58966-169-1, XVI].
 El problema con esta denominación, además de su carácter polisémico, es que no especifica de manera precisa cuál es la relación que se plantea entre biología y semiótica, ni nos permite tampoco anticipar la naturaleza de los cambios a nivel teórico que la adopción de la biosemiótica demanda ni para la biología ni para la semiótica.
 En vista de esto, lo más conveniente para ponderar la contribución particular que la biosemiótica puede hacer a la biología será examinar en primer lugar sus propuestas teóricas, en segundo lugar, su papel como incorporaciones a la red teórica (o las redes teóricas) de la biología contemporánea, para, finalmente, considerar su carácter inter- o transdisciplinario, esperando que esta cuestión sea iluminada a su vez por las dos consideraciones previas a nivel metateórico.
 
