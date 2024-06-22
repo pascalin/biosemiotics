@@ -25,8 +25,8 @@ header-includes: |
   <meta name="dc.date" content="2024-06-22" />
   <meta name="citation_publication_date" content="2024-06-22" />
   <meta property="article:published_time" content="2024-06-22" />
-  <meta name="dc.modified" content="2024-06-22T01:21:23+00:00" />
-  <meta property="article:modified_time" content="2024-06-22T01:21:23+00:00" />
+  <meta name="dc.modified" content="2024-06-22T01:33:59+00:00" />
+  <meta property="article:modified_time" content="2024-06-22T01:33:59+00:00" />
   <meta name="dc.language" content="es" />
   <meta name="citation_language" content="es" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -43,9 +43,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://pascalin.github.io/biosemiotics/" />
   <meta name="citation_pdf_url" content="https://pascalin.github.io/biosemiotics/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://pascalin.github.io/biosemiotics/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://pascalin.github.io/biosemiotics/v/9e677c7a8f39941e555ee50c24a417604f8ab208/" />
-  <meta name="manubot_html_url_versioned" content="https://pascalin.github.io/biosemiotics/v/9e677c7a8f39941e555ee50c24a417604f8ab208/" />
-  <meta name="manubot_pdf_url_versioned" content="https://pascalin.github.io/biosemiotics/v/9e677c7a8f39941e555ee50c24a417604f8ab208/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://pascalin.github.io/biosemiotics/v/ba1688535ffca781e7e970f086ec1bb49e475d0b/" />
+  <meta name="manubot_html_url_versioned" content="https://pascalin.github.io/biosemiotics/v/ba1688535ffca781e7e970f086ec1bb49e475d0b/" />
+  <meta name="manubot_pdf_url_versioned" content="https://pascalin.github.io/biosemiotics/v/ba1688535ffca781e7e970f086ec1bb49e475d0b/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -67,9 +67,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://pascalin.github.io/biosemiotics/v/9e677c7a8f39941e555ee50c24a417604f8ab208/))
+([permalink](https://pascalin.github.io/biosemiotics/v/ba1688535ffca781e7e970f086ec1bb49e475d0b/))
 was automatically generated
-from [pascalin/biosemiotics@9e677c7](https://github.com/pascalin/biosemiotics/tree/9e677c7a8f39941e555ee50c24a417604f8ab208)
+from [pascalin/biosemiotics@ba16885](https://github.com/pascalin/biosemiotics/tree/ba1688535ffca781e7e970f086ec1bb49e475d0b)
 on June 22, 2024.
 </em></small>
 
@@ -158,7 +158,7 @@ Así, Hoffmeyer señala explícitamente su intención de reemplazar la creencia 
 De acuerdo con esta modificación propuesta por Hoffmeyer, para la biosemiótica "la vida está compuesta por moléculas, que se manifiestan a sí mismas como signos" [@isbn:978-1-58966-169-1, 15].
 
 Al contrario de lo que parecería sugerir el lenguaje empleado ocasionalmente por autores como los mencionados, la biosemiótica no es una propuesta estrictamente filosófica ni tampoco conlleva simplemente una reinterpretación o reformulación del conocimiento biológico empleando la terminología de la semiótica, sino que también hace propuestas teóricas propias cuyo examen es esencial para esclarecer la relación que plantea tanto entre la biología y la semiótica como con otras teorías biológicas.
-Entre esas propuestas teóricas dos que resaltan y que examinaremos a continuación son la *dualidad de código* y la *causalidad semiótica*, aunque considero que un mejor nombre para la segunda tesis podría ser el de interpretación orgánica.
+Entre esas propuestas teóricas dos que resaltan y que examinaremos a continuación son la *dualidad de código* y la *causalidad semiótica*, aunque, como propuse previamente [@doi:10.1007/s10838-021-09552-8, 9-10], considero que un mejor nombre para la segunda tesis podría ser el de interpretación orgánica.
 
 <!-- ### Dualidad de código -->
 
@@ -370,7 +370,7 @@ En segundo lugar, algo que está esbozado en la propuesta de Hoffmeyer, pero que
 Así mismo, es en función de esa codificación analógica que se da la relación entre distintas especies, de tal manera que, en concordancia con lo que señala Uexküll, la telaraña que teje una araña es una codificación analógica de la mosca o de aquellas presas que le sirven como alimento.
 Como sugiere Uexküll, esa codificación analógica es el patrón que guía la generación de la forma en cada especie [@doi:10.1515/semi.1982.42.1.25, 65--68]; y podríamos aventurar, siguiendo esta observación de Uexküll, que es precisamente la interacción analógica la que serviría de semilla para la construcción de nuevos planes de organización.
 Este asunto parece pasar desapercibido para Hoffmeyer, quizás debido a su aceptación de una separación, al estilo de Weismann, entre ambas formas de codificación.
-Sin embargo, aun cuando actualmente desconocemos cómo es que esto puede ocurrir, se trataría, como señalamos más adelante, de una vía promisoria planteada a partir de la biosemiótica y cuyas ramificaciones teóricas valdría la pena explorar.
+Sin embargo, aun cuando actualmente desconocemos cómo es que esto puede ocurrir, postulo que se trata de una de las vías más promisorias que se pueden plantear a partir de la biosemiótica y cuyas ramificaciones teóricas valdría la pena explorar.
 
 Autores como Hoffmeyer y Kull [@http://zotero.org/users/2261/items/IERESFSQ; @https://www.pdcnet.org/signsystems/content/signsystems_2004_0032_40910_0099_0114; @doi:10.1111/bij.12124] han señalado ciertas concordancias entre las tesis de la biosemiótica y algunas propuestas recientes en la biología evolutiva, tales como la construcción de nicho, la idea de herencia extendida, la teoría de los sistemas en desarrollo, etc., y, ciertamente, la vinculación entre estas teorías y la biosemiótica podría producir un enriquecimiento mutuo.
 De hecho, algunas de estas teorías recuperan elementos que ya estaban presentes en autores como Uexküll, tal como es el caso de algunas propuestas de Richard Lewontin, quien, tras examinar la relación entre los organismos, la genética y el ambiente afirma, entre otras cosas, que son los organismos los que seleccionan su ambiente y no al revés, lo cual tiene resonancias notables con las propuestas de Uexküll [@isbn:978-0-674-00159-6; @doi:10.7551/mitpress/3824.003.0002].
