@@ -163,5 +163,33 @@
 		]
 	    ]
 	}
+    },
+    {
+	"id": "http://zotero.org/users/2261/items/LNTGLU7K",
+	"type": "book",
+	"event-place": "München",
+	"number-of-pages": "252",
+	"publisher": "L. Lehnen",
+	"publisher-place": "München",
+	"source": "PhilPapers",
+	"title": "Von Ursprung und Grenzen der Geisteswissenschaften und Naturwissenschaften",
+	"author": [
+	    {
+		"family": "Grassi",
+		"given": "Ernesto"
+	    },
+	    {
+		"family": "Uexküll",
+		"given": "Thure",
+		"dropping-particle": "von"
+	    }
+	],
+	"issued": {
+	    "date-parts": [
+		[
+		    "1950"
+		]
+	    ]
+	}
     }
 ]
