@@ -1,5 +1,5 @@
 ---
-title: La biosemiótica como biología teórica
+title: La biosemiótica, una nueva teoría biológica
 keywords:
 - biosemiótica
 - teorías biológicas
@@ -8,7 +8,7 @@ keywords:
 - genética
 - evolución
 lang: es
-date-meta: '2024-06-20'
+date-meta: '2024-06-22'
 author-meta:
 - C. David Suárez Pascal
 header-includes: |
@@ -18,15 +18,15 @@ header-includes: |
   -->
   <meta name="dc.format" content="text/html" />
   <meta property="og:type" content="article" />
-  <meta name="dc.title" content="La biosemiótica como biología teórica" />
-  <meta name="citation_title" content="La biosemiótica como biología teórica" />
-  <meta property="og:title" content="La biosemiótica como biología teórica" />
-  <meta property="twitter:title" content="La biosemiótica como biología teórica" />
-  <meta name="dc.date" content="2024-06-20" />
-  <meta name="citation_publication_date" content="2024-06-20" />
-  <meta property="article:published_time" content="2024-06-20" />
-  <meta name="dc.modified" content="2024-06-20T05:57:51+00:00" />
-  <meta property="article:modified_time" content="2024-06-20T05:57:51+00:00" />
+  <meta name="dc.title" content="La biosemiótica, una nueva teoría biológica" />
+  <meta name="citation_title" content="La biosemiótica, una nueva teoría biológica" />
+  <meta property="og:title" content="La biosemiótica, una nueva teoría biológica" />
+  <meta property="twitter:title" content="La biosemiótica, una nueva teoría biológica" />
+  <meta name="dc.date" content="2024-06-22" />
+  <meta name="citation_publication_date" content="2024-06-22" />
+  <meta property="article:published_time" content="2024-06-22" />
+  <meta name="dc.modified" content="2024-06-22T01:21:23+00:00" />
+  <meta property="article:modified_time" content="2024-06-22T01:21:23+00:00" />
   <meta name="dc.language" content="es" />
   <meta name="citation_language" content="es" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -43,9 +43,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://pascalin.github.io/biosemiotics/" />
   <meta name="citation_pdf_url" content="https://pascalin.github.io/biosemiotics/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://pascalin.github.io/biosemiotics/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://pascalin.github.io/biosemiotics/v/ef0037bad2fe7a5c59770e94c6b79a9a0db9e923/" />
-  <meta name="manubot_html_url_versioned" content="https://pascalin.github.io/biosemiotics/v/ef0037bad2fe7a5c59770e94c6b79a9a0db9e923/" />
-  <meta name="manubot_pdf_url_versioned" content="https://pascalin.github.io/biosemiotics/v/ef0037bad2fe7a5c59770e94c6b79a9a0db9e923/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://pascalin.github.io/biosemiotics/v/9e677c7a8f39941e555ee50c24a417604f8ab208/" />
+  <meta name="manubot_html_url_versioned" content="https://pascalin.github.io/biosemiotics/v/9e677c7a8f39941e555ee50c24a417604f8ab208/" />
+  <meta name="manubot_pdf_url_versioned" content="https://pascalin.github.io/biosemiotics/v/9e677c7a8f39941e555ee50c24a417604f8ab208/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -67,10 +67,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://pascalin.github.io/biosemiotics/v/ef0037bad2fe7a5c59770e94c6b79a9a0db9e923/))
+([permalink](https://pascalin.github.io/biosemiotics/v/9e677c7a8f39941e555ee50c24a417604f8ab208/))
 was automatically generated
-from [pascalin/biosemiotics@ef0037b](https://github.com/pascalin/biosemiotics/tree/ef0037bad2fe7a5c59770e94c6b79a9a0db9e923)
-on June 20, 2024.
+from [pascalin/biosemiotics@9e677c7](https://github.com/pascalin/biosemiotics/tree/9e677c7a8f39941e555ee50c24a417604f8ab208)
+on June 22, 2024.
 </em></small>
 
 
@@ -390,9 +390,38 @@ Si bien tales perspectivas no carecen de importancia, de la misma manera que la 
 [^4]: Aunque esta crítica podría parecer reminiscente de ciertas posturas anti-darwinistas que surgieron particularmente durante la segunda mitad del siglo XIX y a principios del siglo XX, hay varios autores que se han topado con problemas análogos en relación con el análisis filosófico del concepto de función biológica [@http://zotero.org/users/2261/items/QJ54Z63G; @doi:10.22201/iifs.18704913e.1984.30.771; @isbn:968-36-0067-0; @https://www.pdcnet.org/theoria/content/theoria_2013_0028_0001_0097_0114; @http://zotero.org/users/2261/items/M6X8S295] y en relación con la reconstrucción de las propuestas originales de Darwin en relación con la operación de la selección natural [@10.1387/theoria.490; @doi:10.15304/ag.31.2.1055].
 
 
+## ¿Interdisciplina, transdisciplina o nueva disciplina biológica?
+
+Al principio de este trabajo se mencionó que la biosemiótica ha sido descrita como una transdisciplina por algunos autores, mientras que su nombre, parecido al de otras áreas como la biofísica, la bioestadística, la biotecnología o la bioética, podría llevarnos a considerarla como una interdisciplina.
+Si bien las interdisciplinas forman una parte esencial del panorama contemporáneo de cualquier ciencia, a la cual contribuyen ampliando su rango de aplicación y enriqueciendo sus metodologías de investigación, se suele nombrar de esta manera a aquellos ámbitos en los que se encuentras dos disciplinas maduras, con metodologías y marcos teóricos bien definidos y en los que se abordan de manera conjunta problemas particulares.
+Ejemplos claros de estas áreas son la biofísica, que consiste en la aplicación de la física a problemas biológicos, la bioquímica, que igualmente aborda el estudio de la química de los sistemas biológicos, y la biotecnología, que se enfoca en el desarrollo de soluciones tecnológicas a partir del conocimiento biológico.
+
+En cambio, aquello que se ha argumentado en este trabajo es que la biosemiótica incluye tesis estrictamente biológicas, que propone un nuevo modelo para los seres vivos, el cual enriquece el panorama teórico de la biología contemporánea al abordar la relación entre los seres vivos y su organización, y que se propone explicar, entre otras cosas, tanto la existencia de códigos biológicos, como la relación entre esos códigos y los más distintos fenómenos biológicos.
+Como se ha señalado aquí, las propuestas que hace la biosemiótica con respecto a los seres vivos tienen impacto sobre otras teorías biológicas existentes, tales como la genética y la evolución, en donde plantean nuevas soluciones a problemas existentes, a la vez que abren nuevas vías de investigación.
+De la misma manera, con respecto a otras áreas de la biología, tales como la biología comparada, la ecología o la fisiología, la biosemiótica introduce una nueva perspectiva que puede dar lugar, de ser explorada, a nuevas revelaciones con respecto a los sistemas biológicos.
+
+En conjunto, la consideración de todos estos aspectos debería ser suficiente para aceptar que más que una interdisciplina, la biosemiótica constituye una nueva teoría biológica, con sus propios conceptos teóricos, tales como los elaborados por Uexküll, Adolf Portmann, Hoffmeyer, etc., y con conceptos observacionales (o T-no teóricos, empleando la nomenclatura del estructuralismo metateórico [@isbn:978-94-010-8176-4]) que provienen de distintas áreas de la biología, de la física y de la química, particularmente.
+Tal conjunción entre conceptos teóricos y observacionales permite establecer relaciones interteóricas entre la biosemiótica y otras áreas de la biología, tales como aquellas que han sido exploradas aquí de manera informal, así como formular propuestas de explicación con respecto a los más distintos fenómenos biológicos e incluso formular tanto predicciones como retrodicciones que podrán tener mayor o menor éxito en función de los datos disponibles.
+
+Ahora bien, si las propuestas de la biosemiótica que se han analizado en este trabajo entran en el terreno de la biología actual y podrían formar la base de una nueva disciplina biológica, tiene caso que nos preguntemos tanto con respecto a la relación de esta nueva disciplina con la semiótica, como con respecto al término de transdisciplina, que como ya se ha señalado, ha sido aplicado en ocasiones a este campo.
+Aunque ambas cuestiones tienen, por supuesto, un componente histórico, que se relaciona con el desarrollo de esta disciplina, en este trabajo nos hemos enfocado mucho más en los aspectos sincrónicos, por lo que la respuesta que intentaremos ofrecer aquí se enfocará mucho más en la situación actual de la biosemiótica que en otros aspectos.
+Así, lo que podríamos apuntar con respecto a la primera cuestión es que, como ya señalabamos con respecto a la genética, el reconocimiento de la dualidad de código conlleva un reconocimiento de la existencia de códigos biológicos con un cierto grado de convencionalidad o arbitrariedad (desde el punto de vista físico-químico).
+De la misma manera, la tesis de la interpretación orgánica conlleva la aceptación de que el comportamiento de un sistema organizado no se explica adecuadamente en función de los procesos físicoquímicos que tienen lugar tanto al interior como al exterior del mismo, sino que para esto se requiere apelar a la organización particular del sistema.
+Una manera de reformular esto es que es explicación tiene que darse en función del significado para el sistema de aquellos factores que inciden sobre el mismo.
+
+Tanto el concepto de código, como el concepto de significado, si bien se vinculan con aspectos específicos de la construcción teórica de la biosemiótica, también tienen su contraparte en relación con otras disciplinas tales como la lingüistica, la semiología, la semiótica, las ciencias de la computación y la epistemología.
+Si bien históricamente hablando la relación interdisciplinaria más fuerte se ha establecido entre la biosemiótica y la semiótica o semeótica propuesta por Charles Peirce [@isbn:978-0-8078-1992-0; @isbn:978-0-511-27285-1], esto no quiere decir que las propuestas teóricas de la biosemiótica dependan, en términos estrictos, de ella, ni mucho menos de las otras disciplinas mencionadas.
+De la misma manera en que se han señalado aquí ciertas conexiones entre la biosemiótica y la teoría evolutiva, entre la semiótica de Peirce y la biosemiótica se pueden establecer también vínculos muy interesantes, aunque tanto el ámbito de aplicación como la metodología de las dos propuestas es distinto.
+
+Por otro lado, la cuestión de la categoría de transdisciplina y su posible aplicación a la biosemiótica nos lleva a considerar un aspecto de la biosemiótica que no ha sido mencionado hasta ahora pero que sí ha ocupado a diversos autores tales como Thüre von Uexküll (el hijo de Jakob) [@http://zotero.org/users/2261/items/LNTGLU7K], Wendy Wheeler [@isbn:978-1-905007-30-1], Thomas Sebeok y Hoffmeyer, entre otros, quienes se plantean la posibilidad de que la biosemiótica pueda servir a manera de puente entre las ciencias y las humanidades.
+De manera relacionada, también se ha planteado que la biosemiótica podría servir como vía media para proyectos de naturalización de distintas nociones de interés filosófico particular como la teleología, la creatividad y la idea misma de conocimiento [@doi:10.1007/s12304-017-9297-4; @doi:10.1007/s10838-021-09552-8].
+Esta misma idea parecería ser la que está detrás de algunos esfuerzos por vincular la biosemiótica con ciertos ámbitos de las ciencias de la comunicación, de las ciencias cognitivas, e incluso de las ciencias de la computación, pues, en efecto, la manera en que la biosemiótica reconstruye las relaciones que se establecen tanto entre los organismos y su entorno como entre distintas especies es muy cercana a la idea de comunicación.
+De manera complementaria, el papel que se le otorga a la acción y a la organización en la explicación de los procesos biológicos configura una noción de información mucho más rica que la proporcionada por la teoría matemática de la información, por lo que bien puede ser adoptada como modelo en otras disciplinas.
+
+
 ## Conclusiones
 
-Ya hace más de medio siglo Ernst Mayr creía estar en posesión de la respuesta a la pregunta sobre dónde sí y dónde no era legítimo hablar de propósito y de concordancia a un propósito en la naturaleza.
+Hace ya más de medio siglo Ernst Mayr creía estar en posesión de la respuesta a la pregunta sobre dónde sí y dónde no era legítimo hablar de propósito y de intencionalidad (*purposefulness*) en la naturaleza.
 Su respuesta, como es más o menos bien conocido, recaía en la idea de programa informático [@doi:10.1126/science.134.3489.1501, 1503].
 Todo sistema programado puede actuar en concordancia con un propósito.
 
