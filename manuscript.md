@@ -8,7 +8,7 @@ keywords:
 - genética
 - evolución
 lang: es
-date-meta: '2024-06-22'
+date-meta: '2024-06-25'
 author-meta:
 - C. David Suárez Pascal
 header-includes: |
@@ -22,11 +22,11 @@ header-includes: |
   <meta name="citation_title" content="La biosemiótica como teoría biológica" />
   <meta property="og:title" content="La biosemiótica como teoría biológica" />
   <meta property="twitter:title" content="La biosemiótica como teoría biológica" />
-  <meta name="dc.date" content="2024-06-22" />
-  <meta name="citation_publication_date" content="2024-06-22" />
-  <meta property="article:published_time" content="2024-06-22" />
-  <meta name="dc.modified" content="2024-06-22T23:50:57+00:00" />
-  <meta property="article:modified_time" content="2024-06-22T23:50:57+00:00" />
+  <meta name="dc.date" content="2024-06-25" />
+  <meta name="citation_publication_date" content="2024-06-25" />
+  <meta property="article:published_time" content="2024-06-25" />
+  <meta name="dc.modified" content="2024-06-25T18:23:55+00:00" />
+  <meta property="article:modified_time" content="2024-06-25T18:23:55+00:00" />
   <meta name="dc.language" content="es" />
   <meta name="citation_language" content="es" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -43,9 +43,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://pascalin.github.io/biosemiotics/" />
   <meta name="citation_pdf_url" content="https://pascalin.github.io/biosemiotics/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://pascalin.github.io/biosemiotics/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://pascalin.github.io/biosemiotics/v/113ceffe5d46427ea0d265d5c97da801fd40f5ff/" />
-  <meta name="manubot_html_url_versioned" content="https://pascalin.github.io/biosemiotics/v/113ceffe5d46427ea0d265d5c97da801fd40f5ff/" />
-  <meta name="manubot_pdf_url_versioned" content="https://pascalin.github.io/biosemiotics/v/113ceffe5d46427ea0d265d5c97da801fd40f5ff/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://pascalin.github.io/biosemiotics/v/1f2ccb7945dfe1dd72b493325481c44aaf4a0e88/" />
+  <meta name="manubot_html_url_versioned" content="https://pascalin.github.io/biosemiotics/v/1f2ccb7945dfe1dd72b493325481c44aaf4a0e88/" />
+  <meta name="manubot_pdf_url_versioned" content="https://pascalin.github.io/biosemiotics/v/1f2ccb7945dfe1dd72b493325481c44aaf4a0e88/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -67,10 +67,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://pascalin.github.io/biosemiotics/v/113ceffe5d46427ea0d265d5c97da801fd40f5ff/))
+([permalink](https://pascalin.github.io/biosemiotics/v/1f2ccb7945dfe1dd72b493325481c44aaf4a0e88/))
 was automatically generated
-from [pascalin/biosemiotics@113ceff](https://github.com/pascalin/biosemiotics/tree/113ceffe5d46427ea0d265d5c97da801fd40f5ff)
-on June 22, 2024.
+from [pascalin/biosemiotics@1f2ccb7](https://github.com/pascalin/biosemiotics/tree/1f2ccb7945dfe1dd72b493325481c44aaf4a0e88)
+on June 25, 2024.
 </em></small>
 
 
